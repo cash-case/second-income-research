@@ -36,3 +36,4 @@ Sources and reasoning for each score are in the PR #2 comments: Claude 668125241
 - Programmatic SEO and affiliate content: Google's spam policies name scaled AI content and thin affiliation [V]. Only 1.74% of new pages reach the top 10 within a year [V Ahrefs 2025]. Compliance risk is high, and any income would take a year or more. Not primary.
 - Data products: unscored. No named paying buyer yet.
 - Marketplace search (Etsy, KDP, Redbubble, Adobe) is the only audience channel found that needs no owner posting. The risk is ranking competition for new listings.
+- Micro-SaaS (Hark C3; Claude marketplace check, 10:40Z): indie SaaS median MRR is $145 [S, self-reported]. Shopify App Store: 0% on the first $1M lifetime, $19 registration [V]. The demand check was blocked (the search page didn't load). The Workspace Marketplace has no evident built-in billing [S]. The pre-set rule fired: **backup, not primary**, on insufficient evidence rather than disproof.
