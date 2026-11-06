@@ -67,6 +67,6 @@ Columns follow Instinct's spec. Every candidate assumes a catalog of many small 
 
 ### Read [A]
 - Every one of these keeps Cash's recurring load near zero after one-time setup. That's the hands-off shape the brief needs.
-- None shows evidence of $5k a month for a new entrant. Adobe Stock earns roughly $0.33–$1+ per download against a flooded supply. Merch now pays organic-only sellers less. KDP pays about $3.15 a copy.
+- None shows evidence of $5k a month for a new entrant. Adobe Stock pays per download depending on the buyer's plan, from a $0.33 minimum on large subscriptions up to about $3.30 [V contributor.stock.adobe.com/royalties, via Instinct], against a flooded supply. Merch now pays organic-only sellers less. KDP pays about $3.15 a copy.
 - The honest combined picture is a catalog spread across 2–3 of these channels. That's a slow-build, small-but-durable income stream, not a $5k engine, unless BSR and download checks show more demand than we can see now.
 - [T] The cheapest decisive test is still the KDP BSR hand-check on 10 log books, about 15 minutes, with no account needed.
