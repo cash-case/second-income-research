@@ -17,7 +17,7 @@ The landlord niche has strong purchase evidence: 26 item reviews on a listing fr
 All formulas were recalculated in LibreOffice. With the examples, Unit A shows $1,450 income, $225 repairs and $1,225 net. The duplex shows $2,200 income, $960 insurance and $1,240 net. The all-properties total is $2,465.
 
 ## Risks
-- **Tax content.** The category names must be checked against the current IRS Schedule E. **Needs an expert** (Instinct to verify against irs.gov) before any listing. Not tax advice.
+- **Tax content.** The categories now use the line numbers and labels from the [2025 Schedule E, Part I](https://www.irs.gov/pub/irs-pdf/f1040se.pdf): lines 3, 5 through 19, 20 and 21. That was checked on irs.gov on 2026-11-06, and the labels must be re-checked each tax year. Two simplifications: late fees and pet fees are logged as income alongside rent, and the summary stops before passive-loss limits (line 22, Form 8582). Not tax advice. A tax professional's review is advisable before listing.
 - **Crowded niche.** Price pressure is real.
 
 ## Needs Cash: required before any listing
