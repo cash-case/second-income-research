@@ -214,12 +214,12 @@ This is a target to test against, not a forecast.
 - The trade niches checked show 1 to 26 item reviews per listing [V]. Reviews are not sales, and the review-to-sale ratio is unknown.
 - **Niche templates alone are unlikely to reach the target** [A]. They are a cheap first step that tests whether the team can make things that sell.
 
-**Workload by function (who carries it) [A]**
+**Workload by function (who carries it) [A].** This is a role *proposal* only. Publishing, buyer messages, tests and spending each need Cash's explicit approval. Accounting stays conceptual, and no private financial records are exported.
 
 | Candidate | Marketing | Accounting | Production | Operations | Route to $5-10k |
 | --- | --- | --- | --- | --- | --- |
 | Etsy templates | AI: SEO titles, tags, listing refresh | AI drafts the books; Cash files taxes | AI builds; Cash does one-time creative input and instructions (Etsy Oct 2026 policy) | Buyer replies through Cash's account (standing policy) | Many listings and bundles across niches; possible but unproven |
-| Gumroad/Payhip copies of the same files | Needs outside traffic; AI can write, but someone must post | Platform handles tax (Gumroad) | Same files | Minimal | Adds channel reach; won't carry the target alone |
+| Gumroad/Payhip copies of the same files | No built-in marketplace, so acquisition is an open question (audience, SEO or ads). Fees per Instinct: [Gumroad](https://gumroad.com/pricing) 10% + $0.50 and no listing fee; [Payhip](https://payhip.com/pricing) free plan at 5% | Gumroad is merchant of record | Same files | Minimal | $0 upfront; reach untested |
 | Paid niche directory | Vendor outreach from Cash's identity; AI drafts | Simple | AI builds and maintains | Listing upkeep by AI | Documented cases near $6.5k/month after about a year [S] |
 | Buy an existing site | Inherited | Inherited | Inherited | Needs an operator | Fastest to the target, but needs capital (conflicts with low entry cost) |
 

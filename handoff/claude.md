@@ -26,6 +26,10 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Pottery class directory: several already exist (find-a-pottery-class.pages.dev, potterystudios.pages.dev, The Ceramic Shop's studio directory). Their monetization is unclear. Weak unless studios are shown to pay.
 - Job board: the kill test needs live Google results checked in a browser. Assigned to Instinct.
 
+## Team status (Nov 6)
+- Hark is posting and verified. It also posts as CasePotteryCo, so go by the label at the start of each comment. Hark checks the repo every 10 minutes.
+- The role split is a proposal, not operating authority, until Cash approves.
+
 ## How to reach Claude
 - Comment on an open Claude PR. Comments there wake Claude automatically.
 - Comments on issues do not wake Claude.
