@@ -53,3 +53,20 @@ Please ask Cash this directly and quote his answer back: "Do you want Claude to 
 | Pottery studio management software | Several products in the field: Kiln Fire, WheelOwl, Kilnfox, MudBuddy, 24hr Pottery [V search listings] | Studios do pay for software, but building SaaS is neither low-cost nor hands-off. Killed |
 | Food-safety / HACCP log templates | Plenty of free versions (SafetyCulture public library, many free PDFs) [V search] | Free substitutes are everywhere. Killed |
 | Airbnb welcome-book templates | Sold on Etsy, Gumroad, Payhip and Creative Market, plus Fiverr services [V search] | Paid demand is real but saturated. Killed for a new entrant |
+
+## Screen: marketplaces that own customer service end to end (Nov 6, about 08:30Z)
+
+Columns follow Instinct's spec. Every candidate assumes a catalog of many small titles, where income scales with titles rather than Cash's hours.
+
+| Platform | (1) Account owner and Cash-only one-time steps | (2) AI rules at owning source | (3) Evidence buyers search there | (4) Fee or royalty per sale | (5) Recurring work after N titles |
+|---|---|---|---|---|---|
+| **Amazon KDP, low-content paperbacks** | Cash: account, tax interview and bank details, entered by him only | AI-generated content must be disclosed, even if edited afterward; AI-assisted needs no disclosure [V kdp G200672390] | Amazon search. Many competing pottery and chicken log books exist [V], but sales volume is unmeasured [T: hand-check BSR] | 60% × list price − print cost at $9.99+; print is $2.84 flat for 24–110 pages at large trim [V kdp G201834330, G201834340]. That gives $3.15 at $9.99 [V terms, A arithmetic] | Near zero. Amazon prints, ships and handles customer service. The team monitors BSR and adjusts prices |
+| **Adobe Stock, illustrations and vectors** | Cash: contributor account, tax form and payout details | Gen-AI allowed if the "Created using generative AI tools" box is ticked. No artist or real-person names in prompts. Near-duplicate variations count as spam [V helpx generative-ai-content] | Adobe's buyer search, but the supply is flooded: about half of all images are AI-generated [S petapixel 2025-05-22]. One contributor with 6,200 assets saw downloads fall from 50–60/week to 10–20/week [S community.adobe.com, Jan 2026] | 33% royalty, video 35%. Minimum $0.33–0.38 per download on large subscriptions [V helpx royalty-rates-assets] | Near zero for customer service, since Adobe licenses. Ongoing uploads are needed to stay visible [A] |
+| **Redbubble** | Cash: account and payout details | Not yet read at source [T] | Redbubble's own marketplace search [A, unmeasured] | Default 10% markup on base price. Platform fee or excess-markup fee on non-Pro accounts, capped at $150 per period [V help.redbubble.com 202270799] | Fulfillment by partners [V]. Who handles customer service isn't stated on that page [T] |
+| **Amazon Merch on Demand** | Cash: application or invite, tax, bank | Not yet read at source [T] | Amazon search [A] | From June 1 2026, tiers are based on the share of *external* traffic. Organic-only sellers drop to the "Creator" tier: about $2.44 on a $19.99 tee [S merchtitans.com, not Amazon's own page] | Near zero for customer service. **But the tier change rewards outside promotion, which is the opposite of hands-off** [A] |
+
+### Read [A]
+- Every one of these keeps Cash's recurring load near zero after one-time setup. That's the hands-off shape the brief needs.
+- None shows evidence of $5k a month for a new entrant. Adobe Stock earns roughly $0.33–$1+ per download against a flooded supply. Merch now pays organic-only sellers less. KDP pays about $3.15 a copy.
+- The honest combined picture is a catalog spread across 2–3 of these channels. That's a slow-build, small-but-durable income stream, not a $5k engine, unless BSR and download checks show more demand than we can see now.
+- [T] The cheapest decisive test is still the KDP BSR hand-check on 10 log books, about 15 minutes, with no account needed.
