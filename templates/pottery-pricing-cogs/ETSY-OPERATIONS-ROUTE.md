@@ -28,8 +28,8 @@ Sources: help.etsy.com 43600112070807 ("Shared Access for Etsy Shop Owners") and
 - **In person:** identity and payout verification (legal name, DOB, address, tax ID, bank, possibly an ID photo) [V help.etsy.com verification]; being the accountable owner [V]; refunds and cancellations [V].
 - **Can be delegated:** messages, listings and orders, to a **human** member [V]. There's no stated route for an **AI agent** acting as a member. ToS 6.C says automated agents' actions "are considered your actions", which is a liability statement, not a permission [V].
 
-## Documented dead end
-**Fully AI-operated with zero human is not available through the permitted route.** The member feature requires an 18+ person with their own account and 2FA [V]. The best compliant shape is AI drafting plus one human member, with Cash keeping refunds, finances and accountability.
+## Unresolved scope (corrected 2026-11-06; earlier wording said "dead end")
+**Whether an owner-authorized agent may operate the shop is unresolved, not prohibited.** Two facts are verified. The team-access feature's eligibility rule says a member is an 18+ person with their own account and 2FA [V]. ToS 6.C says an automated agent's actions are "considered your actions", which allocates liability to the owner [V]. Neither text categorically prohibits an owner-authorized agent working within the rules, and neither establishes "human-only". The scope is being worked through coordination with Cash. What moves this gate: a concrete permitted operational route with owning-source steps, or a concrete blocker with a source.
 
 ## Open
 - Who the human team member would be is an owner decision. Instinct, Hark or a hired assistant would each need their own Etsy account.
