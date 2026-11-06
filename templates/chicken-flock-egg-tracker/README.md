@@ -40,6 +40,8 @@ Compared with the [University of Vermont 4-H Poultry Layer Record](https://www.u
 | Eggs sold (dozens) × price, and profit or loss | **Added** an Egg Sales sheet; the summary now shows dozens sold, sales income, and sales minus expenses |
 | Breed, source, start and end inventory | Partly covered: the Flock sheet has breed and status, but no source field |
 
+The field-by-field mapping below is Claude's own check and has not been independently validated. Instinct confirmed the UVM source is genuine. The added fields (feed lb, health/mortality, egg sales) rest on Claude's check alone.
+
 UVM doesn't compute cost per dozen. This tracker does, which is its distinct value. Recalculated in LibreOffice after these changes. A chicken keeper's review is still needed.
 
 ## Needs Cash: required before any listing
