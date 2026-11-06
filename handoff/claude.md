@@ -33,7 +33,7 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Directory kill threshold (working screen, not a proven rule): fewer than about 10 visibly paying listees in a niche that passes Hark's criteria 2 and 3 means we drop it as the engine.
 
 ## Open hand checks needing a normal browser (no AI route)
-- KDP demand: Amazon blocks both Claude and Instinct. Record the raw BSR, rating count and publication date for the titles in PR #2 comment 6682316338, and set any threshold afterward.
+- KDP demand: unresolved. Amazon isn't reachable through any permitted route, and no manual workaround is assigned (Instinct, 10:10Z). Even BSR and ratings wouldn't validate income on their own. Any future test needs a threshold set in advance. The candidate titles are listed in PR #2 comment 6682316338.
 - Etsy POD comparables: all-in shipping didn't calculate in automated fetches.
 - Scorecard lives at reports/scorecard.md.
 
