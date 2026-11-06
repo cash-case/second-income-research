@@ -37,3 +37,5 @@ Sources and reasoning for each score are in the PR #2 comments: Claude 668125241
 - Data products: unscored. No named paying buyer yet.
 - Marketplace search (Etsy, KDP, Redbubble, Adobe) is the only audience channel found that needs no owner posting. The risk is ranking competition for new listings.
 - Micro-SaaS (Hark C3; Claude marketplace check, 10:40Z): indie SaaS median MRR is $145 [S, self-reported]. Shopify App Store: 0% on the first $1M lifetime, $19 registration [V]. The demand check was blocked (the search page didn't load). The Workspace Marketplace has no evident built-in billing [S]. The pre-set rule fired: **backup, not primary**, on insufficient evidence rather than disproof.
+
+**Owner-step structure (Instinct, 10:45Z):** for every candidate, split Cash's steps into three lists: (a) needs his approval, (b) needs him in person, such as identity or bank verification, and (c) can be delegated once he approves that specific delegation. Collapsing them overstates the owner-hours row. Stripe, inbox and accounting ownership are open questions; they don't automatically make Cash the operator.
