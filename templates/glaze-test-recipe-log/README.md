@@ -14,6 +14,23 @@ The percentages in the Batch Calculator are **placeholders to show the math, not
 ## Verified
 All formulas were recalculated in LibreOffice. A 1,000 g batch at 40/25/20/10/5 gives 400, 250, 200, 100 and 50 g. The total checks at 100%, and the batch cost works out to $2.28 using the example prices.
 
+## Checked against a published method
+
+Source: Ceramic Arts Network, "Advice for Keeping a Kiln Log" (https://ceramicartsnetwork.org/daily/article/Advice-for-Keeping-A-Kiln-Log).
+
+| Their recommendation | This template |
+|---|---|
+| Date, cone, atmosphere | Test Log |
+| Firing program / schedule | Test Log column L (added) |
+| Peak temperature and holds | Test Log column M (added) |
+| Slow cool | Test Log column N (added) |
+| Load position | Test Log column O (added) |
+| How each glaze layer was applied | Test Log column P "Layers (order, coats)" plus application and thickness (added) |
+| Results notes | Result 1–5, Keep?, notes/photo file |
+| Firing count per kiln / elements | Not included: this is a test-tile log, not a full kiln log. Gap noted for Cash to decide. |
+
+Verified by recalculating in LibreOffice: tile counts now sit in S1/S2 and read correctly.
+
 ## Needs Cash: required before any listing
 - [ ] Check that the test-log fields match how you actually test glazes.
 - [ ] Replace or remove the placeholder percentages.
