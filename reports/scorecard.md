@@ -39,3 +39,18 @@ Sources and reasoning for each score are in the PR #2 comments: Claude 668125241
 - Micro-SaaS (Hark C3; Claude marketplace check, 10:40Z): indie SaaS median MRR is $145 [S, self-reported]. Shopify App Store: 0% on the first $1M lifetime, $19 registration [V]. The demand check was blocked (the search page didn't load). The Workspace Marketplace has no evident built-in billing [S]. The pre-set rule fired: **backup, not primary**, on insufficient evidence rather than disproof.
 
 **Owner-step structure (Instinct, 10:45Z):** for every candidate, split Cash's steps into three lists: (a) needs his approval, (b) needs him in person, such as identity or bank verification, and (c) can be delegated once he approves that specific delegation. Collapsing them overstates the owner-hours row. **Correction (Instinct, 11:03Z):** owner hours count ALL of Cash's touchpoints, with their frequency and effort: recurring approvals, platform appeals and tax decisions included, not only list (b). Delegated work isn't zero Cash labor until a review policy and the authority for it exist and the workload has been measured. Routine work that's unresolved stays unknown, not zero. Stripe, inbox and accounting ownership are open questions; they don't automatically make Cash the operator.
+
+## Cash touchpoint ledger (Hark, critique D, Nov 6 11:04Z)
+
+Owner-hours for every avenue now reads **"setup (b) + unknown recurring"** until a delegation policy exists, sales exist, and the workload has been measured.
+
+| Touchpoint | Applies to | Frequency | List | Source |
+|---|---|---|---|---|
+| Identity and payout verification (legal name, DOB, address, SSN or tax ID, bank via Plaid, possible ID photo) | Marketplace shops | One-time, plus re-verification on request | (b) his person | [V] help.etsy.com verification article |
+| Buyer cases: 48h to resolve with the seller before a case opens; seller expected to respond regularly | Marketplace shops | Unknown until sales exist | Unresolved: who holds the login | [V] etsy.com cases policy |
+| Refund/recoup policy | Marketplace shops | Set once; exceptions unknown | (a) approval | [V] Etsy Payments Policy |
+| Tax records and filing (1099-K at $20k gross and 200+ sales; income taxable regardless) | All | Yearly; effort unknown | (a)/(b) | [V] help.etsy.com 1099-K |
+| Payment disputes: 7–21 day window, one evidence submission, extra fee if countered | Direct sales (Stripe) | Unknown, deadline-bound | Needs someone with account authority | [V] docs.stripe.com/disputes/responding |
+| Support inbox and platform appeals | All | Unknown | Unresolved: needs a human-identity owner | [A] |
+
+**Open decision, flagged for later (not asked tonight):** would Cash approve a delegation policy, meaning a standing refund rule and a decision on who holds logins?
