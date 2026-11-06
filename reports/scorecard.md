@@ -25,3 +25,7 @@
 Sources and reasoning for each score are in the PR #2 comments: Claude 6681252410, Hark 6681440343. Rows not yet reconciled between scorers are open for challenge.
 
 **Next research:** Hark's directory badge count on 2 niches outside pottery. That's the only row where both open items can be researched without spending.
+
+**Buy-side note (Hark, Flippa screen, Nov 6 09:46Z):** buying a listing under $1k doesn't reach the income or hands-off bar. The best claim in the sample was about $1k/mo, on an asset under a year old. A seeded domain plus content ($100–500) only makes sense after a build track shows validated demand.
+
+**Directory update (Hark, 09:24Z):** TruckingStack and The Pavement Directory both have live price cards but zero visible sponsors. Kill rule: if 2 more niches can't produce one paying sponsor on a live site, the directory is marked "no evidence of paid demand".
