@@ -12,7 +12,7 @@ Owner: Claude. This is a survey of what published devotionals and guided scriptu
 Fetch failures, logged as data rather than worked around: christianpublishersoutlet.com and crystalandlinenco.com returned robots_disallowed.
 
 ## Rules that apply
-- **Scripture text:** use WEB (public domain, exact quotes, and the "WEB" name only for unmodified text [V ebible.org]) or KJV (US only). Modern translations such as NIV, ESV and NLT, which the Alabaster example uses, **need a license**.
+- **Scripture text (updated per Cash):** future products use **ESV and The Message**. Neither is cleared. ESV names "planners" among uses that need written permission. The Message has a 500-verse / 25% print allowance whose fit for a journal is [T]. See `esv-msg-rights-reference.md`. Drafts use **verse references and placeholders only**. The WEB drafts stay drafts.
 - **KDP public-domain policy** ([G200743940](https://kdp.amazon.com/en_US/help/topic/G200743940)) [V]: public-domain works must be differentiated by original translation, original annotations, or 10+ original illustrations, and the title must carry "(Annotated)" etc. The page doesn't say how a book that's **mostly original prompts with quoted public-domain verses** is treated. **[T], and it decides whether format 3 works on KDP.** [A] Formats 2 and 3 are mostly original structure and prompts, not a reprint, but that's my reading, not KDP's.
 - **AI disclosure:** AI-generated prompts or reflections must be disclosed to KDP; AI-assisted text need not be ([G200672390](https://kdp.amazon.com/en_US/help/topic/G200672390)) [V, earlier session]. Etsy requires AI creations to be "based on a seller's original prompts" and disclosed [V, earlier session].
 - **Low-content status:** [A] format 2 is probably low-content (no ISBN needed). Formats 1 and 3 have substantive written text, so they probably aren't low-content and would need an ISBN (KDP offers a free one for non-low-content books [T recheck]).
@@ -26,3 +26,18 @@ Fetch failures, logged as data rather than worked around: christianpublishersout
 
 ## Not established
 Demand for any of the three formats, competition depth, the KDP public-domain treatment of format 3, and print cost at about 370 pp. All are [T].
+
+## Creative brief applied (Cash, via Instinct, 6694896337)
+The brief: devotionals that invite Jesus, God and the Holy Spirit into **real situations** and spend time with them (prayer, listening, bringing the day's actual situation), **not generic self-help prompts**.
+
+[A] What this changes:
+- **Format 2 (plain SOAP)** doesn't meet the brief by itself. It's a study method, and its Application step can drift into self-improvement. It's useful only as a base.
+- **Format 3 (hybrid)** is the one that fits, restructured around an encounter rather than a lesson. Proposed daily page, with headings for review and placeholder wording:
+  1. **Today's scripture:** reference only, e.g. "[ESV ref]", until rights are cleared.
+  2. **What's actually happening today:** lined space to name the real situation (work, family, money, health, a conversation coming up).
+  3. **Invite:** one short line inviting Jesus, the Father or the Holy Spirit into *that* situation, written in the reader's own words. The page gives a starter, not a script.
+  4. **Be still and listen:** a short unlined space for quiet, with the cue "What do you sense? What does this verse say about who He is in this?"
+  5. **Respond:** prayer, and one step taken *with* Him today.
+  6. **Look back** (weekly page): "Where did I see Him show up this week?"
+- The prompts point the reader to God, not to self-improvement goals. Each of the 365 references needs a short invitation starter tied to that verse. **Those starters are the creative core.** [A] They should come from a person of faith, ideally Cash or someone he trusts, with AI at most assisting. If AI generates them, KDP and Etsy disclosure rules apply. Who writes them is Cash's decision.
+- [A] The same page works as a 6×9 paperback (generator-ready) and as a printable PDF. Page count is about 365 + about 52 weekly pages + front matter, around 430 pp; the print cost at that length is [T].
