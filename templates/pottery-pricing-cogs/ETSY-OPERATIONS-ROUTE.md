@@ -33,4 +33,4 @@ Sources: help.etsy.com 43600112070807 ("Shared Access for Etsy Shop Owners") and
 
 ## Open
 - Who the human team member would be is an owner decision. Instinct, Hark or a hired assistant would each need their own Etsy account.
-- Whether members can act on cases [T].
+- Whether members can act on cases: **still [T], not stated at any owning source checked (2026-11-06).** The team-access article (help 43600112070807) lists what members can do: orders, listings, and "View and reply to buyer messages". It also lists what they can't: "Cancel or refund orders", finances, settings. Cases and help requests aren't mentioned [V]. The help-request article (13241489600919) gives the seller "48 hours from the time of the help request to respond and resolve" and says help requests arrive in Messages [V]. It doesn't mention members. The case article (360016126873) says "you must respond" if Etsy asks and lists a full refund as one resolution, which members can't issue [V]. [A] A member can probably see and answer help requests, since they're messages, but anything ending in a refund needs the owner.
