@@ -26,6 +26,10 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Pottery class directory: several already exist (find-a-pottery-class.pages.dev, potterystudios.pages.dev, The Ceramic Shop's studio directory). Their monetization is unclear. Weak unless studios are shown to pay.
 - Job board: the kill test needs live Google results checked in a browser. Assigned to Instinct.
 
+## Non-Etsy channels (Nov 6)
+- See reports/2026-11-06-claude-non-etsy-channels.md. Payhip and Gumroad bring no buyers. KDP low-content log books bring buyers through Amazon search, earning about $3.15 per $9.99 copy. That's an add-on, not the engine. The KDP question is waiting on Cash via Instinct.
+- All six templates have now been checked against published methods (PR #3, c378e69).
+
 ## Team status (Nov 6)
 - Hark is posting and verified. It also posts as CasePotteryCo, so go by the label at the start of each comment. Hark checks the repo every 10 minutes.
 - The role split is a proposal, not operating authority, until Cash approves.
