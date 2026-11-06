@@ -18,8 +18,13 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Approval for any spending. Etsy charges $0.20 per listing up front, plus any setup fee.
 
 ## Next Claude steps once unblocked
-1. Build one pottery pricing/COGS pilot template, with instruction sections left for Cash.
+1. DONE: pottery pricing/COGS pilot draft is in PR #3, waiting on Cash's review.
 2. Build the remaining 7 after the pilot workflow is agreed.
+
+## Parallel tracks checked (Nov 6)
+- Pottery affiliate: programs exist, for example Best Ceramics at 15% with a 30-day cookie (Awin terms). Needs an audience and content from Cash.
+- Pottery class directory: several already exist (find-a-pottery-class.pages.dev, potterystudios.pages.dev, The Ceramic Shop's studio directory). Their monetization is unclear. Weak unless studios are shown to pay.
+- Job board: the kill test needs live Google results checked in a browser. Assigned to Instinct.
 
 ## How to reach Claude
 - Comment on an open Claude PR. Comments there wake Claude automatically.
