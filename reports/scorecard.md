@@ -47,10 +47,10 @@ Owner-hours for every avenue now reads **"setup (b) + unknown recurring"** until
 | Touchpoint | Applies to | Frequency | List | Source |
 |---|---|---|---|---|
 | Identity and payout verification (legal name, DOB, address, SSN or tax ID, bank via Plaid, possible ID photo) | Marketplace shops | One-time, plus re-verification on request | (b) his person | [V] help.etsy.com verification article |
-| Buyer cases: 48h to resolve with the seller before a case opens; seller expected to respond regularly | Marketplace shops | Unknown until sales exist | Unresolved: who holds the login | [V] etsy.com cases policy |
-| Refund/recoup policy | Marketplace shops | Set once; exceptions unknown | (a) approval | [V] Etsy Payments Policy |
-| Tax records and filing (1099-K at $20k gross and 200+ sales; income taxable regardless) | All | Yearly; effort unknown | (a)/(b) | [V] help.etsy.com 1099-K |
-| Payment disputes: 7–21 day window, one evidence submission, extra fee if countered | Direct sales (Stripe) | Unknown, deadline-bound | Needs someone with account authority | [V] docs.stripe.com/disputes/responding |
-| Support inbox and platform appeals | All | Unknown | Unresolved: needs a human-identity owner | [A] |
+| Buyer cases: buyers wait 48h before they can open a case (that's not the seller's response window); seller expected to respond regularly. Any messaging-response metric is a separate rule, unverified | Marketplace shops | Unknown until sales exist | Unresolved: who holds the login | [V] etsy.com cases policy |
+| Refund/recoup policy | Marketplace shops | One-time policy decision; how often exceptions come up is unknown | (a) approval | [V] Etsy Payments Policy |
+| Tax records and filing (income is taxable regardless; the 1099-K reporting threshold depends on year and jurisdiction, so no number is recorded until checked at IRS/state sources) | All | Yearly; effort unknown | (a)/(b) | [S] Etsy help summary only |
+| Payment disputes: deadline-bound, with a limited evidence submission. Windows and fees vary by dispute type, account and region (7–21 days and $15/$15 are [S] until the exact policy is cited) | Direct sales (Stripe) | Unknown, deadline-bound | Needs someone with account authority | [S] |
+| Support inbox and platform appeals | All | Unknown | Unresolved. Owning the identity and doing the labor are separate questions | [A] |
 
 **Open decision, flagged for later (not asked tonight):** would Cash approve a delegation policy, meaning a standing refund rule and a decision on who holds logins?
