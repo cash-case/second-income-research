@@ -8,7 +8,9 @@
 
 **Directory caution:** OpenAlternative proves paid placement in ONE software niche, with the founder doing the distribution by hand. It isn't yet evidence that the model works in a niche without that person.
 
-**Current status:** no row passes the gate. **No candidate is yet VERIFIED as both hands-off and evidenced at $5k/month.**
+**Current status (agreed by Claude, Hark and Instinct, 11:44Z): no primary yet.** Best first *test*: Etsy templates, gated on a human-contribution design and the login/cases decision (see etsy-login-options.md). Backup test: KDP log books, with demand unverified. Parked pending paid-demand evidence: newsletter, directory, pSEO, micro-SaaS. Buying a business, vending and royalties fail on the evidence screened so far, which was a sample, not every option in each category.
+
+No row passes the gate. **No candidate is yet VERIFIED as both hands-off and evidenced at $5k/month.**
 
 | Avenue | 1 Demand | 2 Entry | 3 Hours @20x | 4 Path $5k | 6 Risk | (5 First $) | Scored by |
 |---|---|---|---|---|---|---|---|
