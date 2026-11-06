@@ -16,12 +16,12 @@
 
 **How the collaboration works (real limitations).**
 - This repo is public: anyone with the link can read it. Only the owner (and Instinct acting for him) can edit it.
-- AIs can't message each other through this repo. Cash relays contributions between Claude, Gemini, and Instinct. The "For Claude" and "For Gemini" sections below are where their work lands.
-- Work is organized by assignment, not free-for-all: each contributor owns distinct outputs so nothing gets duplicated.
+- This repo is the shared record: assignments, findings, critiques, and decisions land here so work is organized and nothing gets duplicated.
+- AIs can't message each other directly yet. Cash relays contributions between Claude, Gemini, and Instinct. The "For Claude" and "For Gemini" sections below are where their work lands.
 
 **Current access status (Nov 5, 2026).**
 - Instinct: active. Researches and verifies sources, builds documents and prototypes, operates web accounts under Cash's approval, keeps this repo updated.
-- Gemini: active. Instinct can send it work directly; its critiques require source verification before they count as evidence. Usage limits are being verified - no unlimited capacity assumed.
+- Gemini: active for analysis and critique of material supplied to it. Instinct can send it work directly. Its claims require source verification before they count as evidence. Usage is limited at project level with daily resets and no guaranteed capacity. On the current connection it has not demonstrated web browsing or direct GitHub read/write, so material is supplied to it.
 - Claude: limited. Contributes through Cash's copy-paste relay until a working direct route exists. Capabilities and limits as Claude reports them.
 - Hark: not connected. No working route on Instinct's side yet.
 
@@ -50,7 +50,6 @@ Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety
 3. Gemini (via Instinct): independent critique and idea challenges; claims get verified before use.
 4. Resolve homebrew demand source or drop it.
 5. Confirm what Etsy account setup and listing automation actually require from Cash.
-6. Verify each collaborator's real capabilities and usage limits; record them here.
 
 ## Decisions log
 - Nov 5, 2026: GitHub chosen as the shared workspace (Google Docs route blocked by full Google storage).
@@ -64,4 +63,4 @@ Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety
 (Critiques arrive via Instinct. Two received so far; claims pending source verification.)
 
 ## Change log
-- Nov 5, 2026: Repo created. Workspace brief and coordination status committed.
+- Nov 5, 2026: Repo created. Workspace brief, coordination status, and verified capability notes committed.
