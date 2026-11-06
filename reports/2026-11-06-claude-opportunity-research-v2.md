@@ -42,7 +42,7 @@ The core finding is that **2026 Etsy is flooded with new AI-made spreadsheet lis
 | Listing | Price | Item reviews | Shop sales | Read |
 | --- | --- | --- | --- | --- |
 | [Landlord rental property spreadsheet](https://www.etsy.com/listing/1294366220/landlord-rental-property-spreadsheet) (QuickSheetCo) | $5.25 | 26 [V] | 7.1k [V] | Proven demand, crowded, price pressed down to about $5 |
-| [Chicken tracker & egg planner](https://www.etsy.com/listing/1838211272/chicken-tracker-egg-production-planner) (RareRootsProject) | $5.00 | 17 shown [V] | not shown | The README says 5 item reviews; the page reader saw 17 and may have counted shop reviews. **Needs a manual check.** The shop is on a break. |
+| [Chicken tracker & egg planner](https://www.etsy.com/listing/1838211272/chicken-tracker-egg-production-planner) (RareRootsProject) | $5.00 | 14 [V, hand-checked by Instinct] | not shown | My page reader showed 17 and the README said 5; Instinct's screenshot of the item-review section shows 14. Automated review counts in this table may be off by a few. The shop is on a break. |
 | [Glaze & firing record sheets](https://www.etsy.com/listing/1474749336) (FredsDen) | $1.26 | 8 [V] | 231 [V] | Potters do buy glaze and firing logs, but at printable prices |
 | [Goat/sheep management workbook](https://www.etsy.com/listing/4504767353) (ThriveMoore) | $17.99 | 1 [V] | 35 [V] | Thin, but a higher price point |
 | [Cattle record keeping + app](https://www.etsy.com/listing/4428368225) (Gogostyl) | $27.99 | 0 [V] | 98 [V] | Shop sells; this item doesn't yet |
@@ -67,12 +67,12 @@ Offsite Ads charge 15% on attributed sales; shops under $10k a year can opt out 
 ### Startup and ongoing costs [V unless marked]
 - $0.20 per listing, renewed every 4 months or after each sale.
 - 6.5% transaction fee.
-- US payment processing of about 3% + $0.25. That figure is secondary and still unconfirmed; the README notes Instinct is verifying it.
+- US payment processing of 3% + $0.25 ([Etsy Help](https://help.etsy.com/hc/en-us/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy), confirmed by Instinct).
 - A one-time shop setup fee "may be required"; Etsy's fee page states no amount.
 - No tools are needed beyond Google Sheets [A].
 
 ### Unit economics
-On a $15 sale: listing $0.20, transaction $0.98, processing about $0.70. Cash keeps about $13.10 [A arithmetic on the fees above], or about $10.85 if Offsite Ads attribute the sale. Marginal cost per extra copy is $0. No sales volume is assumed or predicted.
+On a $15 sale: listing $0.20, transaction $0.98, processing about $0.70. That leaves about $13.10 **contribution after listed platform fees, not net profit** [A arithmetic on the fees above], or about $10.85 if Offsite Ads attribute the sale. It excludes ads, taxes, refunds and any setup fee. Marginal cost per extra copy is $0. No sales volume is assumed or predicted.
 
 ### Recurring tasks
 - Answer buyer messages, about 1 to 2 per 10 sales [A].
@@ -85,9 +85,24 @@ AI can draft or do all of these except sending messages from Cash's account and 
 ### Who does what
 | Work | Who |
 | --- | --- |
-| Niche research, template build, instructions, preview images, listing copy, an AI-use disclosure in each listing ([Etsy rule](https://techcrunch.com/2024/07/09/etsy-new-seller-policy-2024-generative-ai)) | Claude or Instinct |
+| Niche research, template build, draft instructions, listing copy, an AI-use disclosure in each listing ([Etsy rule](https://techcrunch.com/2024/07/09/etsy-new-seller-policy-2024-generative-ai)) | Claude or Instinct |
+| Real creative role and the final say on the instructions buyers rely on (see Etsy's Oct 22, 2026 policy below) | Cash |
 | Etsy account, identity, bank and tax details, the publish button, buyer messages (or a standing reply policy) | Cash |
 | Tax treatment once income is meaningful | An accountant |
+
+### Etsy's Oct 22, 2026 AI policy: unresolved compliance risk
+Etsy's [Seller Handbook article of Oct 22, 2026](https://www.etsy.com/seller-handbook/article/1522733284810) says [V]:
+- Listings bot-generated without any human involvement aren't allowed, and the shop can be removed.
+- AI-generated functional guides, such as patterns, recipes and instructions, are banned. The information buyers rely on must be the seller's own work.
+- AI use must still be disclosed, and AI work can't be passed off as entirely the seller's own creation.
+
+A spreadsheet template and its how-to guide are functional content buyers rely on. A fully AI-built, hands-off product line is therefore at real risk under this policy [A]. An owner's okay can't waive it. Mitigations, still to be confirmed against Etsy's own wording [A]:
+- Cash makes the design decisions.
+- Cash checks every formula against real use.
+- Cash writes or substantively rewrites the instructions.
+- Listing images are real screenshots, not AI imagery.
+
+This reduces how hands-off the plan can be, and is the biggest open question for rank 1.
 
 ### Biggest failure risks
 - Zero sales because the niche has no searches.
@@ -176,7 +191,7 @@ AI can draft or do all of these except sending messages from Cash's account and 
 **Evidence links:** every source is linked inline in Sections 3 to 8. Etsy listing counts were read Nov 6, 2026.
 
 **Unresolved gaps:**
-1. Chicken listing 1838211272: the page reader saw 17 reviews and the README has 5 item reviews. Please recheck by hand.
+1. Resolved: chicken listing 1838211272 has 14 item reviews (hand-checked by Instinct). Etsy's Oct 22, 2026 AI policy is now the top open question (Section 3).
 2. The US Etsy payment processing rate, and whether a setup fee applies to Cash.
 3. Whether Cash already has an Etsy shop for pottery, and whether templates should go in a separate shop.
 4. The official TikTok source on digital goods.
