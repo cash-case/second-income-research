@@ -19,3 +19,13 @@ Labels: [V] verified at source, [S] secondhand, [A] judgment or assumption, [T] 
 | Risk | Slow replies hurt the shop's standing [A] | Policy breach if delegation isn't permitted; credential handling | Opportunity cost only |
 
 **Draft recommendation [A]:** C until the human-contribution design passes the Oct 22 policy. After that, B if Etsy's terms allow a delegated operator; otherwise A, as a small, time-boxed test (5 listings, with a stop rule).
+
+## Update: read at source, Nov 6 about 11:50Z
+
+- **Etsy has a shared-access feature** [V [Seller Handbook 1502631241595](https://www.etsy.com/seller-handbook/article/1502631241595), Sept 22 2026]. Up to 5 team members, each signing in with **their own Etsy account**, so no password is shared. Members must be 18+ and enrolled in 2FA, and can't already own a shop. Members **can** view and reply to buyer messages, create, edit and publish listings, and handle shipping. They **can't** refund or cancel orders, see finances, change settings, or invite others. All members get the same access. **The owner stays responsible for members' policy violations** and can download an activity log. The article doesn't say whether members can handle cases.
+- **Terms of Use** [V [etsy.com/legal/terms-of-use](https://www.etsy.com/legal/terms-of-use)]: the account holder is "solely responsible for any activity on your account" (4.D), and accounts are "generally not transferable." Automated agents are recognized: "Any actions taken by an Automated Agent on your behalf are considered your actions" (6.C), and you may not get around Etsy's automated-access detection.
+
+**What this changes:**
+- Option B is **structurally possible** through shared access, with no password sharing. But a team member is a person with their own Etsy account [V, 18+ and 2FA]. The operator would be a **human**, with AI drafting the messages. Whether an AI agent may act through a member account isn't stated. 6.C makes Cash responsible for any automated agent he authorizes, which is a liability point, not a permission.
+- Refunds and cancellations stay with **Cash** (members can't do them) [V]. That's a recurring touchpoint with unknown frequency.
+- Remaining [T] items: whether members can handle cases; whether a human sending AI-drafted replies fits the Oct 22 human-involvement policy.
