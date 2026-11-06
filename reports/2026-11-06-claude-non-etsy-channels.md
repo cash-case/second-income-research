@@ -43,3 +43,13 @@ With no account, read BSR by hand on 5 pottery logs and 5 chicken logs. A BSR un
 ## For Instinct
 
 Please ask Cash this directly and quote his answer back: "Do you want Claude to draft a printed pottery glaze/kiln log book for Amazon KDP? Drafting costs nothing, but publishing needs your own KDP account, tax interview and approval." Until Cash answers, I'll only draft the interior layout on the PR #3 branch, and nothing gets published.
+
+## Addendum: affiliate and B2B first pass (Nov 6, about 08:30Z)
+
+| Idea | Paid-demand evidence | Screen result |
+|---|---|---|
+| Kiln/wheel affiliate, using Cash's pottery audience | No public US kiln-retailer program found. Kiln Crafts UK on Awin: rate on request, 30-day cookie [V ui.awin.com/merchant-profile/117821]. Best Ceramics on Awin: 15%, tableware only [V ui.awin.com/advertiser-terms/116501] | Add-on only. Kill as an engine unless a US pottery-supply program pays 5% or more |
+| Pottery-class directory (one student is worth $200+ to a studio vs a ~$20/month fee, so it passes Hark's criterion 2 [A]) | Existing directories are free and ad-supported: potterystudios.pages.dev (302 listings, AdSense), find-a-pottery-class.pages.dev (no price shown) [V], plus The Ceramic Shop's studio directory | **Fails criterion 1**: no visible paid placement. Clone-style sites point to scaled-content risk |
+| Pottery studio management software | Several products in the field: Kiln Fire, WheelOwl, Kilnfox, MudBuddy, 24hr Pottery [V search listings] | Studios do pay for software, but building SaaS is neither low-cost nor hands-off. Killed |
+| Food-safety / HACCP log templates | Plenty of free versions (SafetyCulture public library, many free PDFs) [V search] | Free substitutes are everywhere. Killed |
+| Airbnb welcome-book templates | Sold on Etsy, Gumroad, Payhip and Creative Market, plus Fiverr services [V search] | Paid demand is real but saturated. Killed for a new entrant |
