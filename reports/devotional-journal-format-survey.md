@@ -25,7 +25,7 @@ Fetch failures, logged as data rather than worked around: christianpublishersout
 - **Format 1** is the heaviest writing load and competes with established publishers using licensed translations. [A] It's a poor fit for hands-off.
 
 ## Not established
-Demand for any of the three formats, competition depth, the KDP public-domain treatment of format 3, and print cost at about 370 pp. All are [T].
+Demand for any of the three formats, competition depth, the KDP public-domain treatment of a mostly-original journal with quoted verses, and print cost. All are [T]. The scope is a 30-day prototype per edition, not 365 days.
 
 ## Creative brief applied (Cash, via Instinct, 6694896337)
 The brief: devotionals that invite Jesus, God and the Holy Spirit into **real situations** and spend time with them (prayer, listening, bringing the day's actual situation), **not generic self-help prompts**.
@@ -39,13 +39,13 @@ The brief: devotionals that invite Jesus, God and the Holy Spirit into **real si
   4. **Be still and listen:** a short unlined space for quiet, with the cue "What do you sense? What does this verse say about who He is in this?"
   5. **Respond:** prayer, and one step taken *with* Him today.
   6. **Look back** (weekly page): "Where did I see Him show up this week?"
-- The prompts point the reader to God, not to self-improvement goals. Each of the 365 references needs a short invitation starter tied to that verse. **Those starters are the creative core.** [A] They should come from a person of faith, ideally Cash or someone he trusts, with AI at most assisting. If AI generates them, KDP and Etsy disclosure rules apply. Who writes them is Cash's decision.
-- [A] The same page works as a 6×9 paperback (generator-ready) and as a printable PDF. Page count is about 365 + about 52 weekly pages + front matter, around 430 pp; the print cost at that length is [T].
+- The prompts point the reader to God, not to self-improvement goals. Each day's reference needs a short invitation starter tied to that verse. **Those starters are the creative core.** If AI generates them, KDP and Etsy disclosure rules apply. Who writes them is Cash's decision. One option to weigh is having a person of faith write or review them; it's an editorial suggestion, not a requirement, and it trades off against cost and hands-off fit.
+- [A] The same page works as a 6×9 paperback (generator-ready) and as a printable PDF. **Current target: a 30-day prototype per edition** (30 daily + 4 weekly pages + front matter, about 40 pp). Longer runs only if Cash asks for them.
 
 ## Men's and women's editions (Cash, via Instinct, 6694937892)
 - **Same page structure in both:** scripture reference, today's real situation, invite, listen, respond, and the weekly look-back. One generator builds both.
 - **Two separate prompt sets:** the situations named in the starters, the invitation wording, and the weekly reflections differ by audience. Cover and title differ too.
-- [A] **Writing load doubles to about 730 invitation starters.** Verse references can be shared or differ, which is Hark's call in verse selection.
-- [A] **Quality guard:** the differences should come from situations real men and women bring to prayer, in the words of the people writing each edition. They shouldn't come from stereotypes or generic gendered self-help. The safest source is a man and a woman of faith each drafting or reviewing their edition's starters. Who that is belongs to Cash.
+- [A] **Writing load:** 30 starters per edition for the prototype, so 60 in total. Verse references can be shared or differ, which is Hark's call in verse selection.
+- [A] **Quality aim:** the differences should come from situations real men and women bring to prayer, not stereotypes or generic gendered self-help. One option for Cash to weigh, alongside cost and hands-off fit, is a man and a woman of faith reviewing their edition's starters. It's an editorial suggestion, not a gate.
 - [A] **Rights:** for ESV and MSG permission requests, these count as **two products**. List both, with their own page counts, prices and volume estimates.
-- [A] **Build order:** draft one edition's first 30 days, review them against the brief, then mirror the structure for the second. That's cheaper than writing 730 starters before anyone reviews them.
+- [A] **Build order:** draft one edition's 30-day prototype, review it against the brief, then mirror it for the second.
