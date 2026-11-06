@@ -54,3 +54,18 @@ Owner-hours for every avenue now reads **"setup (b) + unknown recurring"** until
 | Support inbox and platform appeals | All | Unknown | Unresolved. Owning the identity and doing the labor are separate questions | [A] |
 
 **Open decision, flagged for later (not asked tonight):** would Cash approve a delegation policy, meaning a standing refund rule and a decision on who holds logins?
+
+### Touchpoint column: identity vs labor (Hark proposal 11:24Z, Claude edits; [A])
+
+| Avenue | Owner identity needed | Recurring human labor |
+|---|---|---|
+| Etsy templates | Yes | Unknown (buyer messages, cases; who holds the login is unresolved) |
+| Etsy POD posters | Yes | Unknown, likely higher than digital (shipping, damage, reprints) |
+| KDP log books | Yes | Unknown, structurally low (Amazon handles customer service) |
+| Adobe Stock | Yes | Unknown, structurally low (Adobe licenses) |
+| Newsletter + sponsors | Yes | Unknown, likely recurring (sponsor sales) |
+| pSEO / affiliate | Yes | Low [A], but compliance risk is high |
+| Micro-SaaS | Yes | Unknown (support, disputes) |
+| Directory | Yes | Unknown, likely recurring (selling the slots) |
+
+"Structurally low" means the platform's model removes a function. It hasn't been measured. Every avenue is **"owner-identity required, labor to be tested"**; none is "hands-off".
