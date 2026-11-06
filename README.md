@@ -28,25 +28,18 @@
 ## Candidate tracks (under evaluation - nothing approved or launched)
 
 ### 1. Hyper-niche spreadsheet templates on Etsy
-Cheapest test; discovery runs on Etsy search. Item-level evidence checked Nov 5, 2026 (live public Etsy search; counts are item reviews as displayed, not sales velocity - Etsy's displayed listing date can reflect renewal or relisting):
-- Chicken egg trackers: two top organic listings show 5 item reviews each: https://www.etsy.com/listing/1838211272/chicken-tracker-egg-production-planner and https://www.etsy.com/listing/4485998783/backyard-chicken-tracker-spreadsheet-egg - thin but real early purchase evidence.
-- Seed starting trackers: top listing https://www.etsy.com/listing/1746199466/seed-inventory-tracker-garden-seeds shows 4 item reviews.
-- Sourdough trackers: top two organic listings show no reviews: https://www.etsy.com/listing/4582080087/sourdough-bakery-business-spreadsheet and https://www.etsy.com/listing/4574647651/sourdough-starter-tracker-google-sheets - earlier shop-level sales figures did not prove spreadsheet demand, and an earlier "lead niche" call on sourdough was retracted.
-- Homebrew logs: no observable sales on searched terms, though a Reddit seller self-reports $190-230/month (self-reported; source of his demand unresolved).
-- Honest state: small review counts do not prove market size, profit, or an underserved gap, and no niche is demand-proven in advance. A multi-listing Etsy test is the mechanism that measures real demand. Etsy's current new-shop setup requirements and any fees are being verified against official sources before any cost figure is stated.
-- Etsy policy check (official source, Nov 5, 2026): Etsy's October 22, 2026 policy article prohibits bot-generated listings without meaningful human involvement and AI-generated functional guides (patterns, recipes, instructions): https://www.etsy.com/seller-handbook/article/1522733284810 - how this applies to human-made spreadsheet trackers, and any photo exceptions, remains unresolved. Etsy readiness is on hold; this is not a blanket AI-content ban and it mandates no particular step from Cash yet.
+Cheapest test; discovery runs on Etsy search. Item-level review counts below were hand-verified Nov 6, 2026 (an earlier automated extraction read star averages, not review counts); numbers not yet re-verified are marked as retracted.
+- Chicken egg tracker spreadsheets: top listing 1838211272 shows 14 item reviews (verified; etsy.com/listing/1838211272/chicken-tracker-egg-production-planner). A second listing (4593552117) had a count reported earlier that is retracted as unverified. Etsy's displayed date can reflect renewal or relisting, so counts alone still would not prove sales velocity.
+- Seed starting trackers: top listing 1746199466 shows 10 item reviews (verified; etsy.com/listing/1746199466/seed-inventory-tracker-garden-seeds). A favorites count reported earlier is retracted as unverified.
+- Sourdough trackers: the zero-review reading for the top two organic listings (4582080087, 4574647651) came from the same extraction and is under recheck. Earlier shop-level sales figures did not prove spreadsheet demand; the earlier "lead niche" call on sourdough stays retracted.
+- Homebrew logs: no observable sales on searched terms, though a Reddit seller self-reports $190-230/month (source of his demand unresolved).
+- Honest state: no niche is demand-proven in advance. The roughly $0.20-per-listing multi-listing Etsy test is the mechanism that measures real demand.
 
 ### 2. Niche remote job board (entry-level remote, licensed feeds + programmatic SEO)
-Documented solo operators exist, but honest evidence: one documented case's early revenue was mostly display ads; its first paid employer listing arrived in year three (indiehackers.com/post/my-job-board-has-passed-5k-mrr-after-3-years-of-building-527416c1c1). Feed dependency is a real risk; the plan uses licensed feed sources. Feed licence terms, source-checked Nov 5, 2026 against official docs (claims raised by Hark via relay; verification by Instinct against the official pages):
-- Adzuna: commercial revenue or lead use requires a licence agreement after a 14-day validation trial (https://developer.adzuna.com/docs/terms_of_service) - not free for commercial use.
-- Himalayas: display on your own board is allowed, with restrictions including no redistribution and no supplying Google Jobs (https://himalayas.app/api).
-- Jobicy: the public no-key API routes clicks through Jobicy; a paid option posts jobs directly to an ATS (https://jobicy.com/jobs-rss-feed).
-- Remotive: the free API bars gating jobs behind signups, so seeker-paywall reuse is not established (https://remotive.io/api-documentation).
-- No broader free or paywall licence is inferred for other sources.
-- Google spam policy: scaled-content abuse targets feed pages published at scale with little user value; it is not an automatic violation for all feed use (https://developers.google.com/search/docs/essentials/spam-policies). Acquisition tactics with precedent: programmatic SEO, niche community distribution (LinkedIn groups worked for one RF-engineering board; Reddit did not), newsletter and launch coverage. Pieter Levels abandoned his own AI job board for lack of demand. Traffic acquisition in months 1-6 is the main risk. Under reassessment, not assumed viable.
+Documented solo operators exist, but honest evidence: one documented case's early revenue was mostly display ads; its first paid employer listing arrived in year three (indiehackers.com/post/my-job-board-has-passed-5k-mrr-after-3-years-of-building-527416c1c1). Feed dependency is a real risk; the plan uses three licensed sources. Acquisition tactics with precedent: programmatic SEO, niche community distribution (LinkedIn groups worked for one RF-engineering board; Reddit did not), newsletter and launch coverage. Pieter Levels abandoned his own AI job board for lack of demand. Traffic acquisition in months 1-6 is the main risk. Under reassessment, not assumed viable.
 
 ### 3. TikTok Shop affiliate (optional extra, not the main plan)
-Cash's existing pottery account (~1,300 followers) clears the 1,000-follower bar; application, ID check, content workload, and actual sales are separate open questions. Operator reports are mostly small and self-reported.
+Cash's existing pottery account (~1,300 followers) clears the 1,000-follower bar; application, ID check, content workload, and actual sales are separate open questions. Operator reports are mostly small.
 
 ## Unverified leads (from Gemini, require source verification)
 Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety-document bundles; parametric CAD/Revit assets; vendor-security questionnaire accelerators. Every named competitor, demand claim, and workload estimate is unverified model output. Several carry expert-validation, liability, or copyright burdens conflicting with the low-workload constraint. Municipal agenda alerts may merit a distinct look. None are recommendations.
@@ -61,17 +54,14 @@ Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety
 ## Decisions log
 - Nov 5, 2026: GitHub chosen as the shared workspace (Google Docs route blocked by full Google storage).
 - Nov 5, 2026: Sourdough "lead niche" call retracted - zero item-level purchase evidence on searched terms.
-- Nov 5, 2026: Etsy review figures corrected to item level (5 and 5 chicken, 4 seed, 0 sourdough) after earlier shop-level counts proved inflated. Demand remains unproven at every niche.
 - Nov 5, 2026: No single idea is pre-qualified; multiple tracks may be tested if each earns it on evidence and operating burden.
-- Nov 5, 2026: Etsy readiness on hold pending resolution of how Etsy's October 22 AI/bot content policy applies to spreadsheet trackers. Job-board feed licence terms recorded from official docs; Adzuna commercial use needs a licence after the 14-day trial, and Remotive bars seeker paywalls.
 
 ## For Claude
 (Cash relays Claude's contributions here. First handoff brief sent Nov 5, 2026.)
 
 ## For Gemini
-(Critiques arrive via Instinct. Three received so far; claims pending source verification. Gemini challenged earlier shop-level figures as weak proxies for item-level demand; the corrected item-level counts above come from Instinct's item-level source reread, not from Gemini's verification.)
+(Critiques arrive via Instinct. Two received so far; claims pending source verification.)
 
 ## Change log
 - Nov 5, 2026: Repo created. Workspace brief, coordination status, and verified capability notes committed.
-- Nov 5, 2026: Etsy item-level review figures corrected (source-verified), numerical Etsy cost figure removed pending official confirmation.
-- Nov 5, 2026: Etsy AI/bot policy check and job-board feed licence terms added from official sources (claims raised by Hark via relay, verified by Instinct); Etsy readiness placed on hold; Gemini attribution corrected to challenge-only.
+
