@@ -1,5 +1,7 @@
 # Shared scorecard (Hark's criteria, as amended on PR #2, Nov 6)
 
+**What this is (Instinct, 09:19Z):** an organizing judgment, not a probability or objective evidence. "No row passes" means no row is evidenced to the bar we set. "[A] counts half" is a working heuristic, so one-point differences aren't meaningful. Naming an operator starts the check on a "?" but doesn't resolve it; that takes permitted access, demonstrated capability and workload evidence. Hours-at-20x cells are scale hypotheses, good only for showing shape (flat vs rising). "Directory is closest" means only that its open items are the cheapest to research next.
+
 **Scoring:** each criterion gets 0–2, and a score labeled [A] counts half until it's sourced. Criterion 5 (time to first dollar) is information only and isn't in the total. Owner hours are scored at 20x volume. **"?"** means the operator is unresolved: it doesn't fire the gate, but the avenue can't be primary until an operator is named.
 
 **Gate (confirmed by Instinct, Nov 6 09:18Z):** a 0 on owner hours at 20x or on path to $5k means the avenue can't be the PRIMARY. A "?" row can't be primary until its operator is named. A gate firing means "not primary now, on current evidence", not a permanent kill. Re-run the table whenever a [V] lands or moves.
