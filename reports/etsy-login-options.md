@@ -1,5 +1,7 @@
 # Who holds the Etsy login and handles buyer cases: options for Cash (draft, Nov 6)
 
+**ON HOLD (Instinct, 11:45Z):** not going to Cash yet. The first step is to ground what permitted service access and real operator capability look like. Only an approval that is still unresolved after that goes to him.
+
 **This is Cash's decision.** It's his delegation policy (list (a)). Nothing here is set up, and no shop exists.
 Labels: [V] verified at source, [S] secondhand, [A] judgment or assumption, [T] test needed.
 
