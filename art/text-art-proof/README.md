@@ -52,7 +52,30 @@ Prices are Printful's listed USD variant prices **before shipping, tax and any E
 | 16×20 | $12.13 | $42.61 | $45.73 |
 | 18×24 | $13.15 | $46.30 | $50.93 |
 
-[A] Notes on "affordable framing":
+### Product = printed + framed + shipped to the buyer (Cash, via Instinct, 6697835547)
+US shipping for a single item comes from Printful's shipping page (https://www.printful.com/shipping, read 2026-11-06) [V]:
+- Framed small (8×10 to 16×16): **$10.89** first item, +$4.50 each additional.
+- Framed medium (16×20, 18×18, 18×24): **$14.49**, +$4.95.
+- **US holiday surcharge: $0.40 per order, Oct 15 2026 to Jan 17 2027.**
+- Fulfilment takes 2–5 business days, then standard shipping 3–4 business days. Printful says these times aren't guaranteed.
+
+Delivered base cost per framed print (base + US shipping + surcharge; one item to one US address; excludes sales tax and Etsy fees) [A arithmetic on V inputs]:
+
+| Size | Framed | Framed + mat |
+|---|---|---|
+| 8×10 | 20.76 + 10.89 + 0.40 = **$32.05** | n/a |
+| 11×14 | 30.69 + 10.89 + 0.40 = **$41.98** | n/a |
+| 12×16 | 32.20 + 10.89 + 0.40 = **$43.49** | 36.41 + 10.89 + 0.40 = **$47.70** |
+| 16×20 | 42.61 + 14.49 + 0.40 = **$57.50** | 45.73 + 14.49 + 0.40 = **$60.62** |
+| 18×24 | 46.30 + 14.49 + 0.40 = **$61.19** | 50.93 + 14.49 + 0.40 = **$65.82** |
+
+**Fee-covering sale price on Etsy** [A]: the price P where P − Etsy fees = delivered base cost. Fees are 6.5% transaction + 3% + $0.25 processing + $0.20 listing, so P = (base + 0.45) / 0.905. Shipping is treated as included in P (free shipping), and fees are taken on the whole P.
+- 8×10 framed: **$35.91**. 11×14: **$46.88**. 16×20: **$64.03**. 18×24: **$68.11**.
+- **These are the prices at which the sale earns $0**, not price recommendations. They exclude sales tax, refunds, discounts, Offsite Ads (+15% of P if attributed) and any per-item margin.
+
+**Timing** [A]: delivery is roughly 5–9 business days after an order (2–5 fulfilment + 3–4 shipping) and isn't guaranteed. That bears on the pre-Thanksgiving (Nov 26) goal, along with the open rights and consensus gates.
+
+[A] Earlier notes on "affordable framing". Per Cash, the product is the framed and shipped print; buyer's-own-frame is **a fallback note only**:
 - Our four sizes all match **standard retail frame sizes** (8×10, 11×14, 16×20, 18×24). So the cheapest framing route for a buyer is an unframed print or a digital download dropped into a store-bought frame. A listing can say "fits a standard 8×10 frame" at no cost to us.
 - A POD frame roughly **triples the base cost at 8×10** ($7.03 to $20.76) and about **3.5× at 18×24**. A framed **8×10 at $20.76** is the lowest-cost framed entry.
 - Printify's framed-poster page wouldn't render (JavaScript only), so its prices are [T]. File specs (pixels, bleed) for the chosen provider are [T] before any upload.
