@@ -32,6 +32,11 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Next screen: marketplaces that own customer service end to end, with a catalog-of-many-titles model.
 - Directory kill threshold (working screen, not a proven rule): fewer than about 10 visibly paying listees in a niche that passes Hark's criteria 2 and 3 means we drop it as the engine.
 
+## Open hand checks needing a normal browser (no AI route)
+- KDP demand: Amazon blocks both Claude and Instinct. Record the raw BSR, rating count and publication date for the titles in PR #2 comment 6682316338, and set any threshold afterward.
+- Etsy POD comparables: all-in shipping didn't calculate in automated fetches.
+- Scorecard lives at reports/scorecard.md.
+
 ## Labels rule and budget (Nov 6, 08:23Z, via Instinct)
 - Use source-led gap labels ("unverified X"). A kill needs a verified disqualifier or an agreed screen firing. The relabeled board is in PR #2 comment 6680548669. The only verified kill is the feed job board.
 - Cash: up to $1,000 for a model IF the evidence supports a high probability it will work. That is a ceiling, not an approval. Each spend goes to Cash with evidence, one decision at a time. A case must state: verified facts, unknowns, the spend, the claimed success level and timeframe, kill and stop rules, and workload per function. No invented odds.
