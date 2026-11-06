@@ -41,3 +41,10 @@
 - Margins exceed KDP's minimums (see above). The page count is even (100).
 - Every promised field is present: the CAN-derived fields are on each test page or firing page.
 - Not checked: a physical proof print.
+
+## Pre-upload QA, 2026-11-06 (Gemini hypotheses tested)
+- Page count: the previous draft said 100 but the PDF had **99 pages** (reportlab drops an empty final page), so it didn't match the 100-page spine. Fixed with a ruled Notes page; `pdfinfo` now reports 100. [V local check]
+- Fonts: `pdffonts` listed a non-embedded Helvetica (reportlab's initial font). Fixed with `initialFontName`; now only embedded DejaVu subsets in both PDFs. [V local check]
+- Metadata: Author was "anonymous". It's now a neutral placeholder; no personal name goes in this public repo. Set it at upload time.
+- Gutter: inside margin 0.75 in vs the KDP minimum of 0.375 in for 24–150 pages (GVBQ3CMEQW3W2VL6). OK at 100 pages.
+- Barcode: the dashed guide box on the back cover is still there. **Remove it before any upload**, since KDP places the barcode itself (G201953020).

@@ -8,8 +8,8 @@ pdfmetrics.registerFont(TTFont('S','/usr/share/fonts/truetype/dejavu/DejaVuSans.
 pdfmetrics.registerFont(TTFont('SB','/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'))
 W,H=letter
 IN,OUT,TOP,BOT=0.75*inch,0.5*inch,0.6*inch,0.6*inch
-c=canvas.Canvas(sys.argv[1],pagesize=letter)
-c.setTitle("Glaze Test & Kiln Firing Log (DRAFT)")
+c=canvas.Canvas(sys.argv[1],pagesize=letter,initialFontName='S',initialFontSize=10)  # avoid non-embedded Helvetica
+c.setTitle("Glaze Test & Kiln Firing Log (DRAFT)"); c.setAuthor("DRAFT - author not set"); c.setCreator("build_interior.py")
 page=[0]
 def margins():
     odd=(page[0]%2==1)  # page 1 is recto
@@ -98,6 +98,13 @@ for f in range(1,13):
     y-=2.6*inch+14
     box(l,y,w,2.4*inch,"Results & notes")
     footer()
-total=page[0]
-if total%2: newpage()
-c.save(); print("pages",page[0])
+# Notes page(s) to reach an even count. A page with no drawing is dropped by
+# reportlab on save, so the filler must have content (earlier draft shipped 99 pages).
+if page[0]%2:
+    newpage(); l,r=margins(); w=r-l
+    c.setFont('SB',14); c.drawString(l,H-TOP-14,"Notes")
+    c.setLineWidth(0.4)
+    yy=H-TOP-0.7*inch
+    while yy>BOT+0.3*inch: c.line(l,yy,r,yy); yy-=0.32*inch
+    footer()
+c.save(); print("pages",page[0])  # verify with pdfinfo

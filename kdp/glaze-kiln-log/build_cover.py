@@ -11,7 +11,7 @@ pdfmetrics.registerFont(TTFont('SB','/usr/share/fonts/truetype/dejavu/DejaVuSans
 PAGES=100; B=0.125; TW,TH=8.5,11.0
 SP=PAGES*0.002252
 W=B+TW+SP+TW+B; H=B+TH+B
-c=canvas.Canvas(sys.argv[1],pagesize=(W*inch,H*inch)); c.setTitle("Glaze Test & Kiln Firing Log cover (DRAFT)")
+c=canvas.Canvas(sys.argv[1],pagesize=(W*inch,H*inch),initialFontName='S',initialFontSize=10); c.setTitle("Glaze Test & Kiln Firing Log cover (DRAFT)"); c.setAuthor("DRAFT - author not set"); c.setCreator("build_cover.py")
 clay=CMYKColor(0.05,0.45,0.65,0.25); cream=CMYKColor(0.0,0.03,0.12,0.0); ink=CMYKColor(0,0,0,1)
 c.setFillColor(cream); c.rect(0,0,W*inch,H*inch,fill=1,stroke=0)
 fx=B+TW+SP  # front cover left edge (trim)
