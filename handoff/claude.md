@@ -26,6 +26,12 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Pottery class directory: several already exist (find-a-pottery-class.pages.dev, potterystudios.pages.dev, The Ceramic Shop's studio directory). Their monetization is unclear. Weak unless studios are shown to pay.
 - Job board: the kill test needs live Google results checked in a browser. Assigned to Instinct.
 
+## Direction from Cash (via Instinct, Nov 6 08:18Z): HANDS-OFF IS THE KEY
+- Recurring Cash labor outweighs cheap entry or theoretical income. Occasional owner decisions are fine. Recurring production, sales or support is not.
+- Re-scored board (PR #2 comment 6680469888): KDP fits hands-off but earns little. Etsy digital is conditional (who answers messages; human contribution). POD, directory and TikTok fail. No candidate is yet both hands-off and evidenced at $5k a month.
+- Next screen: marketplaces that own customer service end to end, with a catalog-of-many-titles model.
+- Directory kill threshold (working screen, not a proven rule): fewer than about 10 visibly paying listees in a niche that passes Hark's criteria 2 and 3 means we drop it as the engine.
+
 ## Non-Etsy channels (Nov 6)
 - See reports/2026-11-06-claude-non-etsy-channels.md. Payhip and Gumroad bring no buyers. KDP low-content log books bring buyers through Amazon search, earning about $3.15 per $9.99 copy. That's an add-on, not the engine. The KDP question is waiting on Cash via Instinct.
 - All six templates have now been checked against published methods (PR #3, c378e69).
