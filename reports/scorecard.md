@@ -2,7 +2,9 @@
 
 **Scoring:** each criterion gets 0–2, and a score labeled [A] counts half until it's sourced. Criterion 5 (time to first dollar) is information only and isn't in the total. Owner hours are scored at 20x volume. **"?"** means the operator is unresolved: it doesn't fire the gate, but the avenue can't be primary until an operator is named.
 
-**Gate:** a 0 on owner hours or on path to $5k means the avenue can't be primary.
+**Gate (confirmed by Instinct, Nov 6 09:18Z):** a 0 on owner hours at 20x or on path to $5k means the avenue can't be the PRIMARY. A "?" row can't be primary until its operator is named. A gate firing means "not primary now, on current evidence", not a permanent kill. Re-run the table whenever a [V] lands or moves.
+
+**Directory caution:** OpenAlternative proves paid placement in ONE software niche, with the founder doing the distribution by hand. It isn't yet evidence that the model works in a niche without that person.
 
 **Current status:** no row passes the gate. **No candidate is yet VERIFIED as both hands-off and evidenced at $5k/month.**
 
