@@ -29,3 +29,10 @@ Sources and reasoning for each score are in the PR #2 comments: Claude 668125241
 **Buy-side note (Hark, Flippa screen, Nov 6 09:46Z):** one filtered page of 50 listings, and nothing in that screened sample passed the bar. That's a sample result, not proof that no sub-$1k asset could. Listing revenue and profit are seller claims even with a "Data Verified" badge. A current bid isn't the final cost. Decay after handover is a reasonable prior [A], not an established fact. The best claim in the sample was about $1k/mo, on an asset under a year old. A seeded domain plus content ($100–500) only makes sense after a build track shows validated demand.
 
 **Directory update (Hark, 09:24Z):** TruckingStack and The Pavement Directory both have live price cards but zero visible sponsors. Kill rule: if 2 more niches can't produce one paying sponsor on a live site, the directory is marked "no evidence of paid demand".
+
+**Backlog C (Hark, Nov 6 09:56–10:16Z), scored but not validated:**
+- Standalone digital storefront (Gumroad-style): the median creator made $70/yr in Gumroad's own 2020 report [V], and sales came from the creators' own audiences. Not primary.
+- Niche newsletter with sponsors: paid ads are more common at 5k+ subscribers, with a median $300 per placement [V vendor data]. List growth and sponsor sales have no owner-free path. Not hands-off today.
+- Programmatic SEO and affiliate content: Google's spam policies name scaled AI content and thin affiliation [V]. Only 1.74% of new pages reach the top 10 within a year [V Ahrefs 2025]. Compliance risk is high, and any income would take a year or more. Not primary.
+- Data products: unscored. No named paying buyer yet.
+- Marketplace search (Etsy, KDP, Redbubble, Adobe) is the only audience channel found that needs no owner posting. The risk is ranking competition for new listings.
