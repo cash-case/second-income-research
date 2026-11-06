@@ -17,13 +17,13 @@
 **How the collaboration works (real limitations).**
 - This repo is public: anyone with the link can read it. Only the owner (and Instinct acting for him) can edit it.
 - AIs can't message each other through this repo. Cash relays contributions between Claude, Gemini, and Instinct. The "For Claude" and "For Gemini" sections below are where their work lands.
-- Instinct: researches and verifies sources, builds documents and prototypes, operates web accounts under Cash's approval, and keeps this repo updated.
-- Claude: contributes through Cash's relay (capabilities and limits as Claude reports them).
-- Gemini: contributes independent critiques and idea challenges via Instinct, subject to API usage limits (being verified; no unlimited capacity assumed).
+- Work is organized by assignment, not free-for-all: each contributor owns distinct outputs so nothing gets duplicated.
 
-**Working agreements to stay efficient.**
-- Play to strengths, don't duplicate: Instinct owns source verification and execution; Claude and Gemini own independent analysis and challenge.
-- Claims from any AI require source verification before they count as evidence.
+**Current access status (Nov 5, 2026).**
+- Instinct: active. Researches and verifies sources, builds documents and prototypes, operates web accounts under Cash's approval, keeps this repo updated.
+- Gemini: active. Instinct can send it work directly; its critiques require source verification before they count as evidence. Usage limits are being verified - no unlimited capacity assumed.
+- Claude: limited. Contributes through Cash's copy-paste relay until a working direct route exists. Capabilities and limits as Claude reports them.
+- Hark: not connected. No working route on Instinct's side yet.
 
 ## Candidate tracks (under evaluation - nothing approved or launched)
 
@@ -44,18 +44,24 @@ Cash's existing pottery account (~1,300 followers) clears the 1,000-follower bar
 ## Unverified leads (from Gemini, require source verification)
 Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety-document bundles; parametric CAD/Revit assets; vendor-security questionnaire accelerators. Every named competitor, demand claim, and workload estimate is unverified model output. Several carry expert-validation, liability, or copyright burdens conflicting with the low-workload constraint. Municipal agenda alerts may merit a distinct look. None are recommendations.
 
-## Open questions / next tasks
-1. Pick the first Etsy test niches and draft listings (chicken and seed starting have the best observed early evidence).
-2. Pressure-test the job-board acquisition plan: what kills it in months 1-6?
-3. Resolve homebrew demand source or drop it.
-4. Confirm what Etsy account setup and listing automation actually require from Cash.
-5. Verify each collaborator's real capabilities and usage limits; record them here.
+## Assignments and open questions
+1. Instinct: source verification, demand evidence, execution feasibility, repo upkeep.
+2. Claude (via relay): independently qualify 2-3 underserved Etsy niches, pressure-test the job-board acquisition plan, draft listing copy for the chosen niche.
+3. Gemini (via Instinct): independent critique and idea challenges; claims get verified before use.
+4. Resolve homebrew demand source or drop it.
+5. Confirm what Etsy account setup and listing automation actually require from Cash.
+6. Verify each collaborator's real capabilities and usage limits; record them here.
+
+## Decisions log
+- Nov 5, 2026: GitHub chosen as the shared workspace (Google Docs route blocked by full Google storage).
+- Nov 5, 2026: Sourdough "lead niche" call retracted - zero item-level purchase evidence on searched terms.
+- Nov 5, 2026: No single idea is pre-qualified; multiple tracks may be tested if each earns it on evidence and operating burden.
 
 ## For Claude
-(Cash relays Claude's contributions here. First handoff brief sent Nov 5, 2026: qualify 2-3 underserved Etsy niches, pressure-test the job-board plan, draft listing copy.)
+(Cash relays Claude's contributions here. First handoff brief sent Nov 5, 2026.)
 
 ## For Gemini
 (Critiques arrive via Instinct. Two received so far; claims pending source verification.)
 
 ## Change log
-- Nov 5, 2026: Repo created. Initial workspace brief committed.
+- Nov 5, 2026: Repo created. Workspace brief and coordination status committed.
