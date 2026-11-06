@@ -76,7 +76,7 @@ for t in range(1,81):
     box(l+w*0.62,y,w*0.38,2.0*inch,"Tile photo / sketch")
     yy=y-22
     c.setLineWidth(0.3)
-    for k in range(7): c.line(l+6,yy-k*0.24*inch,l+w*0.58-6,yy-k*0.24*inch)
+    for k in range(6): c.line(l+6,yy-k*0.28*inch,l+w*0.58-6,yy-k*0.28*inch)
     y-=2.0*inch+14
     box(l,y,w,1.0*inch,"Layers (order, coats, glaze on glaze)")
     y-=1.0*inch+14

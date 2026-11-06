@@ -35,3 +35,9 @@
 4. **Account, tax interview and bank details:** Cash's identity, his own entry only. Credentials never go in chat or this repo.
 5. **Cover:** drafted from KDP's published formula. Cross-check the final size with KDP's cover calculator before upload [T].
 6. Owner review of the interior; the "How to use" page in his words.
+
+## Self-QA at print size (Nov 6)
+- Writing space: field lines are 0.42 in apart, giving about 0.3 in of writing height under each label. Tile-index rows are about 0.45 in. Recipe lines were widened from 0.24 in to **0.28 in** (college-ruled spacing) after this check. That's a defect fixed.
+- Margins exceed KDP's minimums (see above). The page count is even (100).
+- Every promised field is present: the CAN-derived fields are on each test page or firing page.
+- Not checked: a physical proof print.
