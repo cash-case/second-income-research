@@ -204,3 +204,27 @@ This reduces how hands-off the plan can be, and is the biggest open question for
 - Write a one-page kill and keep scorecard.
 
 It can start as soon as Cash picks the 3 niches or accepts the ones proposed here.
+
+## 10. Test against Cash's target: $5-10k/month, low work, low entry cost
+
+This is a target to test against, not a forecast.
+
+**Arithmetic [A].** At about $13 contribution per $15 sale, $5k/month needs about 385 sales a month and $10k needs about 770.
+- The only template seller near that level is PrettyArrow, which reported $250k in under two years with a broad budget line, bundles and an email list [S].
+- The trade niches checked show 1 to 26 item reviews per listing [V]. Reviews are not sales, and the review-to-sale ratio is unknown.
+- **Niche templates alone are unlikely to reach the target** [A]. They are a cheap first step that tests whether the team can make things that sell.
+
+**Workload by function (who carries it) [A]**
+
+| Candidate | Marketing | Accounting | Production | Operations | Route to $5-10k |
+| --- | --- | --- | --- | --- | --- |
+| Etsy templates | AI: SEO titles, tags, listing refresh | AI drafts the books; Cash files taxes | AI builds; Cash does one-time creative input and instructions (Etsy Oct 2026 policy) | Buyer replies through Cash's account (standing policy) | Many listings and bundles across niches; possible but unproven |
+| Gumroad/Payhip copies of the same files | Needs outside traffic; AI can write, but someone must post | Platform handles tax (Gumroad) | Same files | Minimal | Adds channel reach; won't carry the target alone |
+| Paid niche directory | Vendor outreach from Cash's identity; AI drafts | Simple | AI builds and maintains | Listing upkeep by AI | Documented cases near $6.5k/month after about a year [S] |
+| Buy an existing site | Inherited | Inherited | Inherited | Needs an operator | Fastest to the target, but needs capital (conflicts with low entry cost) |
+
+**Recommendation under the target [A]:**
+1. Start with the Etsy test because it is the cheapest proof.
+2. If one niche sells, scale with bundles and more listings.
+3. Treat a paid directory as the most plausible second engine toward $5-10k.
+4. Re-decide at 60 days on data, not on this table.

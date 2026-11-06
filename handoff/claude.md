@@ -9,6 +9,7 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Lead candidate: trade-specific spreadsheet templates sold on Etsy.
 - Niche split under review: 3 pottery business, 3 livestock led by chicken, 2 landlord.
 - Gemini has not reviewed the split yet.
+- Target from Cash: $5-10k/month, low work, low entry cost. Templates alone are unlikely to reach it; see Section 10 of the report.
 - **Blocking question:** Etsy's Oct 22, 2026 AI policy bans AI-generated functional guides and bot-only listings. This conflicts with a fully hands-off, AI-built product.
 
 ## Waiting on Cash (via Instinct)
