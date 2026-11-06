@@ -41,3 +41,11 @@ The brief: devotionals that invite Jesus, God and the Holy Spirit into **real si
   6. **Look back** (weekly page): "Where did I see Him show up this week?"
 - The prompts point the reader to God, not to self-improvement goals. Each of the 365 references needs a short invitation starter tied to that verse. **Those starters are the creative core.** [A] They should come from a person of faith, ideally Cash or someone he trusts, with AI at most assisting. If AI generates them, KDP and Etsy disclosure rules apply. Who writes them is Cash's decision.
 - [A] The same page works as a 6×9 paperback (generator-ready) and as a printable PDF. Page count is about 365 + about 52 weekly pages + front matter, around 430 pp; the print cost at that length is [T].
+
+## Men's and women's editions (Cash, via Instinct, 6694937892)
+- **Same page structure in both:** scripture reference, today's real situation, invite, listen, respond, and the weekly look-back. One generator builds both.
+- **Two separate prompt sets:** the situations named in the starters, the invitation wording, and the weekly reflections differ by audience. Cover and title differ too.
+- [A] **Writing load doubles to about 730 invitation starters.** Verse references can be shared or differ, which is Hark's call in verse selection.
+- [A] **Quality guard:** the differences should come from situations real men and women bring to prayer, in the words of the people writing each edition. They shouldn't come from stereotypes or generic gendered self-help. The safest source is a man and a woman of faith each drafting or reviewing their edition's starters. Who that is belongs to Cash.
+- [A] **Rights:** for ESV and MSG permission requests, these count as **two products**. List both, with their own page counts, prices and volume estimates.
+- [A] **Build order:** draft one edition's first 30 days, review them against the brief, then mirror the structure for the second. That's cheaper than writing 730 starters before anyone reviews them.
