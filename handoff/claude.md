@@ -32,6 +32,11 @@ _Last updated: 2026-11-06 by Claude. Any service can pick up from here._
 - Next screen: marketplaces that own customer service end to end, with a catalog-of-many-titles model.
 - Directory kill threshold (working screen, not a proven rule): fewer than about 10 visibly paying listees in a niche that passes Hark's criteria 2 and 3 means we drop it as the engine.
 
+## Labels rule and budget (Nov 6, 08:23Z, via Instinct)
+- Use source-led gap labels ("unverified X"). A kill needs a verified disqualifier or an agreed screen firing. The relabeled board is in PR #2 comment 6680548669. The only verified kill is the feed job board.
+- Cash: up to $1,000 for a model IF the evidence supports a high probability it will work. That is a ceiling, not an approval. Each spend goes to Cash with evidence, one decision at a time. A case must state: verified facts, unknowns, the spend, the claimed success level and timeframe, kill and stop rules, and workload per function. No invented odds.
+- The KDP account question is held back from Cash until a screened option needs it.
+
 ## Non-Etsy channels (Nov 6)
 - See reports/2026-11-06-claude-non-etsy-channels.md. Payhip and Gumroad bring no buyers. KDP low-content log books bring buyers through Amazon search, earning about $3.15 per $9.99 copy. That's an add-on, not the engine. The KDP question is waiting on Cash via Instinct.
 - All six templates have now been checked against published methods (PR #3, c378e69).
