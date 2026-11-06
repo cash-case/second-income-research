@@ -1,6 +1,8 @@
 # Pottery pricing & cost calculator: pilot draft
 
-**Status:** draft for review. Not for sale. Nothing is listed or launched.
+**Status:** draft for review. Not for sale and not customer-ready. Nothing is listed or launched.
+
+**Provenance:** built by an AI tool (Claude). Formulas were checked by recalculating in LibreOffice only, and no domain user has reviewed them yet. Leaving the Instructions sheet blank avoids false content, but it is not evidence of human authorship. Source citations below are leads to re-check at the named source, not established facts.
 
 ## What it is
 An Excel workbook (it also opens in Google Sheets) that works out a potter's true cost per piece and suggests wholesale and retail prices. Costs covered:

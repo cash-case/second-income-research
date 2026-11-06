@@ -1,6 +1,8 @@
 # Small landlord year-end ledger (Schedule E categories): draft
 
-**Status:** draft for review. Not for sale. Nothing is listed or launched.
+**Status:** draft for review. Not for sale and not customer-ready. Nothing is listed or launched.
+
+**Provenance:** built by an AI tool (Claude). Formulas were checked by recalculating in LibreOffice only, and no domain user has reviewed them yet. Leaving the Instructions sheet blank avoids false content, but it is not evidence of human authorship. Source citations below are leads to re-check at the named source, not established facts.
 
 ## Angle
 The landlord niche has strong purchase evidence: 26 item reviews on a listing from a shop with 7.1k sales. It is also crowded and sells at about $5. This draft competes on **year-end tax prep**. Expenses use the IRS Schedule E expense-line categories, and the summary gives one column per property, ready to hand to a tax preparer.

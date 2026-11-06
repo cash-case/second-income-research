@@ -3,7 +3,7 @@
 **Status:** drafts only. **Needs Cash:** edit these in your own voice and approve them before anything is listed.
 - Etsy titles are kept under 140 characters.
 - Each listing has 13 tags of 20 characters or fewer.
-- Every description carries the AI-use disclosure that Etsy's Creativity Standards require.
+- Every description carries a draft AI disclosure that states the AI's role. The human-contribution question is unresolved, so none of these is customer-ready.
 - Preview images will be real screenshots of each workbook, per Etsy's actual-content rule.
 
 ---
@@ -29,7 +29,7 @@
 >
 > **You get:** 1 Excel file (.xlsx) that also opens in Google Sheets. Digital download, so nothing ships.
 >
-> **AI disclosure:** this spreadsheet was built with the help of AI tools. The design decisions, pricing method and instructions are mine. [CASH EDIT: confirm this is accurate.]
+> **AI disclosure (draft, unresolved):** this spreadsheet was designed and built by an AI tool (Claude), following published record-keeping and pricing methods. [OPEN: what genuine human contribution and review this product gets is still being worked out on PR #2. Do not list until that is settled and this line describes what actually happened.]
 
 ---
 
@@ -52,7 +52,7 @@
 >
 > **You get:** 1 Excel file (.xlsx) that also opens in Google Sheets. Digital download.
 >
-> **AI disclosure:** this spreadsheet was built with the help of AI tools. [CASH EDIT: describe your own role accurately.]
+> **AI disclosure (draft, unresolved):** this spreadsheet was designed and built by an AI tool (Claude), following published record-keeping and pricing methods. [OPEN: what genuine human contribution and review this product gets is still being worked out on PR #2. Do not list until that is settled and this line describes what actually happened.]
 
 ---
 
@@ -75,7 +75,7 @@
 >
 > **You get:** 1 Excel file (.xlsx) that also opens in Google Sheets. Digital download.
 >
-> **AI disclosure:** this spreadsheet was built with the help of AI tools. [CASH EDIT: describe your own role accurately.]
+> **AI disclosure (draft, unresolved):** this spreadsheet was designed and built by an AI tool (Claude), following published record-keeping and pricing methods. [OPEN: what genuine human contribution and review this product gets is still being worked out on PR #2. Do not list until that is settled and this line describes what actually happened.]
 
 ---
 
@@ -99,7 +99,7 @@
 >
 > **You get:** 1 Excel file (.xlsx) that also opens in Google Sheets. Digital download.
 >
-> **AI disclosure:** this spreadsheet was built with the help of AI tools. [CASH EDIT: describe your own role accurately.]
+> **AI disclosure (draft, unresolved):** this spreadsheet was designed and built by an AI tool (Claude), following published record-keeping and pricing methods. [OPEN: what genuine human contribution and review this product gets is still being worked out on PR #2. Do not list until that is settled and this line describes what actually happened.]
 
 ---
 
@@ -123,7 +123,7 @@
 >
 > **You get:** 1 Excel file (.xlsx) that also opens in Google Sheets. Digital download.
 >
-> **AI disclosure:** this spreadsheet was built with the help of AI tools. [CASH EDIT: describe your own role accurately.]
+> **AI disclosure (draft, unresolved):** this spreadsheet was designed and built by an AI tool (Claude), following published record-keeping and pricing methods. [OPEN: what genuine human contribution and review this product gets is still being worked out on PR #2. Do not list until that is settled and this line describes what actually happened.]
 
 ---
 
@@ -147,4 +147,4 @@
 >
 > **You get:** 1 Excel file (.xlsx) that also opens in Google Sheets. Digital download.
 >
-> **AI disclosure:** this spreadsheet was built with the help of AI tools. [CASH EDIT: describe your own role accurately.]
+> **AI disclosure (draft, unresolved):** this spreadsheet was designed and built by an AI tool (Claude), following published record-keeping and pricing methods. [OPEN: what genuine human contribution and review this product gets is still being worked out on PR #2. Do not list until that is settled and this line describes what actually happened.]
