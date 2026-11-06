@@ -40,7 +40,7 @@ The brief: devotionals that invite Jesus, God and the Holy Spirit into **real si
   5. **Respond:** prayer, and one step taken *with* Him today.
   6. **Look back** (weekly page): "Where did I see Him show up this week?"
 - The prompts point the reader to God, not to self-improvement goals. Each day's reference needs a short invitation starter tied to that verse. **Those starters are the creative core.** If AI generates them, KDP and Etsy disclosure rules apply. Who writes them is Cash's decision. One option to weigh is having a person of faith write or review them; it's an editorial suggestion, not a requirement, and it trades off against cost and hands-off fit.
-- [A] The same page works as a 6×9 paperback (generator-ready) and as a printable PDF. **Current target: a 30-day prototype per edition** (30 daily + 4 weekly pages + front matter, about 40 pp). Longer runs only if Cash asks for them.
+- [A] The same page works as a 6×9 paperback (generator-ready) and as a printable PDF. **Current target: a 30-day prototype per edition.** That's 30 daily reading pages plus 30 facing writing pages, so **at least 60 interior pages** before the weekly pages and front matter (corrected per Instinct, 6695301074). The total stays unresolved until the owner sets the actual layout. Longer runs only if Cash asks for them.
 
 ## Men's and women's editions (Cash, via Instinct, 6694937892)
 - **Same page structure in both:** scripture reference, today's real situation, invite, listen, respond, and the weekly look-back. One generator builds both.

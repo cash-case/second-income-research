@@ -45,3 +45,11 @@ POD fulfillment cost (Printify and similar) applies on top of any channel. It's 
 - **Pinterest** costs nothing and fits as a **traffic source** feeding a store. It isn't a storefront. Its value for scripture art is [T].
 - **Facebook/Instagram** is blocked (robots) and remains [T].
 - None of this is demand evidence. The recommendation stays preliminary until POD costs, margins and buyer-acquisition costs are in.
+
+## Free social outlets (verified by Instinct, 6695301074; summarized here, not re-checked)
+- **Pinterest:** free business account; each Pin links straight to a URL [V via Instinct].
+- **TikTok:** Cash's chosen route, with the bio link pointing to his Linktree and on to Etsy. The 1,000-follower link threshold for personal accounts is [T].
+- **YouTube Shorts:** links in descriptions and comments aren't clickable; only the profile link is [V via Instinct].
+- **Reddit:** strict rules against self-promotion, so it's not a broadcast channel [V via Instinct].
+- **Facebook/Instagram:** still robots-blocked.
+- [A] **Workload:** daily TikTok posting is the recurring task most at odds with hands-off. Who makes and posts the videos, and how often, needs to be on the Cash touchpoint ledger even if it's delegated, because the account is his.
