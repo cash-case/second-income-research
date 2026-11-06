@@ -28,18 +28,18 @@
 ## Candidate tracks (under evaluation - nothing approved or launched)
 
 ### 1. Hyper-niche spreadsheet templates on Etsy
-Cheapest test; discovery runs on Etsy search. Item-level evidence checked Nov 5, 2026 (live public Etsy search):
-- Chicken egg tracker spreadsheets: top listings show 14 reviews (listing 1838211272, listed Oct 20, 2026) and 2 reviews (listing 4593552117). Etsy's displayed date can reflect renewal or relisting, so treat these as current counts, not sales velocity. Thin but real early purchase evidence.
-- Seed starting trackers: top listing 1746199466 shows 10 reviews, 65 favorites.
-- Sourdough trackers: top two organic listings (4582080087, 4574647651) show zero reviews; earlier shop-level sales figures did not prove spreadsheet demand. An earlier "lead niche" call on sourdough was retracted.
-- Homebrew logs: no observable sales on searched terms, though a Reddit seller self-reports $190-230/month (source of his demand unresolved).
-- Honest state: no niche is demand-proven in advance. The roughly $0.20-per-listing multi-listing Etsy test is the mechanism that measures real demand.
+Cheapest test; discovery runs on Etsy search. Item-level evidence checked Nov 5, 2026 (live public Etsy search; counts are item reviews as displayed, not sales velocity - Etsy's displayed listing date can reflect renewal or relisting):
+- Chicken egg trackers: two top organic listings show 5 item reviews each: https://www.etsy.com/listing/1838211272/chicken-tracker-egg-production-planner and https://www.etsy.com/listing/4485998783/backyard-chicken-tracker-spreadsheet-egg - thin but real early purchase evidence.
+- Seed starting trackers: top listing https://www.etsy.com/listing/1746199466/seed-inventory-tracker-garden-seeds shows 4 item reviews.
+- Sourdough trackers: top two organic listings show no reviews: https://www.etsy.com/listing/4582080087/sourdough-bakery-business-spreadsheet and https://www.etsy.com/listing/4574647651/sourdough-starter-tracker-google-sheets - earlier shop-level sales figures did not prove spreadsheet demand, and an earlier "lead niche" call on sourdough was retracted.
+- Homebrew logs: no observable sales on searched terms, though a Reddit seller self-reports $190-230/month (self-reported; source of his demand unresolved).
+- Honest state: small review counts do not prove market size, profit, or an underserved gap, and no niche is demand-proven in advance. A multi-listing Etsy test is the mechanism that measures real demand. Etsy's current new-shop setup requirements and any fees are being verified against official sources before any cost figure is stated.
 
 ### 2. Niche remote job board (entry-level remote, licensed feeds + programmatic SEO)
 Documented solo operators exist, but honest evidence: one documented case's early revenue was mostly display ads; its first paid employer listing arrived in year three (indiehackers.com/post/my-job-board-has-passed-5k-mrr-after-3-years-of-building-527416c1c1). Feed dependency is a real risk; the plan uses three licensed sources. Acquisition tactics with precedent: programmatic SEO, niche community distribution (LinkedIn groups worked for one RF-engineering board; Reddit did not), newsletter and launch coverage. Pieter Levels abandoned his own AI job board for lack of demand. Traffic acquisition in months 1-6 is the main risk. Under reassessment, not assumed viable.
 
 ### 3. TikTok Shop affiliate (optional extra, not the main plan)
-Cash's existing pottery account (~1,300 followers) clears the 1,000-follower bar; application, ID check, content workload, and actual sales are separate open questions. Operator reports are mostly small.
+Cash's existing pottery account (~1,300 followers) clears the 1,000-follower bar; application, ID check, content workload, and actual sales are separate open questions. Operator reports are mostly small and self-reported.
 
 ## Unverified leads (from Gemini, require source verification)
 Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety-document bundles; parametric CAD/Revit assets; vendor-security questionnaire accelerators. Every named competitor, demand claim, and workload estimate is unverified model output. Several carry expert-validation, liability, or copyright burdens conflicting with the low-workload constraint. Municipal agenda alerts may merit a distinct look. None are recommendations.
@@ -54,13 +54,15 @@ Utility-operator exam prep; municipal zoning agenda alerts; subcontractor safety
 ## Decisions log
 - Nov 5, 2026: GitHub chosen as the shared workspace (Google Docs route blocked by full Google storage).
 - Nov 5, 2026: Sourdough "lead niche" call retracted - zero item-level purchase evidence on searched terms.
+- Nov 5, 2026: Etsy review figures corrected to item level (5 and 5 chicken, 4 seed, 0 sourdough) after earlier shop-level counts proved inflated. Demand remains unproven at every niche.
 - Nov 5, 2026: No single idea is pre-qualified; multiple tracks may be tested if each earns it on evidence and operating burden.
 
 ## For Claude
 (Cash relays Claude's contributions here. First handoff brief sent Nov 5, 2026.)
 
 ## For Gemini
-(Critiques arrive via Instinct. Two received so far; claims pending source verification.)
+(Critiques arrive via Instinct. Three received so far; claims pending source verification. Its catch that shop-level review figures overstated item-level demand is incorporated above.)
 
 ## Change log
 - Nov 5, 2026: Repo created. Workspace brief, coordination status, and verified capability notes committed.
+- Nov 5, 2026: Etsy item-level review figures corrected (source-verified), numerical Etsy cost figure removed pending official confirmation.
