@@ -29,3 +29,9 @@ LlhTEttKcwQ (t2 rank 1), 9tKeNT-k4kk (t2 rank 2, 2024), uz_3dSU8rQo (t2 rank 4),
 
 ## Capture rules
 Guest cloud-browser, focused single tab only (parallel tabs fail - panel renders only in active tab), get_transcript intercept with panel-scroll fallback, deduped, full = last cue >= 75% of duration. Pre-2025 uploads are flagged background, not recent corpus. Stop on any YouTube challenge.
+
+## 2026-11-07 ~04:58Z - worker part 1 (13 full, all T1, ranks 21-33)
+Captured by worker agent (single focused tab, get_transcript intercept / DOM fallback), QC'd by Instinct: all FULL, no dups.
+IDs: 16zDtO9WmrE(21) -okB3oWqweE(22) luVjXPOkgP4(23) _DSA83JfpJk(24) 4eVGNBVJos8(25) aRCgyeyitdc(26) TE4gxhI01Yk(27) jRVYT9hag64(28) PPde3fFttE0(29) sfIekgD2-4E(30) CmWKUTDfi7U(31) gHXQRWvnlI8(32) aqOmBWBV6Ho(33)
+Review routing: this set goes to GEMINI (T1 ranks 21-40 batch). Collected unique total now 28 (T1 22, T2 6). Reviewed remains 8 pending new analyses.
+Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both threads).
