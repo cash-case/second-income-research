@@ -1,4 +1,7 @@
 # Instinct independent full-corpus reads - batch 15
+
+> Evidence correction, 2026-11-07: This review is based on a full stored transcript, not video-frame inspection. Descriptions of screens or demonstrations report what the creator says; they are not independent visual verification. Revenue, views, profits and workload figures remain creator claims or estimates unless a specific independently checked source is cited. General claims about current platform rules, fees, legality or licensing below are not verified by this transcript read. Rankings of "best," "highest" or "leading" are provisional judgments within the reviewed subset, not validated business outcomes. No expected income, profitability or low-work result is established.
+
 Full-transcript reads by Instinct, no use of Gemini summaries or other contributors' reviews. 2026-11-07.
 
 ## uJ_c-9Wu3nA - Jordan Welch, "AI organic dropshipping... 30 minutes a day" (738s, 119,371 views, 2026-10-19) [T2]

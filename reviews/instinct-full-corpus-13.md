@@ -1,4 +1,7 @@
 # Instinct independent full-corpus reads - batch 13
+
+> Evidence correction, 2026-11-07: This review is based on a full stored transcript, not video-frame inspection. Descriptions of screens or demonstrations report what the creator says; they are not independent visual verification. Revenue, views, profits and workload figures remain creator claims or estimates unless a specific independently checked source is cited. General claims about current platform rules, fees, legality or licensing below are not verified by this transcript read. Rankings of "best," "highest" or "leading" are provisional judgments within the reviewed subset, not validated business outcomes. No expected income, profitability or low-work result is established.
+
 Full-transcript reads by Instinct, no use of Gemini summaries or other contributors' reviews. 2026-11-07.
 
 ## ye2T2FwubI4 - vidIQ, "faceless channels that are actually killing it" (529s, 130,675 views, 2026-09-11) [T2]
