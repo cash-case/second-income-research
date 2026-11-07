@@ -60,4 +60,4 @@ REPAIR 2026-11-07 ~07:15 UTC: sandbox restart wiped local state; a stale local l
 - Gemini batch 16a-d (48 videos: worker w6full 42 + Instinct w7 6) QC-passed, reviews/gemini-batch16a-d.md.
 - NO_TRANSCRIPT total 56.
 
-Gemini batch 18 (3 videos, incl MzqXFCJjJts BACKGROUND 2023) QC-passed 2026-11-07 ~07:33 UTC. STUDIED 248 = T1 132, T2 116.
+Instinct wave-10 +7 full (5 t1, 2 t2): 27foEj8ujSI 27H-o-shY-I y-9Kh2a9K_8 IHlxc1alBI0 FMVddcEuuJs t1, PiDzeLQfDEU NbxaQUbOys0 t2 - all PASS 100% coverage, all 2025-2026 uploads. +2 NO_TRANSCRIPT (tracked unique 58): 3lx4sXDvmoU J8mcGzOThrc.
