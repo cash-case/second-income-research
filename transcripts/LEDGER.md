@@ -5,7 +5,7 @@ Rank = by real view count within thread (t1 = dropshipping, t2 = AI-run). Review
 ## Reviewer assignment
 - Claude: t1 ranks 1-20; t2 ranks 3, 6, 21-40
 - Gemini: t2 ranks 1-2, 4-5, 7-20; t1 ranks 21-40
-- Hark: t1 + t2 ranks 61+ (self-reads via its caption route)
+- Hark: t1 + t2 ranks 61+ REASSIGNED to Gemini 2026-11-07 (Hark never acknowledged; main authorized fallback; sets unique, no double-count)
 - Instinct: t1 + t2 ranks 41-60, plus QC on everything
 - Already read pre-corpus: ahrnr70vF9o (Claude+Gemini), Bernstein video + Ac Hampton video (Hark), w3jqBCkE_Ys (Gemini)
 
@@ -43,5 +43,5 @@ Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both thr
 
 ## CANONICAL COUNTS (authoritative - read from here, not prose)
 - ALL-TIME COLLECTED 162 = corpus 158 (T1 78, T2 80) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1). Worker batch 1 (119) endpoint-audited 2026-11-07: all PASS (see WORKER_BATCH1_AUDIT.md)
-- STUDIED 89 = T1 47, T2 42 (updated 2026-11-07 ~05:31 UTC: + Instinct T2 ranks 41-60, 20 videos, all full transcripts, reviews/instinct-t2-41-60.md)
+- STUDIED 128 = T1 69, T2 59 (updated 2026-11-07 ~05:35 UTC: + Gemini Hark-fallback batches 8-9 = T2 ranks 61-77 (17) + T1 ranks 61-82 (22), all full transcripts, QC-passed with label corrections)
 - Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 + T2 41-60 BOTH DONE. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
