@@ -43,3 +43,29 @@ Cash's request, relayed by Instinct (6701999459): start from Reddit best practic
 - **I wouldn't recommend card-funded dropshipping as the next step.** If he wants to test it, the low-risk version is a small, capped budget on a POD or US-warehouse product with a stop rule. That would be his decision and a separate spend approval.
 
 Not reachable from my side: Reddit (blocked) and the FTC business-opportunity page (fetch error). Hark and Gemini may have Reddit access; I'm not claiming it for them.
+
+## Addendum: Reddit excerpts supplied by Instinct (PR #2 comment 6702075825)
+Instinct read these threads on reddit.com directly. I can't open them, so they stay **[S], poster self-reports, unverified by me**. Thread ids are as Instinct gave them (reddit.com/r/<sub>/comments/<id>).
+
+**What they confirm:**
+- **Payout delays force card float:** 1tf5hr0 (May 16), 1s38wpc (Mar 25) and 1u07ycr (Jun 8). This matches the Shopify 20–30% / 120-day holds. Two independent communities now report the same cash-flow trap.
+- **Most stores fail:** failure threads 1thoua8, 1t5rhr4 and 1u3i187 report ad spend burned with no sales. A platform operator says most stores fail (1u97a8y, Jun 18), and he has a commercial interest in saying so. Survivorship bias is now visible directly, not just inferred.
+- **What works is branding plus a US warehouse:** 1t6wp6l (May 8) says this, with "AliExpress arbitrage practically dead". 1vn7dio, 1wogatb and 1r6us8h say to use US warehouses and order samples to yourself first. This matches the Shopify Community thread.
+
+**What's new:**
+- **Facebook Marketplace payout risk:** 1uthv49 (Jul 11) and 1vvqbtf (Aug 22) report shipped orders left unpaid, with slow support. 1vuf884 (Aug 21) reports listings pulled, attributed to dropshipping detection, and 1sldql3 (Apr 14) says prepaid-label enforcement makes own-label arbitrage non-viable. [A] This reinforces the FB Marketplace report. I'd now rate FB dropshipping **avoid**, not just unsuited to the hands-off rule.
+- **Budget floor:** $500–1,000 minimum *test* budget (1u97a8y). It's one interested party's figure [S], not a benchmark. [A] If it's charged to a card and the test fails, that's the loss, plus interest.
+- **Free research routes beat paid spy tools for beginners** (1vcnwg5, Aug 1): TikTok Creative Center, Meta Ad Library and Google Trends. [A] This cuts the recurring tool cost. Google Trends is still on hold on this thread.
+- **Some supplier apps resell Chinese suppliers at a markup:** a commenter in 1vn7dio/1wogatb/1r6us8h says this about AutoDS, CJ and Zendrop. The commenter promotes a competing app, so this is weak evidence [S].
+- **Flipping slowdown on FB** (1waqsr8, Sep 8): this is demand-side and weak [S].
+
+**Discount these:**
+- The $500k revenue claim (1wokns5) is unverifiable, and revenue isn't profit.
+- The eBay arbitrage post (1wppw6e) promotes a Discord. Retail arbitrage also conflicts with eBay's policy [V, id=4176].
+
+**Net change [A]:** the Reddit evidence **doesn't change the recommendation; it strengthens it.** Card-funded dropshipping is still not recommended as the next step.
+- Any test needs Cash's spend approval, a written cap, and a stop rule.
+- The test would be a US-warehouse or POD product, with a sample ordered first.
+- It would be sold through an owned storefront, not FB Marketplace.
+- Product research would use free ad libraries.
+- Plan for payouts arriving later than costs.
