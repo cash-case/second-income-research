@@ -35,3 +35,13 @@ Captured by worker agent (single focused tab, get_transcript intercept / DOM fal
 IDs: 16zDtO9WmrE(21) -okB3oWqweE(22) luVjXPOkgP4(23) _DSA83JfpJk(24) 4eVGNBVJos8(25) aRCgyeyitdc(26) TE4gxhI01Yk(27) jRVYT9hag64(28) PPde3fFttE0(29) sfIekgD2-4E(30) CmWKUTDfi7U(31) gHXQRWvnlI8(32) aqOmBWBV6Ho(33)
 Review routing: this set goes to GEMINI (T1 ranks 21-40 batch). Collected unique total now 28 (T1 22, T2 6). Reviewed remains 8 pending new analyses.
 Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both threads).
+
+## 2026-11-07 ~05:08Z - leg 2 (49 full: Instinct 11 + worker part2 38)
+- Instinct leg: T1 ranks 12,14,19 (_EYjyrNKCkk, MrCZBfeTdag [2024-09 BACKGROUND], qA6w5PbdF4I); T2 K8Ros5RhJW4(r5 retry OK) + ranks 11-15,17,20 (9q5ojtkqsBs, 638GQZ9UZ4w, Xl57Pki6ChE, 1dvM89NMK3s, XUYvDbAv1IA, q1g65sjQI-4, P-ULbNbV5IQ).
+- Worker part2: T1 ranks 34-71, all FULL, all 2025-2026.
+- New verified NO_TRANSCRIPT (9): t1 r-akYidsTHU(13), ywI5vAe2FmA(15), 8n7LQAuwfR8(16), J2ZjZskh1hY(17), OlDS58i5_ps(18), RtBsLa8kGmw(20); t2 Sp83h2FqOH0(16), -WSoI1zL_Z4(18), 6cm2o8zzuNw(19). Total unavailable now 15.
+
+## CANONICAL COUNTS (authoritative - read from here, not prose)
+- ALL-TIME COLLECTED full transcripts: 81 = batch corpus 77 (T1 63, T2 14) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1).
+- STUDIED all-time: 21 (T1 16, T2 5) - see reviews/ + pre-corpus; Claude's 11-file set pending.
+- Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 41-60. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
