@@ -43,5 +43,5 @@ Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both thr
 
 ## CANONICAL COUNTS (authoritative - read from here, not prose)
 - ALL-TIME COLLECTED full transcripts: 81 = batch corpus 77 (T1 63, T2 14) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1).
-- STUDIED all-time: 21 (T1 16, T2 5) - see reviews/ + pre-corpus; Claude's 11-file set pending.
+- STUDIED 56 = T1 43, T2 13 (updated 2026-11-07 ~05:11 UTC: + Instinct T1 ranks 41-60 full reviews committed)
 - Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 41-60. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
