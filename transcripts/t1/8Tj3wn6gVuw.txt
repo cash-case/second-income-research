@@ -1,0 +1,176 @@
+VIDEO: How to Start Dropshipping on TikTok Shop (2026)
+URL: https://www.youtube.com/watch?v=8Tj3wn6gVuw
+CHANNEL: Elliott Prendy
+UPLOADED: 2026-05-31
+DURATION_S: 382
+VIEWS_AT_DISCOVERY: 13579
+THREAD: t1 RANK_BY_VIEWS: 53
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~380s of ~382s, 166 cues)
+
+In this video, I'm going to show you how
+to start drop shipping on Tik Tok Shop.
+Tik Tok Shop is one of the biggest
+shopping platforms in the world, and you
+can start listing and selling products
+today to start making money online with
+Tik Tok Shop. I'm going to show you how
+to import products from a third-party
+supplier. How to edit those products to
+optimize the titles and the descriptions
+so your products can be found by
+customers on Tik Tok Shop. and how to
+automatically fulfill your orders so you
+can simply focus on listing more
+products and making more sales. So,
+let's get straight into it. The first
+thing you're going to do is head to Tik
+Tok seller center and create an account.
+You can sign up with your email address,
+a Tik Tok account, or a Google account.
+I already have a Tik Tok seller center
+account, so I'm simply going to log in.
+Once you're logged into your Tik Tok
+seller center account, the next thing we
+want to do is connect a drop shipping
+supplier to our Tik Tok shop so we can
+start importing and selling products.
+The supplier platform we're going to use
+to import products to our Tik Tok shop
+is called AutoDS. I'll leave a link in
+the description to AutoDS and you'll be
+brought over to this page where you can
+get a trial of AutoDS for just $1. The
+import plan will allow you to import up
+to 200 products to your Tik Tok shop.
+And this starts at just under $20 per
+month. So, we're going to click on get
+started and you can create an AutoDS
+account. I already have an AutoDS
+account, so I'm simply going to log in.
+Once you're logged into AutoDS, you can
+connect your AutoDS account to your Tik
+Tok shop to begin importing and drop
+shipping products. From your AutoDS
+account, click add store in the top
+right corner. Choose Tik Tok shop and
+click continue. Choose which region your
+Tik Tok shop is based. So I'm based in
+the UK, so I'm going to choose other
+countries and hit continue. You'll then
+be brought over to Tik Tok seller center
+and be asked to choose your region
+again. My account is under the Europe
+seller tab. So I can click on this,
+choose the United Kingdom, and click
+next. You'll be prompted to install the
+AutoDS app onto your Tik Tok shop. So,
+click confirm to install and then click
+authorize. You'll then be brought back
+to AutoDS. From here, head back to Tik
+Tok shop. Click on the logistics tab,
+click on warehouses, and click add
+warehouse. You can enter in your own
+address as your warehouse address. Then
+head back to AutoDS and click continue.
+Now, we're ready to import our first
+product from AutoDS to Tik Tok shop.
+From the AutoDS marketplace, you can use
+the filters to find an appropriate
+supplier. As my Tik Tok shop is based in
+the UK, I'm going to filter the
+suppliers to look for UK-based suppliers
+that ship to the UK. And I'm also going
+to choose AutoDS suppliers. You can now
+scroll through all of the products until
+you find a product that you want to push
+to your Tik Tok shop and begin selling.
+So, I've chosen this polo neck sweater
+as the product to import to my Tik Tok
+shop. You can click on import as draft
+and edit manually to begin editing the
+product before pushing it to your Tik
+Tok shop. Then click on view in drafts.
+From here, you can begin editing the
+product before you push it to your Tik
+Tok shop. You can start out by
+optimizing the product title using AI.
+Make sure stock monitoring is turned on.
+This means if the product goes out of
+stock, it will automatically be removed
+from your Tik Tok shop. Live price
+monitoring should also be toggled on.
+This means if the supplier's price
+changes, you can edit your sale price
+accordingly so you maintain your
+profits. Also, leave auto order on so
+your products will be fulfilled
+automatically via AutoDS. You can also
+edit the product description using the
+AutoDS AI optimizer tool. This helps you
+to rank your Tik Tok shops products
+higher when customers are looking for
+them. Next up comes the variance tab.
+You can bulkedit the variants of your
+product. For example, this polo sweater
+comes in various colors and sizes, but I
+want to sell all variants for the same
+price. So, select all of the variants
+and click the pencil icon to edit all of
+them at once. I'm going to change the
+sale price to $29.99. So, all of the
+variants of my product are listed for
+the same price.
+Next up, come to the images tab and
+select the images of the product you
+want to use for your Tik Tok shop
+listing. Finally, you can add any item
+specifications if you want to and then
+click save and import. The product may
+take a few minutes to push to your Tik
+Tok shop. After a few moments, the
+product will sync from AutoDS through to
+your Tik Tok shop. You can now head to
+your Tik Tok shop, click on the products
+tab, and click manage products. You'll
+see your product under the reviewing
+tab. In most cases, your product will be
+reviewed fairly quickly, but in some
+cases, it may take a few days for your
+product to be reviewed by Tik Tok. Once
+your product has been reviewed, it will
+then be set to live and be displayed
+under the live tab. Your product is now
+live on Tik Tok shop and available for
+purchase by any customers. Next up, let
+me show you how order fulfillment works
+once a customer purchases a product from
+your Tik Tok shop. So when a customer
+orders a product from your Tik Tok shop,
+you can come to the orders tab within
+Tik Tok shop and click manage orders.
+You'll see the customer's order saying
+awaiting packing. You can now head to
+AutoDS to fulfill this order. So from
+AutoDS, click on orders. You'll see the
+customer's order saying pending under
+order status. You can click on the
+drop-own and choose send to auto
+orderer. It will then say in order
+progress. AutoDS will now pack and ship
+the product to your customer. For auto
+orderer to work, you need auto orderer
+credits. So, make sure your auto orderer
+credits are topped up. You'll also need
+to make sure your AutoDS balance is
+topped up in order to pay for the order
+that you want to fulfill. If you have
+any issues, you can reach out to
+AutoDS's customer service at any point.
+So, there you have it. That is how you
+can start drop shipping on Tik Tok shop.
+If you have enjoyed the video, give it a
+big thumbs up. Subscribe to the channel
+for more drop shipping and e-commerce
+content. And hopefully I'll see you in
+the next
