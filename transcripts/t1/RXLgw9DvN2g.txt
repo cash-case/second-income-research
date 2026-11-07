@@ -1,0 +1,185 @@
+VIDEO: How Claude Runs My Tiktok Shop Dropshipping on Autopilot
+URL: https://www.youtube.com/watch?v=RXLgw9DvN2g
+CHANNEL: Kostify
+UPLOADED: 2026-07-28
+DURATION_S: 1336
+VIEWS_AT_DISCOVERY: 7705
+THREAD: t1 RANK_BY_VIEWS: 62
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~1328s of ~1336s, 175 cues)
+
+I've been doing e-commerce for four years now and selling on Tik Tok shop for two. And what I'm about to show you genuinely blew my mind when I first found out about it this morning. I know
+there's a ton of misleading corny guides on YouTube about AI drop shipping from people that are just trying to sell you courses, but I assure you I don't have any negative intentions with this video.
+You can check the description right now.
+I don't have a mentorship or a course to sell you. I'm just going to share how I set up my Tik Tok shop automations with AI to find products for me, import them
+to my Tik Tok shop fully in Claude and even fulfill all of the orders automatically that I'm getting. The first thing you're going to need to start making money with Claude AI Tik
+Tok Shopipping is a winning product to sell. So, let me show you how to make Claude do the research for you to find the winning product. The first thing
+you're going to obviously need is Claude. And unfortunately, this method doesn't work on the free plan. So, you will have to get the $20 per month pro plan. Once you got the pro plan, you
+have to download the desktop app because this method doesn't work in the web version. It only works in the app. The last thing you're going to need to do is install the clawed Chrome extension or
+the extension for whichever browser you're using. For me, it's Chrome. So, I just go into this website, click add to Chrome, and then click add extension.
+After that, it will redirect me to this page and I just need to click authorize.
+And now we can officially abuse Claw to find products for [music] us. The reason we have to give it access to Chrome and download the extension is so that it can use Chrome to literally do the research
+for us and go to the tabs and find everything for us without us ever having to go to Chrome ourselves. Once you've done all of that, you go into the Claude
+desktop app and paste in this prompt that I will leave in the description of this video. I don't recommend you selecting the Fable 5 model. Opus 4.8 is
+ideal because Fable 5 is going to eat through the credits like super fast.
+Then you just press send. It will ask you for a few permissions and you just need to click allow. This is just for it to know that it can go to Amazon and it
+can do all of the research that it needs to do. And as you can see, Claude is now literally doing the research for me to find the product that I can drop ship on Tik Tok shop without me even having to
+touch anything. There's actually two ways to use Claude for product research.
+This is just one of the two. And both of them then import the products straight to your Tik Tok shop through AutoDS, which is a tool that I will show you how to install in a second that will fulfill
+all of our orders automatically. AutoDS is also the tool we will use to connect our Tik Tok shop to Claude, so we can upload the products through Claude without ever leaving it. I'm going to
+tell you more about AutoDS, which is a crucial part of the entire setup in a second. Let me quickly explain to you how this mechanism actually works because it's quite fascinating. So,
+basically what's happening here is that Claude is literally taking screenshots every few seconds of every page that it sees and then it analyzes everything and tries to figure out what to do with it.
+We can see right here in Claude all of the screenshots that it took so far. And it tries to look at the screenshots in the products that it sees on the screen to see if they fit the criteria that I
+outlined in the prompt. Specifically, the criteria that I outlined is number one, the product has to be shipped from the US with fast US-based shipping. And
+that's very important because on Tik Tok shop, you have to ship all of your orders to customers within six business days since the moment they placed the order. So shipping from China is not
+going to work. It's not allowed on Tik Tok shop. Also on Tik Tok shop, you cannot sell copyrighted or trademarked products. So the next criteria is basically Claude making sure that the
+products are not branded. They're default and there's no logos on them.
+That way we can make sure we can actually legally sell them. And the final criteria is just Claude making sure that the product will actually be profitable. It will not suggest us to
+sell products that are already $200 on Amazon. It'll only suggest me products that are cheap to source. That way I can add a markup on Tik Tok shop so people
+buy it and I actually make a profit. And then when someone places an order from my Tik Tok shop, I take the customer's money and use it to order them the product that they ordered from me from
+Amazon for a cheaper price. It's really quite a fascinating model. And I also incorporated here in the prompt specific instructions for it to make it easy for
+me to incorporate with AutoDS in the next step, which I'm going to show you in a second. And while Claude is running the product research in the background, the next thing we're going to need to do is setting up the app, which is called
+AutoDS, that will connect directly our Tik Tok shop to Claude and will allow us to publish the products from Claude.
+I'll leave a link to AutoDS in the description. It's pretty straightforward. You type in your email, your full name, and you create a password. Doesn't really matter. Then
+you just click join now. In here, select Tik Tok because we're interested in selling on Tik Tok shop. And then you can select whichever package is the best for you. I just recommend you go with
+either the import 200 or the starter 400 and switch to monthly before you purchase so you don't get charged for a full year. And here you will get a 3-day
+trial for only $1, which is pretty cool to test everything out without any commitments. Now, I obviously already have an account, so I'm going to log out of this. And now, the next thing you're
+going to need to do is go to your Tik Tok shop seller center. Then, click on apps and partners and click app store.
+Once you're here, just go to the search bar and type in AutoDS. And here, go to the AutoDS app, the official app from the Tik Tok shop seller center. And then
+I already have the app downloaded, but you would just need to click install or download in here. Then you authorize it to your shop. Then you select the Tik
+Tok shop here. Then in here, you just authorize it permanently and click confirm to install. Once you've done that, there's one last step that you
+have to take before it's actually going to be connected to your Tik Tok shop and to Claude. You're going to have to go to the code section, then click customize here on the left side of the screen.
+Then you need to go to connectors over here on the left side of the screen.
+Click add, browse connectors. [music] Then you type in AutoDS and click the plus icon over here. Then just click
+connect. Then it will redirect you to an AutoDS page. And all you'll need to do is just log into your AutoDS account that you just created and voila, you're done. Now, because AutoDSM MCP is
+connected directly to my Tik Tok shop and to Claude, I can ask it any questions about my existing Tik Tok shop that it's connected to and it will give me accurate data about the products that
+are listed on my shop and how they're doing. And later, we will use this connection to also import the products to our Tik Tok shop without leaving Claude. As you can see here, it's now
+listing all of these different products that I have listed on my Tik Tok shop with all of their prices. And it's done that for every Tik Tok shop I have connected to this AutoDS account. So, it
+sees all of the data from all of the accounts that I connected to it. I almost forgot that it was also running Amazon product research while I was doing all of that and setting all of this up. So, let's check back in with
+Claude and see what it came up with. So, first of all, it correctly analyzed that these three products that it found all have fast shipping below six business days, which is a very good sign. It means that we will be able to sell it.
+And it looks like none of them are branded. They're all default products, so we can legally sell them on Tik Tok shop. Also suggested the selling price.
+So, this product, for example, is being sold on Amazon for $30. and it's suggested to sell it for $40, which will be a 33% markup. But what's even more
+impressive about this is that it rejected multiple products that didn't fit the criteria instead of just feeding us all of it. For example, many products it found had a brand name in the title
+of the product. So, it automatically rejected all of them because again, you can't sell copyrighted products on Tik Tok shop. And it was even smart enough
+to reject a product with a Jurassic word in the title because it thought it might lead to some trademark issues with the Jurassic Park movie. Now, we can
+literally just paste this little part of the message here and import the products to our Tik Tok shop through Claude without even leaving it. But before I show you how to import them, let me
+first quickly show you the second product research method that Claude MCP also enables us to do with AutoDS's catalog of products. Now, I can just go
+into a different chat. Again, everything is already connected to AutoDS, paste in this prompt, and hit enter. And what it's doing now is instead of looking
+through Amazon listings, it's looking through AutoDS's catalog of winning products. And I'm pretty sure they literally have tens of thousands of products uploaded on there and all of
+the sales data for each one of them. So, because it's connected directly to my AutoDS account, it has access to all of those winning product analytics and I don't even have to leave Claude for it
+to determine which products are winning, which products fit the criteria and which products don't. This time, instead of searching for products in the toys niche just to spice it up, I asked it to
+search for fitness and gym niche products that I could sell in my Tik Tok shop. And specifically, I asked it to filter products that are only being able
+to ship from US warehouses to get fast shipping priced between $10 and $40 so we can avoid having to price products at hundreds of dollars. And I also made
+sure to mention that I'm only looking for products with a healthy margin of at least 30% over cost. So, we're not going to sell products that only make us 10%
+in profit. We're not looking to make that. And I also asked it to filter out any products with slow shipping or weak margins, obviously. and I asked it to
+show me those products instead of just ignoring them and hiding them so I can see the difference and show it to you guys. Okay, so it ran the research and initially it came up with a bunch of
+different products but after looking at them I figured out most of them were actually branded and that doesn't work on Tik Tok shop like I said before and the way I could tell that these products
+are trademarked and branded is that they have the name of the brand directly in the product title here. So then I asked it to run the research again and this
+time filter out all of the branded products and only give me the non-branded products. So it did the research again and this time it came up with this one product which does not
+have a brand name and it filtered out all of the slow shipping unbranded products. So this one is literally shipping within 2 days which is well within the six business day Tik Tok shop
+shipping requirements and the margin here is 400% which is incredible. So in theory if we now list it on Tik Tok shop
+for $40 and we're going to source it for $8, we will be getting almost $32 for every sale in profit. And now the most
+incredible part is that I can just tell it literally to import this product for me without me ever having to go anywhere outside of cloth. So I'll just type in
+import the unbranded product to my Tik Tok shop and hit enter. So it found the product and now it's literally importing
+it to my Tik Tok shop without me even having to leave Claude. It's incredible.
+Now I have multiple shops connected. So I will select the one that I want it to be added to, which is this one. And without even leaving Claude, it's now been imported to my Tik Tok shop. And
+just to make sure that's actually the case, if I go to my AutoDS dashboard here, we can see that it's all the way over here in the product section. My product has been imported. And because
+the AutoDS account is connected directly to my Tik Tok shop, if I now go to my Tik Tok shop seller account, here it is.
+My product is now active. It added 10 units in stock. I actually forgot to tell AutoDS to change the price to $40 when asking it to import the product.
+But it's not a problem. I can just tell it to I can just lally adjust the price right here to $39.99 and click save. And now the product is listed on my Tik Tok
+shop. And I didn't even have to literally leave Claude to find the product or to import it. It brought all of the images of the product, the name, the category, the brand, and all of the
+other details, including the product details in the description. It brought all of that directly from the existing AutoDS catalog. So, I don't even have to fill any of this out. I will say though,
+ideally in here, you should change the brand. If it selects some sort of a brand, change it to no brand. Hit this option, choose no brand over there
+because this is the compliant way to do this. And it looks like there's one repeated duplicate image. As you can tell here, the AI tells me that I need to remove it. So, I can just click
+delete. And just like that, the listing is fully [music] compliant. I hit update. It's asking me for a few more details. Just select no. No, the goods
+are not hazardous or dangerous. So, just like no here. Update. And voila, the product has been submitted. It is now officially live on my Tik Tok shop. I
+can start creating content, getting sales. The orders will be automatically fulfilled because the product is connected to the official AutoDS catalog and they will be fulfilling the orders
+on my behalf when I'm getting them. This literally feels like magic to me even still now because I just found out about all this literally this morning. And I used to have to upload all of the
+products, do all of the research, and spend all of that time doing this manually for hours or even days at a time. I'm not just trying to say this for shock value or to exaggerate how
+good this is. This is genuinely just that freaking good. And by the way, I almost forgot. In order to import the products from Amazon, the ones that it
+found on Amazon to your Tik Tok shop, you need to click this little message that it's going to give you. Then just go to the AutoDS tab, paste in whatever
+it gave you, and tell it to import those products from Amazon to my Tik Tok shop.
+These codes at the very end of the titles of the products will help AutoDS identify what product this is on Amazon, then locate it there and import it directly to your Tik Tok shop. Okay, I
+edited the prompt a little bit so it doesn't directly push the products and first adds them to my drafts on AutoDS so I can make sure all of it is correct.
+Now I just hit enter and it's going to import all of these products from Amazon directly to my Tik Tok shop again without me even having to leave Claude.
+All right, so it ran for a few minutes here and now all of these products were literally imported to my Tik Tok shop as drafts without me even having to give it any links. It found all of these
+products by these numbers. And now if I go to my AutoDS product list and then I switch from products to drafts because I
+explicitly asked it to add it to my drafts instead of straight up pushing it as a live listing product. I can see that they're all right over here in my drafts. Now, there's one thing you have
+to do before actually uploading them from Amazon directly to Tik Tok shop, and it's a step that Tik Tok shop requires. It's not AutoDS's fault. It's just how the platform works. And that's
+basically going inside of this listing before you hit save and import. Then going into the specifications right here, and then you just need to make sure all of these asterisks fields are
+filled out. All of these are necessary, and you can't push the product before you actually fill this out. So, I'm just going to do this really quickly.
+Okay, done. So, basically in here, I just selected that the tracking label is not applicable. That's what you can select for most of these toy products.
+They ask you for this. You can just select not applicable. The region of origin is typically China. They're not going to fact check that. So, you can just select China and the recommended age. I usually just set to 12 years and
+above. So, they don't ask for any extra tests [music] and proof because they really are very strict with products for young children. And then it's important
+you hit the check mark icon here instead of clicking directly save and import.
+Once you filled all of that out, you go back to Claude and you ask it to import this product to your Tik Tok shop now that you have filled out these fields.
+So, I'm going to copy this product's name and tell it to import this product to my Tik Tok shop directly. Hit enter.
+And now it's importing this product to my Tik Tok shop. The reason we have to first fill out these different criteria and attributes here before just pushing
+out the product directly is that I found when playing around with this tool in my experience that it just crashes and it doesn't work well if you don't fill out these criteria because they're necessary
+on Tik Tok shop. So if I try to just tell it to import one of these other products that I didn't fill out the attributes for, then it would just not go through. And by the way, it just
+looks right here like it failed. For some reason didn't register the region of origin that I already added. Okay, I forgot to hit save when I filled out the
+attributes. So let me just do it again real quick. Okay, now I'm going to hit save. And now that the product has been saved. As you can see here, it found that mistake. It's exactly what I was
+telling you about. You have to fill out the attributes. I can tell it to try again. And now it's supposed to actually do this. There you go. Just like magic.
+Now, it went through and it's telling me that the product was uploaded to my Tik Tok shop. So, if I go here into the product section on my Tik Tok shop and
+refresh the page, there you go. Right here, you can see the product has been uploaded. Then again, I can change the price here. I can go and edit the product listing. I can see literally all
+of the information. It has imported all of the images from Amazon directly to my Tik Tok shop listing. I will delete the duplicate image here. I can change the
+brand to no brand. And then just make sure everything in here is correct. As you can see, the product description was imported. Everything was imported. I can adjust the [music] price to have
+something here that's actually going to be profitable. Select no because none of this applies to the product. Click update. And just like that, the product
+is now fully compliant and it's been imported to my Tik Tok shop. And the product listing quality is very good, which is a great sign, which means the product is fully compliant. Tik Tok shop
+likes it. They have reviewed it and they have approved it and everything looks great to them. Now, uploading products to your Tik Tok shop and doing research through Claude is obviously fun, but
+there's no money in this unless you actually promote the products and start getting sales. So, now let me show you how to make Tik Tok shop AI videos online without having to ever show your
+face or speak in the videos. It's fully generated by AI. Now, there's a ton of different tools you can use for AI video generation. Many people bring up
+different tools you can use for that, but I specifically recommend you use this tool called Create UGC because this is a tool that's built by ecom operators
+for ecom operators. And it's literally designed to make ecom Tik Tok shop UGC videos. It's the most intuitive. There's no need to set up any skills, any
+connections, anything crazy. It's very straightforward and very beginner friendly. So, I'll leave a link to it in the description. Once you're here, just type in your email, full name, and
+password, and click start for free. You can create a free account on here. And once you log in and sign up on the platform, you will be on this dashboard.
+You'll see a bunch of different examples of currently winning good videos on Tik Tok shop and videos that were just created on here. You will see an inspiration videos tab, which I highly
+recommend you to check out, especially if you're a complete beginner. This will give you a great idea of what currently works on Facebook, on Instagram, and specifically on Tik Tok Shop, which is
+what we're all talking about here. So you'll see a bunch of videos, all of their statistics, their views, and you'll be able to use this as inspiration for your videos, for your
+product and Tik Tok shop. In order to create your own videos that you can then post on your Tik Tok shop accounts to promote your product, you just need to go to create new video and then you can
+select from each one of these three options, whether it's product in hand, avatar and script, or product reaction.
+Let's just click product reactions for simplicity. It's integrated with Cedance 2.0, which is probably the best video generation tool out there right now, literally in the world. So, we can just
+click here, Cedant 2.0, and click continue. Then, we can copy the link of the product that I uploaded to my Tik Tok shop and paste it in here directly,
+the Amazon product listing, and click continue. And it will pull all of the data from that Amazon listing and create videos with its product, with its
+pictures, with the product description with the name. It will get all of that context to create real visuals and a real video based off the information from the product listing alone. It's
+quite incredible. So, now I can just click next here. I can skip this. Just select the ratio. Make sure it's 9 by 16. The language is English. And the
+duration we can select 8 seconds. It doesn't really matter. Click next. And here we can select uh avatar from the library that that they have over here at
+create UGC. I would say this is a product for kids. So we should select someone that would like associate with kids. I think [music] this avatar Mia
+here kind of looks like that. We can also even add our own avatar. Then click next. For voices, we can just select a female voice here. Welcome to create UGC. Welcome to create UGC.
+I think that's pretty good. It's the default voice for that avatar. So, we can just click next here. And it even created a full script of the video for me. I didn't have to type in anything.
+It just literally came up with this right now. We can select from three different styles, funny, selling, or professional. I'll just keep it at funny just for this example and click next
+here. And now I can click generate. And it's now officially generating my video.
+And I can just leave the page and come back in a few minutes when it's going to be fully done. Like none of this existed when I was starting on Tik Tok shop more than two years ago. Bro, I can't emphasize how incredible it is today.
+The things that you can do with AI. I feel like a grandpa. Claude found the product for me. Claude imported the product for me. And now AI is also making content for me that I can post
+that will get views and then convert into real sales. While it's generating this video here, I want to actually show you how to fulfill your orders because obviously once you start getting sales,
+you need to ship out the products to your customers somehow. And there's one important thing you have to do to make sure that does everything automatically smoothly. So, if you followed this guide
+step by step so far and you connected your AutoDS account to the Tik Tok shop account and imported the products through AutoDS, all of your orders will
+be fulfilled automatically because AutoDS will automatically fulfill all of your orders. And whenever somebody places an order on your Tik Tok shop,
+that will be run through the AutoDS data and they will then ship out that customer the product that they ordered directly without you having to touch anything. One setting that you have to
+enable though for this to actually work is you need to go to settings on your AutoDS account. Then you need to go to automations here. Then you need to go to
+supplier settings, go to orders, [music] and then select automatic orders. Make sure this is checked right here. This will ensure they will actually
+automatically be fulfilled without you having to do anything. If this is not selected, the orders will not be shipped out to your customers without your approval. So, I highly recommend you
+select this so you don't have to go in and approve every single order manually.
+There's no reason to do that. And a quick other side tip that I had to learn the hard way that no guru on YouTube will ever tell you about because they don't actually do this like me. You
+need to go to logistics on your Tik Tok shop. Then go to shipping or fulfillment. Then in here you need to go to excluded areas at the bottom of the
+page and select Hawaii and Alaska and hit save. The reason it's important to do this is that it's very important that you ship the orders on time on Tik Tok shop within the six business day window.
+If the shipping time exceeds six business days, you will get violations and your Tik Tok shop can get taken down. And for regions like Hawaii and
+Alaska, the shipping time can be extended to over six business days because it's very remote areas. So, I just highly recommend you exclude these
+shipping regions from your Tik Tok shop shipping settings so you don't accidentally get in trouble and get violations that you don't want to get.
+Okay, it took a little bit of time, but it generated the video. Now, let's give it a little watch.
+Is your desk looking sad? Give it some squishy friends. Grab your 30 pack today before they vanish.
+I like how it got all of the text right on the box. It really looks so realistic. Like everything from the physics, like you can see the toys are
+shaking when she's shaking the box slightly. Look at this. Look at the toys shaking a little bit. That's incredible.
+This is so realistic. And now I would download this video here. Click download. And then I can post it on my Tik Tok as either organic content or
+literally run ads to it. And I'm pretty sure this would do pretty well. this.
+It's incredible. And it did all of this just from me giving it a link to the Amazon product that was found by Claude.
+I didn't even feed it any images or any description of the product or even the script. It came up with it all on its own. It's just crazy. I'm going to leave
+a link to Create UGC as well as AutoDS in the description of this video. Autods has a 3-day for $1 trial. That's the tool that you use for fulfillment as
+well as connecting claw to your Tik Tok shop directly. And Create UC is used to create content. I'm still blown away by all of this AI stuff, but as corny as it
+sounds, everybody says this AI revolution, you know, whatever AI is going to replace you, it's genuinely kind of scary. Like, if you don't start using this now, I fear you might be out
+competed by literally any random person within a few months that will start learning this. You can't be competitive anymore without AI. So, I don't know
+about you, but I will definitely be incorporating all of this in my day-to-day operations on my Tik Tok shop, and I highly suggest you do the same. Even if you don't end up using
+this video as the final product and you don't end up posting it, it's still great for inspiration and potentially, you know, seeing what your videos that you want to make will look like before
+you actually hit record. It's very useful to generate them with AI first.
+That's it from me. I really just scratched the surface about the product research criteria and how I validate products for Tik Tok. So, if you want to learn more about that, check out this
+video where I explained in depth how I do that and talked more about drop shipping on Tik Tok shop. Thank you for watching. I'm going to see you guys in the next one. Bye-bye.
