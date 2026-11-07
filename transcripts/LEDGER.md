@@ -43,5 +43,5 @@ Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both thr
 
 ## CANONICAL COUNTS (authoritative - read from here, not prose)
 - ALL-TIME COLLECTED 162 = corpus 158 (T1 78, T2 80) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1). Worker batch 1 (119) endpoint-audited 2026-11-07: all PASS (see WORKER_BATCH1_AUDIT.md)
-- STUDIED 64 = T1 43, T2 21 (updated 2026-11-07 ~05:18 UTC: + Gemini T2 expanded-pool batches 5-6, 8 videos, QC-passed)
+- STUDIED 69 = T1 47, T2 22 (updated 2026-11-07 ~05:29 UTC: + Gemini batch 7, 5 videos, QC-passed)
 - Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 41-60. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
