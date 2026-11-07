@@ -1,0 +1,969 @@
+VIDEO: The SIMPLEST Way To Make Money Online With Claude AI In 2026
+URL: https://www.youtube.com/watch?v=JrFZ_ky7AzE
+CHANNEL: Sean Dollwet
+UPLOADED: 2026-08-24T05:00:09-07:00
+DURATION_S: 1708
+VIEWS_AT_DISCOVERY: 942222
+THREAD: t2 RANK_BY_VIEWS: 9
+CAPTURE: Instinct cloud-browser guest transcript panel, 2026-11-07 ~04:52Z, deduped
+COMPLETENESS: full (last cue ~1704s of ~1708s, 959 cues)
+
+If you want the simplest way to start
+making money online with Claude AI, this
+video is going to walk you through the
+entire thing start to finish. I'm going
+to show you exactly how to use Claude to
+build a simple digital product and get
+it in front of real buyers within days.
+No website, no ads, and never have to
+show your face. What I'm about to show
+you isn't flashy or complicated. I made
+over $2.3 million so far doing this
+exact business model myself. So, I know
+it works if you take action. And I was
+doing this for years before Claude or
+any other AI tools existed, which is
+actually a good thing because that means
+this business model isn't just another
+AI trend that's going to disappear
+within 6 months. So Claude didn't invent
+this, but it made the whole process 10
+times faster. So if you enjoy this type
+of content and want me to make more, let
+me know by tapping the like button and
+let's get right into the video. Now,
+just a disclaimer that this video is not
+me promising you that you will make 10K
+per month within 30 days or something
+like that. The goal of this video is to
+help you make your first ever sale
+online. I'll show you how to make real
+money from a real product using free
+traffic because the first sale you ever
+make online is by far the hardest. You
+don't know if it's going to work. You
+don't know if you can do it, right? So,
+the first sale really breaks the belief
+that you can't do this. And once you
+start believing that you can do this,
+you can choose to take this further and
+scale it to 5K a month, 10K a month,
+however much you want to build this up
+to. So, if that sounds good, let's get
+right into it. So, the whole business
+model comes down to three steps. Find
+something people already buy. create a
+simpler version of that and put it where
+buyers already are. And that's the whole
+business, right? There's no funnel,
+there's no system, just three simple
+steps. And the digital product we're
+going to be making is an ebook. And I
+know that ebooks aren't the flashiest
+thing on the internet, but ebooks are
+the best digital product for beginners.
+Why is that? Well, it's very, very easy
+to create, especially with the help of
+AI. Because if you think about it, what
+is Claude or AI good at? Well, they're
+really good at researching and compiling
+content. Claude is especially good at
+writing compared to Gemini or Chache. So
+selling content in a ebook format is one
+of the most straightforward way to
+capitalize on what Claude is good at.
+The second reason is because ebook has
+very high demand even to this day. A lot
+of people think people aren't buying
+books but that is not true. The data
+shows that book sales are increasing
+year after year. And this is a huge
+industry. There is one website where
+millions of people show up every single
+day looking for new books to purchase.
+And that's the absolute gamecher of the
+strategy here. But we're not creating
+demand. You're simply showing up in
+front of demand that already exists. So
+Claude is the best generic AI tool right
+now for writing, right? It's better than
+tragedy. It's better than Gemini. That's
+why Claude is getting a lot of hype
+right now. So as amazing Claude is, you
+still can't pull live data for
+researching profitable book topics. As
+was Claude is not the best at designs.
+Like if you have to create book covers
+and other design elements when it comes
+to creating a quality ebook. So, for
+that reason, we're going to combine
+Claude and another AI tool called
+co-author.ai. Now, do not worry because
+co-author has a free plan that you can
+use for market research. For book cover,
+you do have to pay a little bit, but
+I'll also give you a free alternative to
+basically every single step that you
+have to do in this business. So, in this
+video, for every single step, I'm going
+to show you the paid way. So, if you
+want to pay a little bit of money, but
+save time or the free way of doing
+things. So, if you're willing to spend a
+little bit more time, do things manually
+yourself, then you can save money. So,
+let's move on to step number one, which
+is just a simple yes or no question. Are
+people already buying books on this
+topic on Amazon? Because step one is
+find something people already buy,
+right? We're not coming up with brand
+new ideas here. We're just simply seeing
+what's already working and then we're
+recreating a product similar to that.
+So, you want to first come up with a
+bunch of different book topics. Then,
+you want to look it up on Amazon. And
+the reason why we look it up on Amazon
+is because Amazon is by far the biggest
+bookstore in the whole world. more than
+70% of all book sales in the US comes
+from Amazon. So if you're trying to sell
+books and you're trying to make money
+from books, doesn't make sense not to
+look at data from Amazon, right? In
+terms of what's working. And so we look
+it up on Amazon and we look for books
+already selling. If you do find books
+that are already selling on the topic,
+then it's a profitable topic. If you
+don't find any books selling on the
+topic, most likely what's happening is
+that it's not that you have this brand
+new idea that nobody have thought of
+before. It's simply that people probably
+thought of that idea. Maybe there are
+some other books on the topic already,
+but it's not making sales, which means
+not a lot of people are interested and
+you should not go into that. So, in
+terms of getting ideas, once again, you
+can do a huge brain dump of all the
+topics that's flowing into your mind
+right now. But you can also use Claude
+or help. So, you can simply go to Claude
+and ask something like, "Give me 50
+profitable ebook ideas I can write
+about." And for this, I'm not going to
+be using Claude Fable 5 or any super
+complex, you know, models like that.
+It's just a simple question. So, I'm
+going to be doing Opus 4.7 with a medium
+effort here. Okay. So these are some
+ideas that we're getting from AI. So we
+have retirement gift trivia, which is
+good. Question for grandparents before
+it's too late. So it's like a prompted
+keepsake, probably a journal type of
+book. Long-distance couples
+conversation, anti-anxiety workbook for
+high achievers. 90day sobriety thing,
+divorce recovery workbook for men. A few
+more. We got a decluttering workbook. I
+like decluttering as a topic. So I'll
+probably choose this one as an example.
+And we have a lot more here. So these
+are just ideas. It's not validated
+because claw doesn't have live Amazon
+data on whether these book topics are
+selling or not. So what we're going to
+do is go to Amazon and we're going to
+look up each of these topic one by one
+and see if there are other books
+actually selling on this. So simply go
+to Amazon, change this to books and I
+simply typed the book topic decluttering
+and got to the search results here. Now
+this is what I'm talking about with
+co-author which is a free Chrome plugin
+that you want to download. So it's 100%
+free. Once again I'll leave a link in
+the description. Click on that. It'll
+take you to the Chrome web store over
+here. You want to download it and it
+should show up right here like this. So
+once you download the Chrome plugin and
+refresh the page, you'll start seeing
+these numbers. So co-author will
+automatically pull what we call the best
+sellers rank of the book, which is a
+number that Amazon gives you on how well
+the book is selling compared to other
+books on Amazon. And also based on that
+number, it'll calculate how many sales
+it's making and how much it's making in
+royalties. If you don't have
+co-author.ai, AI. You can get this
+number manually by clicking on the book
+and scrolling all the way down to the
+product details here. Amazon does show
+it, but obviously manually opening up
+each book is very, very tedious. So,
+co-author saves a lot of time on top of
+giving you a lot of additional
+information like the sales trends and
+all that. So, with this information now,
+you want to start seeing how many books
+are actually making money. So, this book
+is an audio book and it's doing between
+$100 to $181 per day in royalties, which
+is very good. This one book is doing
+thousands of dollars a month. This shows
+zero here, which is a mistake. It's
+making a lot of money, probably like
+around the same amount as this one
+because the BSR is the same. So,
+unfortunately, co-author is glitching
+out right now. But this book, I can tell
+you that it's also making money. There's
+another book on decluttering making a
+couple thousand per month. And even this
+one right here doing $13 to $21 per day,
+which is still like $400 to $600 per
+month with only 39 reviews. So, based on
+how multiple books on decluttering is
+selling well, this tells me that
+decluttering is a profitable topic. So,
+this is a step you want to take for
+every single book topic that you're
+interested in creating a book on.
+Because if you don't find any other book
+on the topic selling well, then there's
+literally no proof that your idea will
+sell. And this is a very important step,
+especially if you're a beginner. You can
+definitely write a book on whatever
+you're passionate about. But you should
+still be checking on Amazon to see if
+whatever you're passionate about is
+profitable. If it's not profitable, then
+you have to decide, do I just want to
+follow my passion or do I want to make
+money? If you're trying to build a
+business, then you should probably
+follow demand before your passion. But
+the best case scenario is to obviously
+have something that is profitable but
+also you're passionate about. So make
+sure to check that on Amazon. So once
+you found a profitable topic, step
+number two is to make a simpler version
+of it. So for this example, right, we
+found decluting books that are let's say
+300 pages long. It's selling really
+well. But if you're a complete beginner
+in doing this, obviously writing a
+300page book is not the easiest thing.
+So instead, we're going to create a
+simpler version of a decluttering book
+that gets people to the solution that
+they're looking for a lot faster. This
+should be a one-day project. You don't
+want to be a perfectionist here. It's
+your first book. Think of it like a
+practice book, right? You're not trying
+to be perfect. You're just trying to
+practice and get better at this business
+model and learn new skills. So, you're
+not writing a masterpiece. Your goal is
+to solve one problem that you identified
+very, very clearly. And for this, the
+recommended length could be 10,000
+words. Now, typically, if you do this
+business longer, I recommend 30,000
+words as a good spot to be in. 30,000
+words in a book is about 120 to 200
+pages, depending on the formatting, how
+many images you have. So, that's a
+pretty solid book. 10,000 words could be
+between 40 to 60 pages. But what I want
+people to understand here is that when I
+say simpler version, I'm not saying a
+crappier version. I'm not telling you to
+spam garbage on Amazon and try to make
+money from it. But what you have to
+understand here is that when people buy
+non-fiction books, they're not paying
+money to get more pages. They're paying
+money to solve a specific problem,
+right? They're paying money for
+solution. So if you can give people that
+solution, like in my case, decluttering.
+So the solution is information on how to
+declutter their house in as efficient
+way as possible. A lot of people would
+rather get that answer and the piece of
+information in a book that's 10,000
+words long or less pages compared to a
+book that's let's say 900 pages, right?
+They don't want to read through 900
+pages just to get the answer. So to
+illustrate another example here, let's
+say your kitchen sink starts leaking and
+you want to fix it immediately. You're
+not going to sign up for a 6-hour
+plumbing course that's going to show you
+how to fix the sink, but also a bunch of
+other stuff and a bunch of other fluff
+because you want the problem solved
+right now. So, what you're going to do
+is perhaps pay more for someone that's
+just going to come over and do it for
+you or show you how to do it in like 10
+minutes. So, the takeaway here is that
+the value is in solving the problem, not
+in how many pages it took to get there.
+So, obviously, you still try to make
+your book good, but you don't have to be
+a perfectionist. You don't have to make
+it 500 pages. All right, so now we can
+go to Claude and start the process of
+creating this book. What you don't want
+to do is to just ask it to start writing
+the book immediately, right? First, you
+got to identify the pain points. This is
+super super important. So, this is the
+prompt that I use. I'm writing a book on
+decluttering and I need your help in
+creating a detailed book outline. The
+goal of the book is to take the reader
+from point A which is struggling with
+the problem right now in my case
+struggling with stress and
+unproductivity due to the clutter in
+their home to point B which is solving
+that problem. Right? So getting to their
+desired goal which is feeling stress
+free and productive as they know the
+decluttering strategies. So you have to
+replace this to whatever your book topic
+is about. What are the six steps the
+reader should take from point A to point
+B? Please create a chapter for each step
+and add subsections for each chapter. So
+with a non-fiction book, once again, you
+want to imagine taking people from point
+A, struggling with the problem, to point
+B. They know exactly what to do to solve
+the problem or they've solved the
+problem and they are happy. And these in
+between steps are the chapters. So this
+is what I got from Claude. So the
+cluting book outline point A to B.
+Chapter one, see the clutter clearly.
+Step one, understand what clutter is
+actually costing you. And these are the
+subsections over here. Chapter two,
+shift the mindset before you touch a
+thing. And then the subsections over
+here. Chapter three, build your
+decluttering game plan. Chapter four,
+declutter room by room. Chapter five,
+design systems that prevent the clutter
+coming back. Chapter six, and this is
+what we got. So what you get from AI is
+always going to be just ideas or
+suggestions, right? You don't have to
+use it exactly. So from here, you want
+to read through every single one and
+change whatever chapter you don't like
+to whatever you want to include. But for
+this example right here, let's just say
+everything looks good. So we can move on
+to creating the book title. So for the
+book title, this is the prompt that I
+used. Give me 10 book title ideas. Make
+sure the main title is clear and easy to
+understand. And the subtitle further
+emphasize the benefits of reading the
+book and sells it using power words. And
+this is very important when it comes to
+non-fiction books. You want to use
+titles that are very clear and easy to
+understand. You don't want to use this
+fancy vague titles which a lot of
+beginners do and that's what messes up
+their sales. Like this is a good example
+here like less stuff more life or own
+less live more. kind of sounds like a
+minimalism book, which I guess is like
+related, but I rather have the main
+title really saying very clearly that
+this is a decluttering book. Like this
+one, the 90minute declutter method,
+declutter your home, declutter your
+life. These are the ones that I like.
+Super direct. This I do not like at all.
+The calm home blueprint. Like it's not
+clear that it's a decluttering book,
+right? It could be like a mental health
+stress relief book. And again, beginners
+make titles like this that completely
+messes up their sales. So these two are
+good. Decluttering your home, declutter
+your life, the stress-free method to
+organize any room in 30 days or less,
+and declutter without overwhelm. The
+beginner friendly system to organize
+your home, quiet your mind, and take
+back your time. So, these two are super
+clear, but let's go with this one,
+number two. So, now we can start writing
+the actual book or at least generating
+the first draft with Claude. So, I said,
+let's go with this book title over here.
+Please write chapter one, section one.
+very very important to generate one
+section at a time rather than the entire
+chapter all at once because the more
+word count you try to generate one shot
+with AI the more repetitive the more
+surface level information and the lower
+quality it gets so the less you can
+generate at once better and also it
+might be a good idea to increase the
+model to a smarter model over here but
+that's going to consume more credits you
+might have to pay for the paid model but
+that is up to you so this is what we got
+chapter one see the clutter clearly the
+hidden tax how clutter drains focus
+energy and mood You probably picked up
+this book because your home doesn't feel
+right. Maybe the kitchen counter has
+become a landing pad for mail. You
+haven't opened. Maybe you've stopped
+inviting friends over. Maybe you walk
+into your bedroom at the end of a long
+day and feel your shoulders tighten
+instead of drop. You're not lazy. You're
+not disorganized by nature. You're
+paying a tax you didn't know you were
+paying and so on and so forth. Right? So
+that's section one. Then we're going to
+ask the same thing. Please generate
+section two. And we get section two.
+Right? Then we ask for section three
+once we're done. Then we move on to
+chapter two. section one and on and on
+and on. And while you're generating
+this, you want to save this into a
+Google doc. So, open up Google Doc,
+paste it in there, and from there, you
+want to make sure to edit the content,
+right? Don't just copy paste, copy
+paste. Done. This is just the first
+draft. So, it's very, very important you
+go and edit it. You know, humanize the
+content. Maybe you don't like some
+parts, so you replace it. Maybe you want
+to add your own stories or you want to
+add some examples here. Maybe some parts
+are very fluffy, like, you know, the
+content is surface level and you don't
+think it's that valuable, so you change
+it. So make sure to edit the content but
+you go through this step for each
+section and that is how you can write
+the book. So that is how you can write
+the book with claude. There is actually
+another way which is using co-author. So
+going back to the Amazon page any book
+on Amazon you can click on analyze book
+which will take you to this analyze
+competitive advantage page where
+co-author scour through this book and it
+looks at the listing. It looks at all
+the reviews this book has and also looks
+at other books on this topic and just do
+a deep dive on this book topic in
+general and gives you ideas on how you
+can stand out to compete against books
+that already exist on this market. And
+it gives you three ideas on how you can
+stand out and backs it up with some
+explanations as well. So the first one
+over here is ADHD decluttering and it
+says while the competitor assumes a
+baseline level of executive function and
+focus, neurody divergent readers
+struggle with task paralysis and
+dopamine crashes. This book addresses
+this coverage gap by tailoring every
+strategy specifically to ADHD brain
+chemistry with high stimulation and low
+barrier methods. Gives you the
+positioning angle why it fits the
+market. High search volume exists for
+ADHD organization and decluttering for
+ADHD. That is true because this book is
+selling well. Once again, it sucks that
+you know it says zero royalties. But
+pretty confident if I go to the product
+page and switch over to the paperback
+version, yeah, now the numbers are
+working. So this book just from the
+paperback, not counting the audio and
+everything is doing $45 to $76 per day,
+$1.4 to $2.3,000 per month. And with the
+other formats is probably making3 $4,000
+per month just from this one book. So
+the ADHD angle definitely is working and
+that's one idea here. Another idea is
+the fiveminute decluttering. So the
+competitor frames decluttering as a
+continuous lifelong psychological
+battle. This book strips away the heavy
+emotional processing and replace it with
+rapid 5minute micro sessions in a zero
+decision fatigue framework. I like that.
+as well. It kind of goes well with our
+simplifying creating a simpler book
+example. So, if you like that, you can
+start creating this book and it takes
+you to the guided book creation process
+over here with, you know, a lot of stuff
+autofilled and you can go and move
+forward and uh basically finish writing
+the entire book. Just a heads up though,
+this feature is not part of the free
+extension. You do need a book credit
+which is part of the subscription. So,
+if you do want to move forward and
+create a whole book with co-author, you
+do have to pay for it. But these things
+that you see on Amazon side, at least
+getting the data is 100% free. In terms
+of writing quality, co-author does use
+cloud in the back end as well for
+writing. It's just that it already has
+all the the prompting and stuff, you
+know, baked in in the back end. So, you
+don't have to do the prompting like we
+did here. All right. So, next you want
+to come up with either a pen name to
+publish this book under or use your real
+name. It really doesn't matter which
+one. Both are allowed. Like using a pen
+name is super normal if you know like JK
+Rowling from the Harry Potter series is
+a pen name, right? So, using a pen name
+is a very normal practice in publishing.
+So, just pick one and go for it. Do not
+overthink branding at this point. This
+is just a practice book, right? So, it's
+really not that important. Next, you
+want to format the book so that the
+layout looks visually nice and easy to
+read. So, I'll leave a link to this
+video that I filmed on how to format
+your book for free using a website
+called Reezy. I'll leave a link in the
+description below. So, make sure to
+watch this, go do that. It's very, very
+simple and straightforward. If you do
+have co-author subscription, they have a
+one-click book formatting thing. So, you
+upload the book and the AI just formats
+the entire thing for you as well. So,
+once again, you don't have to get
+co-author. This video is not meant to be
+a 100% co-author pitch video. I'm just
+trying to show you two ways, right? The
+paid way, which is going to save you
+time, but you have to pay a little bit,
+or the free way, which is going to take
+more time, but you're saving money. It's
+up to you on which path you want to
+take. So, the next step is to design a
+book cover, which is a very, very
+important step. However, Claude is not
+the best at coming up with designs. It's
+pretty good at text, but not designs. As
+an example, I asked it to create a book
+cover, and this is what I got. And as
+you can see, it's way too simple, way
+too basic. It doesn't look that good. So
+there are two ways to create a book
+cover. The free way is to use Canva.
+It's very simple, clean, readable. You
+can use the free templates to create a
+simple, clean, readable book cover. It's
+not going to be like New York Times
+bestseller quality. But again, this is
+our very first book. Our goal is not to
+make 10K a month or 100K from this book.
+Our goal is just to make our first
+couple sales online. So we're not trying
+to be perfect here. So you can follow
+this step-by-step tutorial video that I
+filmed once again in the description
+below. So if you use Canva, it's free,
+but you do have to do a little bit of
+work there actually designing the book
+cover. So if you just want to use
+co-author to generate the book cover,
+this is the paid option because you do
+need the paid subscription. But you can
+just go to the cover generator and enter
+the details. And then we can choose the
+book type. So in this case, it's going
+to be like a traditional non-fiction
+book. So I'll keep this at standard.
+I'll let AI decide the art style,
+although you can give some suggestions
+here. Visual mood, I'll let AI decide.
+Same thing. Paperback ebook, I'll do
+ebook for this. Choose a size. For
+ebooks, it doesn't really matter too
+much. I'll keep the subtitle standard,
+author name, no characters, and let's
+generate book content. And these are the
+three options that we got. So, it looks
+pretty nice. I like this one the most.
+Big clear title, nice minimalistic
+design. Obviously, it's not perfect,
+although we're not trying to be perfect,
+but you can definitely improve it from
+here by asking it to revise a cover,
+which I'm not going to do it in this
+video because it's going to be too long.
+So, in this case, we can just accept the
+cover and download it. So, co-author is
+cool in a way that you can generate high
+quality book covers like that super
+quickly. like this is a dad joke book
+that I've done, word search, fiction,
+this is a kids fact book and so much
+more, right? And these as you can see it
+looks really nice. So those were the two
+ways to create a book cover. Now we move
+on to step three which is to put the
+book where the buyers already are. So
+this is once again a very very important
+concept. Instead of trying to get
+customers to come to you, you simply put
+your product in front of where people
+are already buying. Here's a real
+example of people doing the opposite.
+Right? Most people when trying to sell
+digital products, they first build a
+website, then they run ads, post on
+social media trying to get people to
+their website, and they spend so much
+time and money paying for ads, building
+funnels, and they're hoping somebody
+will buy. And that's, in my opinion, not
+the best way of doing so. Instead of
+doing that, a much better approach is to
+simply put your book in front of
+millions of people looking for a book to
+buy every single day. And that is by
+listing your book on Amazon. Because
+most people, once again, buy books on
+Amazon. More than 70% of all sales are
+happening on Amazon, right? And Amazon
+has this crazy huge built-in traffic.
+Amazon is literally bigger than any
+website in the whole world. And by
+selling on Amazon, you don't have to
+build your own website because you're
+just leveraging Amazon's site. You don't
+have to deal with inventory,
+fulfillment, even customer service.
+Amazon does all of that for you.
+Normally, you have to do this if you
+have your own website when you're trying
+to do everything outside. But because
+Amazon handles all of that, that's why,
+in my opinion, this is the most
+beginner-friendly way to get started
+with digital products. It's like owning
+a food truck. Let's say you're selling
+hot dogs and you're in this quiet
+residential street and the only way to
+get people to come to your street is by
+putting billboard signs paying for ads,
+posting on social media to try to get
+people to your street. Or if you simply
+just move in front of a football stadium
+where you get like 40,000 hungry people
+going in and out, you know, after
+watching the game, you're selling the
+same product, but you're probably seeing
+completely different results. And that's
+kind of what I'm talking about here. So,
+this is called Amazon KDP. It's
+completely free to sign up. It's 100%
+free to list products and Amazon only
+takes a cut if you make a sale. So
+that's why your goal is the same as
+Amazon's goal, right? You're both trying
+to sell your book so that Amazon can
+make money as well. And in exchange,
+they do everything for you. So I think
+it's a pretty good deal. So how do you
+sign up to Amazon KDP and how do you
+upload your book? Once again, I do have
+a step-by-step tutorial here that I
+filmed. So I'll leave a link in the
+description. You can go and follow that.
+It's very, very simple. Probably going
+to take you like 10 minutes. So once you
+upload the book, it's going to take
+probably like one to three days for
+Amazon to review and approve your book.
+If your book has issues, they'll just
+tell you what to fix. You fix it, you
+resubmit it, it'll be good. If no
+issues, it'll be live selling on Amazon
+within a couple days, and you can start
+bragging that you are a published
+author, which is very cool. But now that
+the book is live, it's sitting on
+Amazon, but it has zero reviews, right?
+And because Amazon is so huge if you've
+done proper topic research and you did a
+good job designing a highquality book
+cover, then you still got a good chance
+that it's going to make a couple sales
+here and there. Of course, I cannot
+guarantee anything. I cannot make income
+claims on YouTube. But from my
+experience, you still got a good chance
+of selling few copies. However, if you
+want to increase the chance
+significantly, you want to get at least
+couple reviews on your books because
+having reviews simply looks way better
+for the customer, right? So these two
+books identical but obviously this looks
+way better because you got these reviews
+here. So I'm not saying you need to get
+18 reviews but at least couple reviews
+would help significantly. So what is the
+best most costefficient and
+beginnerfriendly way to start getting
+reviews? That is by using a website
+called Book Bounty. So Book Bounty is
+dedicated to helping authors get book
+reviews safe and fast. And the way it
+works is you simply upload the book. You
+can then leave a review on some other
+books on the platform and by doing so
+you get some points and you can use
+those points to request a review for
+your own books. The only thing here is
+that it's not free. So, you do need at
+least a $25 per month subscription.
+However, the good news is they do have a
+15-day free trial, so you can sign up
+with that and you get some credits and
+you can use that to get some initial
+reviews. I do have a tutorial video on
+Book Bounty as well. So, I highly
+recommend you watch this video to learn
+the most efficient way of using Book
+Bounty. So, once again, the link is in
+the description. So, I recommend for
+every single book that you publish, you
+get at least couple reviews. Let's say
+like five reviews per book minimum. So,
+it doesn't have to be hundreds of
+reviews. It's just that few positive
+ones are much better than having zero.
+So, once again, if you want a completely
+free way of doing this, you can pass out
+a free digital copy of your book to
+people in different Facebook groups or
+different social media platforms. And
+then once you give them the files, you
+want to follow up with them a little bit
+later and ask for a review. It's very
+tedious cuz you're doing this micro
+conversations with a bunch of people,
+but it's 100% free. Now, the only thing
+I would say is do not get reviews from
+friends and family because that is
+against Amazon's terms and conditions.
+So, that's why hitting up different
+Facebook groups is good because there is
+a Facebook group for basically any
+topic. So, it's really easy to find
+groups for your book topic. And these
+are all strangers. So, it's not against
+Amazon Skylines. So, as I said earlier,
+with good topic selection and a good
+book cover, Amazon organic traffic alone
+can get you a few sales. And I say can,
+not will, okay? So, it's not a guarantee
+or anything. I just want to clarify that
+because YouTube is very strict with
+guarantees. But from here, you can
+supplement the marketing if you want to
+boost sales and get a lot more by
+running Amazon ads, which is a paid
+thing, or social media marketing, which
+is completely free. So, the best way to
+do social media marketing is simply to
+post on Tik Tok, IG, YouTube, and show
+your book. These are all short form
+content, not long YouTube videos like
+this. So, it's a lot easier to create.
+And I do have a step-by-step tutorial on
+how to sell more books on Amazon KDP
+using free marketing strategies. As
+always, the link is in the description.
+Here are some quick examples of videos
+that you can make. Simply showcasing
+your book cover. If you have a physical
+version of the book, very simple video,
+that works as well. Talking to the
+camera works. So many examples like you
+can check out other brands and see how
+they're doing. But these are the videos
+that you want to make. You don't always
+have to show your face. It's actually
+better not showing your face and just
+showing the book and focusing on that.
+So once you start marketing the book and
+you want to check if you're making
+sales, you simply go to KDP. You go to
+reports over here. And if you are making
+sales, then it's going to show up here
+in the dashboard. And that was my second
+KDP account. I actually had another one
+that I sold for $820,000
+a while back, which is another cool
+thing is that you can build it up and
+sell your portfolio books for a pretty
+life-changing amount. And if you don't
+believe this or you don't believe how
+much you can actually make from this
+business model, then I actually got a
+full playlist called the KDP income
+reports where it's a compilation of all
+the income reports that I've done
+documenting my own publishing journey
+and sharing income reports along the
+way. So, you can check that out as well
+on my channel. But basically, I was
+making like multiple six figures a year.
+I sold the first one for $820,000 and
+I'm building the second one right now. I
+also have a coaching program called Road
+to Hero where we actually work with
+students oneonone and help them build
+their publishing business. We have a
+student over here who published her
+first book and literally within one day
+she made close to $40 from her very,
+very first book. Now, quick disclaimer,
+this is not typical results. You're
+probably not going to make $40 your
+first day organically, but I just want
+to show you that it's possible. We got
+another student over here doing this
+while working a full-time job. And with
+10 books, he made $161,000
+his first year. Once again, not typical
+results. Just want to show you that it's
+possible. So, the goal of this video is
+not to get crazy results like this,
+although it's possible. The goal was
+simply to make your first couple sales
+online to gain the confidence that you
+can do this, too. And once you do
+exactly that, right, you made a couple
+sales and you're like, "Oh my god, this
+actually works. I actually made money
+online doing this, right? Once you get
+to the point and you're like, I want to
+go all in. I want to scale this to much
+higher levels." Well, this is exactly
+how you can do that. So scaling is
+simply doing the process that we just
+went through more and better, right? So
+you want to create better books. Perhaps
+you can do 20,000 words, 30,000 words,
+experimenting in different topics. So
+creating better books, creating more
+books. So hitting both the quantity and
+the quality. Eventually, you can hire
+team members to create books for you, so
+you're not doing everything yourself and
+you're just a CEO overseeing your team
+and just telling them what to do, right?
+You can start running ads to scale. And
+you can also expand into different
+formats like paperback, audiobook, hard
+coverver. So many ways to build multiple
+income streams over here, but we didn't
+go over that because that wasn't the
+focus of this video. If you're curious
+to learn more about that though, I have
+a bunch of other videos on my channel
+that you can go and take a look. So, I
+just showed you the simplest way to get
+started with selling digital ebooks
+online. This tutorial is not meant to
+make you millions. It's just to get you
+started with making money online. But if
+you want to scale this, this exact
+business model has the potential to do
+that as you saw earlier. And I genuinely
+believe this is the most
+beginner-friendly way for people to
+start making money online because by
+leveraging Amazon, you don't have to
+deal with inventory. You don't have to
+deal with shipping and handling,
+customer service. You don't need a bunch
+of complicated softwares. You tap into
+the huge customer base Amazon has. And
+it's also very fun, you know, coming up
+with new book topics, actually creating
+it, and seeing your idea come to life.
+So, it's a very creative and a fun
+business as well. Now, if you want to
+speed up your process of building a
+successful Amazon KDP business, then we
+do have a complete Amazon KDP mentorship
+program. This is obviously a paid
+mentorship. It requires commitment,
+capital, and execution, and we don't
+work with absolutely everyone. You'll be
+working one-on-one with a coach who
+actually makes money from KDP
+themselves. We guide you from start to
+finish, review, and approve your book
+before you actually publish it. You get
+access to multiple live workshops every
+single week and we plug you into a super
+active community of other successful
+publishers. So, if you're interested and
+you want to see if you qualify to work
+with us, you can apply using the link in
+the description and the pin comment
+below. With that being said, hope you
+enjoyed this video. This was a very long
+video to film, I'm sure the final video
+after editing will also be very long.
+So, if you made it until the end, I
+respect you. Let me know that you made
+it until the end by commenting I made it
+to the end. And I'll try to respond to
+as many comments as possible. Thank you
+so much for watching. Make sure to leave
+a like, subscribe, and I'll see you in
+the next one.
