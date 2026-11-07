@@ -1,0 +1,122 @@
+VIDEO: How to ACTUALLY Start Dropshipping in 2026 (For Beginners)
+URL: https://www.youtube.com/watch?v=zSzexMocrKY
+CHANNEL: Paul J Lipsky
+UPLOADED: 2025-12-09
+DURATION_S: 883
+VIEWS_AT_DISCOVERY: 22542
+THREAD: t1 RANK_BY_VIEWS: 40
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~877s of ~883s, 112 cues)
+
+So, here's the problem with drop shipping advice in 2026. Everyone is way over complicating this. They're telling you to build a custom store, run paid
+ads, deal with international suppliers, and then they wonder why beginners keep failing. But what if I told you that there is a much simpler way to get
+started with this? A system that cuts out all of the complicated stuff and just let you plug in and start selling.
+That's exactly what I'm about to show you right now. All right, so let me show you what I mean by a simpler system because I don't want you to just take my
+word for it. I want you to be able to actually see this. So, I found this item for sale here on ebay.com. You can see it's this memory foam futon couch. It's selling for $27028.
+And 11 of them have already sold. Now, if I were to purchase this and add this to my cart and actually go through the entire checkout process, all the seller
+is going to do is turn around and buy the exact same item for less money from walmart.com. and during the checkout process, they're going to have it
+shipped directly to me. That is what this drop shipping system is. So instead of making this something incredibly complex where you have to use thirdparty
+suppliers in China and like get arrangements with them, we are using reputable retail websites like Walmart and selling on an existing marketplace,
+eBay, where there's already a ton of customers. Now, of course, I can't promise you that this is going to work for you and you're going to get results.
+This video is just for educational purposes, but if you are interested in setting this up and knowing how this works, let me show you how to set up this entire system. Now, the reason this
+system is so simple is because of the software that automates everything on the back end for you. It's called AutoDS. Now, after having used this for
+years, I reached out to Leor, who's the co-founder and CEO of AutoDS, and he not only agreed to sponsor this video, but
+he also set up a special deal for you guys as well. So, if you click the first link in the description down below, you'll be able to sign up for an AutoDS
+30-day trial for just $1. That way, you can set up your store with me at pretty much no risk to you. Now, like I said
+before, I started using AutoDS years ago. And the reason I started using it is just because of how much it's able to automate for you. It's going to list
+products for you. It's going to help you find products to sell. It's going to update the prices of those products. And it's automatically going to process
+orders as well. So, you basically just plug into the system, find products to sell, and let AutoDS handle the rest.
+So, once you click on that link, you'll land on a page that looks like this, and you can begin signing up for AutoDS. I'm going to go ahead and enter in my email address and create a password. Now, here
+it's going to ask you where you want to start selling your products. Now, what's cool about AutoDS is that from within one AutoDS account, you can actually
+sell on multiple different channels. So, I can drop ship on Shopify, eBay, Amazon, Facebook, Wix, Woo Commerce, Etsy, and even Tik Tok, all from one
+account. Now, for purposes of this video, we're going to do eBay. So, I'm going to go ahead and select eBay. Now, like I said before, you are signing up for a $1 trial. That's going to give you
+access for 30 days. However, after that, you will then be upgraded to the package that you choose right now. Now, there's a few different choices here. You do not
+want the import plan because the import plan does not have price and stock monitoring which you definitely need when you are doing this type of drop
+shipping. Otherwise, you have to manually check the price and stock levels every single day. You don't want to do that. So, go ahead and select the starter plan. I'll click right here
+where it says start now for 99. Now, here I'll go ahead and enter in my credit card details and then see you on the next screen. Okay. Next, Autodesk is
+going to ask you some onboarding questions. It's going to ask you how you heard about Autodesk. Go ahead and select YouTube and enter in my name,
+Paul J. Lipsky. Go ahead and click on continue. Then it says, "What types of products do you plan on selling?" You
+can honestly just select any of these, but I'm going to go ahead and select home and garden because I tend to sell a lot of home and garden products when I'm doing this type of drop shipping. And
+then, what are your main goals for AutoDS? Honestly, I would go ahead and select all of them. Okay. Next, we are going to begin the process of linking up
+AutoDes with our eBay account. If you don't have one yet, that's okay. We'll get to that in a second. But for now, on this dropdown, select which eBay market
+you're selling in. So, if you're in the United States or selling on eBay.com, you would select the United States. Or if you're on eBay UK, select UK, etc.,
+etc. So, I'll select the United States and click on finish. Now, from here, this brings you over to ebay.com. If you
+already have an account, go ahead and sign into the account you already have.
+It's okay to use that account for something like thrifting and also to sell using this drop shipping method.
+So, you can go ahead and do multiple things. If you don't have an eBay account already, just click right here where it says create an account. Now, from here, it's going to ask you if you
+want to create a personal or a business account. If it gives you this option, definitely select a business account. It doesn't make too much of a difference,
+honestly, but it just makes it a little bit easier. you tend to get slightly higher limits if you select a business account. Then go ahead and fill in these
+details and then you'll just want to complete the eBay registration process.
+I already have an eBay account, so I'm not going to walk you through with this, but it is very straightforward because they literally just walk you step by step through all of the information that
+you need to give them. Just make sure that all of the information that you're giving them is accurate. And another tip is that at some point they're going to ask you what the name of your store
+should be. Don't stress out about that too much. You can use chat GBT to help you come up with a name for your store.
+It really doesn't matter too much. Once you finish setting up your eBay account, you want to return back to AutoDS and complete the step of linking it up with
+your new eBay account. Then the two of them will be connected. They can talk to each other and AutoDS can automate your drop shipping store for you. You don't
+need to change any settings on eBay and you don't need to change any settings here on AutoDS either. We're going to actually jump right into product
+research and then I'll show you the important stuff you need to know about AutoDS. But first, let's find some winning products to sell on eBay. All
+right. Now, luckily, when it comes to finding products to sell, this is where AutoDS really shines because they have built-in product research tools. You don't need to guess what might sell. The
+software shows you products that are literally already selling well. So, over here on the left, there are a few product research tools that it has. We
+have handpicked products, ad spy, and trending products. I think a few of these are an add-on, so they don't come with the basic plan, but I think they're
+well worth it. So, I'm going to start in handpicked products. So, what we can do up here is change the filters. So, I want products that only shipped to the
+United States. I want USD currency. We can ignore where it says ads. For orders, we want more than a,000 orders.
+Then I don't change anything on the second row and I don't select anything under the categories other than all categories. This is where a lot of
+people get tripped up. They think that when they're drop shipping, they have to niche down. Like they can only sell sports and fitness equipment in their
+drop shipping store. That might be true for some platforms. It is definitely not true for eBay. eBay is a marketplace. So if someone's looking for like what is
+this, like a glue gun of some kind, they're going to search for a glue gun.
+They're not going to look at your store and see, oh, you know, this person also sells sports goods, so I'm not going to buy a glue gun from them because they
+also sell basketballs, right? That's not the way it works on eBay. People search what they want, they see the results, and they buy what they see in the search
+results. So, don't limit yourself. Sell anything and everything as long as it meets the criteria. So, now we have the
+results down here and we can begin to analyze these. And luckily, AutoDS makes this very easy because if you hover over this right here, this little icon, and
+click on it, you'll see that it actually shows you two scales right here. Engagement score and saturation score.
+So, the more that both of these are to the right, the better. You want products with a high engagement score and a low
+saturation score. So, both of these as far to the right as possible. So, this one is actually good. It has moderate
+engagement and it's not super saturated, right? It's pretty quiet. Over here, if we look at this one, we can see that this one has the same amount of
+engagement, but it's a little bit more saturated. So, if I'm just choosing between these two, I'm going to go ahead and go with this one because it has less
+saturation. We can also see right here the number of orders that this has had, the number of people that are selling it, which is currently only two, and how
+much is being sold for. Down here, you can click where it says more info. That will then open up a page so you can see exactly what this is. So, what is this
+thing? This is an indicator light. Some sort of electronic alarm maybe for your bike or for no for fishing. It looks
+like you put it on your fishing rod and it'll actually alert you when you have a fish on there. So, down here you can see ads that people are running for this
+product. Now, this isn't going to matter so much for us on eBay, but it does give you a good idea of what the product is.
+Yeah. So, it just clips onto your fishing rod like that. And then when you get a fish, it will beep like that. So,
+pretty cool. So, you don't have to keep watching your fishing rod. You can set up like a few of them. Now, over here, you can see how much the item is going to cost you, which in this case is just $5.28.
+And then over here, you again, you can see how much it's being sold for, which is $16. So, there's definitely a good profit in there as well, which is
+something I also look for. So, this one for me checks off all the boxes. It has a moderate or better engagement score.
+It's a quiet saturation score, selling for a decent price when you compare it to the item cost. So, now all I have to do is click right here where it says
+import draft. Now, before I show you how to actually list a product for sale, if you're enjoying this video so far and getting some value out of it, please do me a favor and give it a thumbs up and
+subscribe to the channel so you don't miss out on more tips like this on how to get started with drop shipping. Okay.
+So, once you click on import, you can click on the left here where it says drafts and you can see all the items that are being imported into your store.
+So, over here we see our new uh fishing rod indicator. So, I'll go ahead and click this button to open it up. And you'll notice that Autodas is doing all
+of the heavy lifting for you. You don't have to copy and paste everything and bring it over to eBay. Autodasios is doing all that for you. So, right here
+we have the title. So, this is the title by the supplier. it's not going to be a great title for eBay. You have to optimize it. So, in order to do that,
+I'm going to click right here where it says optimize title with AI. Now, underneath tone, I always select I want to make it more sellable, and I'll do a balanced temperature and click AI.
+Right. This is another add-on, but I think it's worth it as well because it saves you a ton of time. So, here is the new title right here. So, I'll just go
+ahead and click on save. And now that replaced the old title. So now we have a well optimized title for eBay. Now scrolling down, you'll notice that
+AutoDS does a lot of this for you. So it automatically selects a category, automatically selects tags, automatically selects the best shipping
+method, and automatically fills in all of this information as well. So you don't need to do any of that yourself.
+It is all automatic. Another thing it does is down here under monitoring. This is super important. We have three monitors that are turned on. The first
+one is called stock monitoring. So what that means is that if this item goes out of stock, the supplier doesn't have anymore. Well, AutoDS is going to make
+sure that it goes out of stock in your eBay store automatically so that you don't sell an item that you then can't fulfill. Similarly, we have price
+monitoring. So that means that if the price changes on your suppliers at the suppliers level, then the price is going to change on eBay for you again
+automatically. And then finally, we have auto orderering, which means that once someone buys it from you, AutoDas is actually going to automatically order it
+and have it shipped directly to the customer for you, completely handsoff for you. So that is the first tab. The next tab is the description. You can see
+it brings in this nice description here, including photos. Then we have the variations. So if this is available in different colors, which it is, you'll
+see both the variations or all the different variations here. If you only want to sell one variation, you can go ahead and delete any of the ones you don't want. Next, we have the images.
+These are all the images that it's going to use. If you don't want to use any of them, you can go ahead and delete any of these. But usually, they're all pretty
+good. And then we have item specifics, which you don't really have to worry about. And that's it. That is all you have to do. Click a couple buttons, and then once this is good to go, you can
+click right here where it says save and import. And in a matter of seconds, it will be live in your eBay store. well optimized, ready for people to actually
+purchase it. And again, once they do, everything is automated on the back end.
+Now, a couple other cool features I want to show you about AutoDS. So, you're not just limited to AutoDS's marketplace, like I was showing you before. That's
+how we found the last product. You could actually sell products from pretty much any retail website. So, for instance, this futon on walmart.com if you wanted
+to sell it on on eBay. All you have to do is copy down the URL for this. Come over to AutoDS and click on add a single
+product. Now, here you can paste in that URL and then click on add as draft. But you'll notice down here on this dropdown, this also works with
+AliExpress, Home Depot, Sam's Club, Walmart, Wayfair, Vidaxle, Amazon, CJ Drop Shipping, Bang Good, Costco, Bed Bath and Beyond, Cosway, Etsy, Lowe's,
+eBay, Target. Yeah. So, a lot of different suppliers here. We have Kohl's, any Shopify store. So, pretty much all those suppliers. You can just
+grab the URL for any product, throw it in here, and list up the product using the same method I showed you before. In addition to that, once you start getting
+orders, you can click on the left here where it says orders and actually see all your orders inside of here to be able to manage them without ever having to log into your eBay account either.
+So, it really is an all-in-one system that allows you to run your entire eBay store from one place with all of that
+automation. And the key with this is just to rinse and repeat. Find more winning products, add them into AutoDS, and let the system do the rest. That's
+literally it. You're not building new stores. You're not learning new platforms. You're just adding more products to the same system, and AutoDS
+handles the rest of it. So, that's the system. That's how you actually start drop shipping in 2026 without over complicating things. You set up an eBay
+account, connect it to AutoDS, find winning products using their research tools, list them with just a couple clicks, and let the automation handle the rest of it. If you want to get
+started with this, click the first link down below to get your exclusive 30-day trial of AutoDS for just $1 and follow
+along with everything I showed you in this video. Thanks so much for watching and I'll see you in the next one. Bye for now.
