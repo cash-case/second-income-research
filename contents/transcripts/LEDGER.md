@@ -153,3 +153,5 @@ Instinct wave-48 +3 full (all t2): JHwDZpQbvTQ (emphasis, 99.7%), KqjtDMx0LYU (2
 Gemini batch 32 +13 reviewed (waves 44-48 queue): jYAqQwHUpgQ yxP9LZAw6J4 _IrX4akKD5k Gfe3eW0xXAA iwBPJmE_vdQ C_pfk6_6Svg _67MWD7XW9Q fr78adfAnuA JssvncqBUUY b4k2UJPFQMQ JHwDZpQbvTQ KqjtDMx0LYU VQdtFvfHGss - QC all 13 IDs echoed (strict format contract). CORPUS FULLY REVIEW-MAPPED again. Review queue: 0.
 
 wave-49: +3 full transcripts (gNNP0MNf-mU Gumroad intro 2025-08 [2025-outside], KMw4SV7lA-A Gumroad 2026 setup [emphasis], eCzAElq6bKA Gumroad 2026 [emphasis]); YnGbXc4CAKA NO_TRANSCRIPT (2015, marked once, no retry). Review queue grows to 3.
+
+wave-50: +1 full (BUVy4gY-4_4 Gumroad upload tutorial, early-window); ra3Cm3g-P28 NO_TRANSCRIPT (marked once). Review queue 4. NOTE: expansion paused per main 6:45 - focusing qualified recent/high-view corpus + same-corpus independent reviews.
