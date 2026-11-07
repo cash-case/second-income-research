@@ -145,3 +145,5 @@ Instinct wave-44 +3 full: jYAqQwHUpgQ (t1, emphasis, 96.9%), yxP9LZAw6J4 (t1, ea
 Instinct wave-45 +2 full (both t2): Gfe3eW0xXAA (emphasis, 98.9%), iwBPJmE_vdQ (emphasis, 98.9%). Threads title-heuristic INFERENCE. +2 NO_TRANSCRIPT (tracked 121): IMY3Ij2rG1o (2025-03-29, 2025-outside), G2i_01_oTjQ (2026-03-29). Review queue: 5.
 
 Instinct wave-46 +1 full (t1): C_pfk6_6Svg (emphasis, 97.4%; page title differs from search-title - video retitled, page-verified title used). Thread title-heuristic INFERENCE. +3 NO_TRANSCRIPT (tracked 124): 9wpyQKwQUMs 4OmhX_zCQk4 OTpj0p-s4tA - pool tail hit rate dropping, expanding pool. Review queue: 6.
+
+Instinct wave-47 +4 full (all t2, pool_raw9 high-view): _67MWD7XW9Q (2025-outside, 99.7%), fr78adfAnuA (early-window, 99.9%), JssvncqBUUY (emphasis, 99.6%), b4k2UJPFQMQ (early-window, 99.8%). Threads title-heuristic INFERENCE. Review queue: 10.
