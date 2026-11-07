@@ -1,0 +1,765 @@
+VIDEO: The Only Claude Dropshipping Guide You’ll Ever Need in 2026 (For Beginners)
+URL: https://www.youtube.com/watch?v=_1GROYcDpxE
+CHANNEL: Andy Stauring
+UPLOADED: 2026-10-08
+DURATION_S: 1520
+VIEWS_AT_DISCOVERY: 9719
+THREAD: t1 RANK_BY_VIEWS: 59
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~1518s of ~1520s, 755 cues)
+
+You can open up Claude right now, type
+one sentence, it'll build you a store,
+it'll write your product page, even
+script [music] your ads. And every drop
+shipping video on this platform is
+pointing at that like it's the
+opportunity of the year. But nobody's
+asking the obvious question. What
+happens when a million people get handed
+the same shortcut at the same time? I'll
+tell you what happens. The stores all
+start looking the same. The ads all
+start sounding the [music] same. And the
+buyers, they scroll past all of it. It's
+already happening and it's why most
+people that are running AI drop shipping
+[music] stores right now are losing
+money with the best tools ever made
+sitting right in their hands. [music]
+But there is one thing that AI does
+better than any human and almost
+nobody's using it for that. They are all
+using it to build faster. Instead, we're
+going to use it [music] to find the
+customers every brand in our market is
+ignoring and then build the entire
+business around [music] them. The
+product, the store, the ads, all of it
+by the end of this video. Let me show
+you exactly how. And we're going to
+start with the most important part of
+this business, the product. Now, most
+beginners, they pick products based on
+what they would personally buy. So, they
+find a cool product and they think that
+just because it looks good in a video,
+it's going to make them money. But what
+you would personally buy has nothing to
+do with what the market actually buys
+because you're not the customer. And my
+first ever product was an iPhone charger
+that I thought looks really cool. And I
+genuinely thought that there was no
+reason for people not to buy that
+product. But it didn't matter what I
+thought because in the end, that product
+flopped. I liked one product and then I
+made the assumption that everyone liked
+it. And the thing is, [music] businesses
+simply aren't built on assumptions. So,
+here is how you can use Claude to make
+sure that you're not guessing what's
+going to work. So, the first thing that
+we want to do is open up a new Claude
+chat just like this. Ideally, if you
+have Fable 5, that's best. If you don't,
+then just use Opus 5. Now, instead of
+assuming that people want a product,
+what we're going to do instead is we're
+going to make Claude go find proof that
+they do before we even spend a single
+dollar on this entire business. So,
+we're going to start with real
+communities full of people who already
+have a problem and more importantly are
+already spending money trying to fix
+that exact problem. So, what we're going
+to do is we're going to give Claude a
+prompt that I've created that finds
+these people for us. Here's what this
+prompt right here actually does. It
+sends Claude into Reddit, niche forums,
+Amazon reviews to find groups of people
+who all share the same exact problem and
+are all spending money trying to fix
+that problem. I've inserted these
+specific rules that will qualify these
+products before it even thinks about
+sending them over to us. So things like,
+you know, the price range, the realistic
+margin, whether or not this product
+actually solves a real problem, and also
+nothing that is trending, because if
+it's been trending in the past couple
+months, then we're likely too late to
+it. And then it's going to come back
+with three products. It's going to rank
+them, and then it's going to insert the
+quotes from real people that are proving
+that they want this product or that
+there's a certain gap in the market with
+what they're searching for. And then, by
+the way, this exact prompt and every
+single prompt that I use in this video
+going forward is going to be saved
+inside of my free community so that you
+guys don't have to, you know, pause and
+try and retype what I'm inserting into
+here. You can simply just copy and paste
+it. I'll leave a link for you guys to
+join that below. Next thing I want to do
+is press run. Now, two quick things to
+notice here because this is what makes
+this [music] different from just
+guessing and trying to find random
+products. The first thing is that it
+reads the reviews, right? Not just the
+post, because anyone can make a post,
+but when someone leaves an angry review,
+what does that typically mean? It means
+that they already spent money on this
+problem and it clearly didn't work. So,
+they're on their phone complaining about
+it. And then their exact words are what
+we're going to be using to write our
+store and our ads later in this video.
+And then the second thing is the margin
+rule. So, the supplier costs, the
+shipping fees. If there isn't at least
+30% margin at the price people already
+pay, it really doesn't matter to us how
+much we like the product because [music]
+it's not going to make us any money at
+the end of the day. So it give me three
+products also three different
+communities to choose from. The first
+one is the acoustic guitar owners
+fighting dry air damage. So the product
+would be guitar humidification kit. The
+second one is backyard bird feeders at
+war with squirrels and the product would
+be heavy duty battle defense system. And
+then the third one would be crocheras
+with hand and wrist pain. So the product
+would be a premium ergonomic hook set.
+Now before I even get to the ranking,
+you can see right here it pulls the real
+reviews. What is being said by the
+customers from these forums, right? It's
+pulling from Rash acoustic guitar. So
+these are real forums where people are
+complaining about uh said problem. So
+right here, the dry winter got to my
+beloved Martin. Now for those of you
+guys that don't know, Martin guitars are
+very expensive. So, we're already
+working with a group of people that are
+spending thousands and thousands of
+dollars and you know, if it means
+cherishing or preserving the quality of
+the guitar and ensuring that it doesn't
+get ruined, then it's going to be an
+easy justification for them to buy the
+product. Okay, so here's what I think. I
+think the bird one is genuinely
+interesting, right? There are people
+that have uh these issues or war going
+on with squirrels and they're already
+spending $50 plus dollars on feeders
+that fail. So that market's there, but
+Claude flagged an issue. Heavy steel in
+a bulky box. So shipping out a product
+like this is going to cost a lot of
+money because you are charged by the
+kilogram of weight and also the size
+with which you are sending out these
+products. So if we're selling a product
+that's super heavy and bulky, then it's
+going to cost us a lot of money and
+ultimately lead into our margin, which
+is never really a good thing. And then
+we have number three. This is
+crocheting. This is probably going to be
+the biggest niche out of all of them.
+it's going to have the biggest audience,
+but it did flag that Facebook might ban
+or reject some of these ads. So, I don't
+know if we want to get into that due to
+like health claims and whatnot. So, I do
+agree that number one is probably going
+to be the best one because again, we're
+working with a group of people that has
+a lot of money and these guys that are
+buying the product, this product,
+they're ensuring that the instrument
+that they've spent thousands of dollars
+on is going to be preserved and isn't
+going to crack. And then the product
+that they're recommending are like these
+humidity packs which tend to come in
+multiple packs and they get used up and
+then that's a product that you have to
+buy over and over again. Let's go with
+number one. The guitar humidity kit
+humidify kit. All right. So I went ahead
+and typed that in and it has created an
+entire brief for me just like so. Let me
+open it up in docs. All right. Perfect.
+We got our product brief. Guitar
+humidity protection kit. It has all the
+pain in their own words right here. It
+has the target customer, the product
+itself. The target customer is an
+acoustic guitar owners ages 25 to 65
+with an instrument worth $500 to $4,000.
+Their pain in their own words, I'm
+really worried about the humidity that
+could damage my guitars. The three
+strongest selling angles are insurance
+math, that's a really good one, the
+refill reessment, seeing it working.
+Pricing would be $39.99, the margin
+math, and then it has also listed
+competitors for us. All right. So, just
+based on the product brief that it sent
+me, I went in and typed on Amazon guitar
+humidification kit, and I do see that
+there's a decent amount of purchases
+under these like humid pack. So, we just
+watch this video right here that
+explains the product.
+Your guitar isn't just an instrument.
+It's an investment, but fluctuations in
+humidity and temperatures can lead to
+cracks, swelling, fret issues, and more.
+Interesting. So, it looks like it's a
+little pouch that you would then insert
+into uh the guitar on the strings and
+then it I guess keeps it from humidity
+entering or it absorbs the humidity. A
+decent amount of orders on that one
+right there. 3.5,000 reviews, 4.6 stars,
+2.5K reviews. So, this is one of the
+products. And then there's this one
+right here, which is the hydrometer as
+well. This is I think I found this one
+right here on AliExpress. Or is it right
+here? So this is that exact hydrometer.
+So there's two products. It looks like
+one that you can visually see and then
+these like little packs right here. So
+regardless, it looks like they're being
+sold well. All these different listings
+from looks like there's like a couple
+companies that are running this. All
+right. So now we have a product that
+people clearly want that are, you know,
+spending money, but every brand already
+selling this product knows that, too. So
+next, what we're going to do is we're
+going to try and find customers that
+they are ignoring. Now what most people
+would do what's probably most intuitive
+is to take the product that is already
+selling and you know from all these
+competitors any one of these products
+and essentially replicate it exactly
+right they would create an identical
+store the same product the same ads the
+same copy and again when everybody's
+working from the same playbook knowing
+what's working stops being an advantage
+because everybody knows it too. It's
+like if everybody showed up to a car
+race with the same exact car nobody
+really has an edge and the whole thing
+kind of comes down to luck but in every
+market there are gaps. Now, the same
+product might get bought by a new mom, a
+night shift worker, a college student
+for three completely different reasons.
+And usually the brands are all talking
+to just one of them, and everybody else
+is getting ignored. Now, finding those
+ignored buyers used to take weeks of
+digging, which obviously is insane, but
+with Claude, it takes about 10 minutes.
+And then we're going to be using this
+prompt right here. It says, "Read
+product brief.m this product brief. Then
+map the market for this product. Find
+the 10 biggest brands selling the
+product or something close to it. Give
+me a gap report. Every underserved group
+you found, rank the gaps by how easy
+they are to own. Save it in gap report.
+Okay, we're going to press enter. Okay,
+so I got the gap report and what it did
+was it scanned the meta ad library to
+see other competitors that were running
+ads for this product. So here it says
+under guitar humidifier, there are only
+two active ads. And then the only
+company music nomad is the one that is
+doing real painled advertising. It's
+basically saying that the lane is pretty
+much open and we have some room to
+advertise in. So clearly we can see that
+there are people that are running ads
+for the product. Now let's check out the
+gap report on Google Docs. Now what we
+want to look at are the potential gaps.
+So right here this is saying that right
+now the current or the most of the
+solutions are cases from these companies
+that solve this humidity issue. But
+there are people that like to just
+simply keep their guitar on a stand easy
+access so that they can play it. So this
+is one of the gaps that needs to be
+filled right here. Is it even working?
+People don't know if it's actually
+working. So the oneline summary verified
+in the ad library. One small brand runs
+one painled campaign. So it looks like
+there are people that are attending to
+uh gap number one, which is people that
+just leave it on the stand, but they're
+all running on Amazon, right? There's
+nobody in the ad library that is selling
+this product for that type of person
+that plays constantly. So, this is our
+gap that we could potentially fill. And
+notice what just happened here, right?
+We're not selling a different product by
+any means than any of these brands. I
+mean, we could, but we're selling the
+same type of units that most of these
+people can source, but what we have that
+most of these guys aren't running is who
+it's going to be for. So, they're all
+selling protection to the guy who keeps
+his guitar locked up in his case.
+Instead, we're going to be selling to
+the guy who wants his guitar out on a
+stand to play regularly, easy access.
+And then, just like off the top of my
+head, like another area that we could
+infiltrate, like I feel like this could
+work for cigars as well. Why would this
+not work for cigars? Yeah. I mean, it's
+the same product. So, you could like
+this is an issue for people that smoke
+cigars. So, this is another market that
+you could potentially infiltrate. Look
+at this. That's crazy. Leather cedar
+wood case travel box with hydrometer for
+people that smoke cigars. So like this
+is actually a product. It's pretty
+crazy. And you know people that smoke
+cigars probably have money because they
+are expensive. We can see this is the
+competitor Dadario. They're selling the
+electric guitar case and then they're
+also selling these humid packs. $64.99
+for a 12pack, $93.99 for a 24 pack. So
+you really bundle these up. All right.
+So, right now you know something about
+this market or the market that you're
+currently in that the brands already in
+[music] it don't or they're not focusing
+on. They're not marketing to not the
+angle that they're primarily pitching.
+And here is the fastest way to waste it.
+Do what everyone else does and drop your
+product into a template store that talks
+to nobody because your buyer can't tell
+that you did research. Your store has to
+show it within the first 10 seconds in
+their own words. So, that is next. We're
+going to build the store around them.
+Now, the old way to get a good store
+[music] was a complete grind. You would
+pick a theme, you would hire a designer
+for, you know, around $1,000, hire a
+copywriter for a few hundred more, then
+try and wire all together, and then pray
+that nothing breaks. Now, most
+beginners, they quit somewhere in the
+middle of that. And even if you survive
+it, you still built the whole thing on a
+guess about what your customer wants.
+Now, the good thing is that we're not
+doing any of that. We already know
+exactly who this store is for [music]
+within, you know, the GAP report that
+Claude gave us right here. So, we're
+going to get a real store live today and
+then make every word on it speak to our
+specific buyer. Now, we could totally
+just go back into our Cloud chat,
+connect our MCP or Shopify's NCP to
+Claude, which is basically so Claude and
+Shopify can communicate with one another
+and have the store built within this
+chat. But honestly, that route does take
+a bit more time and it burns through a
+lot of Claude credits very quickly. And
+if you don't have unlimited quad credits
+or you don't [music] have a max plan,
+then it's going to take a lot of time
+and a lot of funds. So, for this, I'm
+going to show you how to use an AI store
+builder that does everything for us
+completely for free. Now, all you have
+to do is go to the description of the
+video that you're currently watching and
+go to this link right here and it's
+going to take you to this website called
+StoreBuild. Now, the first thing that we
+want to do is pick a niche. Doesn't
+matter too much right now because we can
+always change it later. So, in our case,
+you know, we're selling guitar products.
+It's probably not going to fit any of
+these. We just say something like house.
+Build our store. You want to put your
+name, your best email, and then we will
+press claim your store. All right. After
+we do that, we want to press create
+Shopify store. And then it's going to
+redirect us to Shopify right here. And
+it's going to preload our email just
+like so. We're just going to press next.
+And then the next thing that you want to
+do is sign up for Shopify. You can see
+right here I've attached for us a $1
+offer for Shopify for the next 3 months.
+Pretty insane deal. When I was starting
+it was, you can see $39. All right. So,
+the next thing, you don't need the grow
+or the advance when you're just starting
+out. Simply the basic is fine. And then
+we can just skip all this. Not now. All
+right. Perfect. Now that we are at our
+Shopify dashboard, we can go back to
+store build and then go next. All right.
+So, here we can choose our niche.
+Doesn't really matter right now because
+we can always change this later. But for
+the sake of our example, let's just do
+home. And then the banners don't matter
+either. I'm just going to go with this
+one right here. And then we'll go next.
+After that, we just want to install the
+store build app. Install. So good to go.
+We installed that. Now the next thing is
+installing Zenrop. This is going to
+ensure that we have fulfillment set up
+on the back end so that anytime we get
+an order, those orders are going to be
+sent out by someone. And by someone not
+being us, that's kind of the whole
+purpose of this model. So, from there,
+I'm just going to start this free trial.
+All right. So, we got that set up.
+Fulfillment locked and loaded. We can go
+back to store build. And then we've done
+those two crucial steps. We're going to
+go next. And then we're going to
+activate our store. Premium theme. Not
+necessary right here. So, we'll just go
+next. And then it's going to start
+building our store. All right. Perfect.
+Store is done. Now, the next thing we
+want to do is remove our password.
+Pretty simple. We just got to add an
+address and then remove the password.
+All right. And we'll just untoggle this
+right here. We'll save it. And the
+online store is open to everyone.
+Perfect. Now we can go next. And as I
+was saying earlier, for those of you
+guys that are interested in joining my
+community, it's entirely free. We have
+live daily coaching calls. I have a ton
+of course modules, entire community
+where you can connect with like-minded
+individuals. I'll leave a link below for
+you guys to get access. I don't know how
+long I'm going to keep it open, but if
+the link is working and it doesn't link
+you to a 404 unknown page error, then
+it's still live and you can get access
+for free. All right, perfect. Let's go
+ahead and take a look at our store now.
+We would go to home. This is the home
+dashboard. You want to go to online
+store right here. All right, so this is
+what the store looks like. Now, one
+thing I do want to remind you guys and
+preface is that this is not the end
+product. We're about to do it in a
+second, but the main thing is that the
+backend is fully sorted out. We don't
+got to insert, you know, the shipping
+policies, all that, you know, BS that
+takes a lot of time and is annoying. So,
+it's going to insert these preloaded
+products that we aren't going to be
+using. I'm going to show you how to
+archive them in a second and get our
+product onto here. But you can see that
+it's a clean template. It looks nice,
+but we're going to make it 10 times
+better. And to ensure that it speaks to
+our audience, I'm going to show you
+exactly how. So, let's go exit. First
+things first, let's just archive all
+these products. Archive all the products
+just like so. And then the next thing we
+want to do is go into the storebuild app
+and we want to create our first product
+page that's specific to our product. So
+we'll create a page just like so. And
+now in order to ensure that this product
+page speaks to my audience, I'm going to
+go back into Claude and I'm going to
+type in this prompt. Read product
+brief.md and gap report. I'm building my
+product page with an AI page builder. It
+takes one detailed product description
+and then I'm basically just asking it to
+give me a prompt for the AI store
+builder software. So, it's going to do
+that. Now, what's really cool about this
+page builder is that it's essentially
+like vibe coding. So, I basically just
+like type what I want and it builds it.
+So, it's like having Claude integrated
+into a page builder. So, let me just see
+what it has given me. It's still
+loading. I'm going to copy that. Going
+to go back in here and I'm going to have
+it do its thing. page editor. It's
+starting to build here. I can select my
+pallet. Let's go with Yeah, the classic
+looks good. Template. Confirm that.
+Professional musicians, casual guitars.
+Let's do professional musicians. And
+then it is starting to build. All right.
+We can see just like that the page is
+ready. Of course, I want to change up
+the pricing and whatnot, but that looks
+way better than what it gave me. That's
+on desktop. Now, we could look see what
+it looks like on mobile. It's just like
+the template is just so clean. Look at
+that. It has the us versus them. See the
+difference? Has the Okay, we got to fix
+that image. But we It has drop downs
+that it also added some other images,
+which is cool. Has reviews, shipping
+information, return policy. And if I
+want to make any change to this, I
+simply describe what I want changed and
+it will do that. And this is like within
+I mean minutes of me doing this. Let's
+just say, you know, you've done your
+modifications and you're happy with how
+everything looks. Then all you have to
+do to get this onto your store is press
+publish on the right hand side. We press
+publish and then it'll reflect on our
+own Shopify store theme. So we can just
+double check under products. We can see
+that it is right here. You can, you
+know, of course change the title, the
+description, the pricing, and then that
+will reflect on your own theme. But now
+what's cool is that we added this to our
+product list. Anytime that we get an
+order, we go back into Zenrop, it'll
+populate onto our orders dashboard right
+here. And so long as we have this auto
+fulfill ticked on, anytime we get an
+order, those orders are automatically
+going to get fulfilled. And we don't
+have to actually go in and insert our
+customers information, put their
+shipping information, put our payment
+details, get that thing sent out
+individually. It's just going to be done
+for us so long as you have credits. Now
+the thing is everything that we've built
+here, all this progress that we've made,
+so the store, uh, the angle, so on and
+so forth, none of it actually matters if
+nobody sees it. And this is where most
+beginners, they burn most of their money
+because they do what feels logical,
+right? They spend weeks and hundreds of
+dollars getting one perfect ad made,
+they run it, and then they basically
+pray. And the [music] problem is that
+you can't know which ad is going to work
+ahead of time. I mean, nobody can. the
+market decides that and the only way to
+get that answer is to put a batch in
+front of it and watch which one it
+picks. And the best part is that we
+don't have to go looking for what to say
+[music] in these ads because we've had
+it the whole time. It's sitting inside
+of our GAP report that Claude gave us.
+Now, every one of those angry reviews
+and complaints that Claude pulled,
+right, that is a real person [music]
+that is describing the exact problem
+that they have in their own words like
+they would to a friend. and a sentence
+your buyer already said out loud will
+outpull anything a copyriter sits down
+and invents. So this is the next prompt
+that I'm going to use. Read product
+brief.md gap report. Write me five short
+UGC ad scripts for my product all
+speaking to the gap we picked. And so
+here is what it has given me. Five
+different ad scripts that I can then
+use. Let me just pull it up on Google.
+Five ad scripts that I can use. Number
+one, the text warning. Guilt on the
+couch. Sharp fret ends. I play more when
+it's out. So, this was the one that we
+were talking about, the case paradox.
+So, we could just read this script
+really quickly. I pick up the guitar 10
+times more when I can just grab it off
+of a stand. So, they're referring to
+people that they want to preserve the
+integrity of the guitar. And you know,
+most of these cases that ensure that
+there's no humidity inside. So, the
+products that they're buying, they are
+kind of a hassle and they have to put
+the whole thing away. Now, when the
+guitar is outside and they have that
+product that they could just latch on
+there without them having to get a whole
+case, it means that they can play more.
+So, that is the angle that we went for.
+I play more when it's out. So, that's a
+pretty good one. So, you can see right
+here we have five different hooks, five
+different reviews with that same gap.
+Now, whichever pain point showed up over
+and over across the 10 brands is going
+to be the safest bet. So, start with the
+hook pulled from that one. And if two or
+three of them are hitting the same nerve
+from different angles, run all three and
+then let Meta decide. Now, to turn these
+into actual videos, any AI agency tool
+does this kind of the same way. You
+would paste in this script, you pick an
+avatar, and then you generate it. But
+the avatar is the part that people rush
+through, and it's the part that matters
+most. And you want to match that to a
+buyer that you already found in your gap
+report, not just, you know, whatever
+face is sitting at the top of these AIC
+platforms. Because, for example, in this
+case, if we have like a 16-year-old boy
+that is holding up a guitar, then it
+doesn't really make sense. Or a
+80-year-old grandma that's holding up a
+guitar, it makes no sense because our
+target customer from our product brief
+is clearly someone 25 to 65. So,
+ideally, you want to choose an avatar
+that looks most similar to the target
+customer. So, someone that would buy the
+product, basically. So, what comes out
+of the AI agency tool is going to be one
+clip, which is most of the time someone
+talking to a camera, which is
+essentially raw footage. It's not going
+to be the finished ad that we're going
+to run on Facebook or Meta. Now, you're
+still going to need to go into an
+editing software like Adobe Premiere or
+Cap Cut Final Cut Pro and turn it into
+an actual video if you want kind of like
+a shortcut on the pacing. What you can
+do is you can pull up an ad that is
+already working within that niche and
+basically just copy how the whole thing
+operates. So things like how quickly
+it's cutting and then at what point it
+stops talking and just shows the
+product. So the whole pasting of the
+video and that's really going to save
+you from staring at a blank timeline,
+but you're still the one that's making
+the calls. You're still trimming the
+clips until it actually feels like one
+cohesive edit that we can then present.
+Now, the thing is, a real creator that's
+holding your actual product is still
+going to outperform AI footage most of
+the time, and that's just [music] where
+things are currently at right now with
+AI. But real creators, they cost
+anywhere from $300 to $500 per video,
+and they could take 2 to 3 weeks to get
+back that raw footage. And if you're a
+big company that's testing hundreds,
+even thousands of ads a month, that
+math, it makes sense to them. They have
+the initial capital to invest. But when
+you're just starting out, it really
+doesn't. this AI route, it gets you a
+real test, which is testing real hooks
+for maybe a couple dollars each. And
+then the key here, and [music] then once
+something does start converting, so an
+angle starts converting, that is when
+you take that winning script and you
+hand it to a real creator and you have
+them reproduce that in a very natural
+way. And then from there, you're
+uploading to Meta and then it's, you
+know, [music] its own video. Now, I've
+got a full walkthrough on things like
+targeting, budgeting, structuring,
+reading the results, and I'll leave a
+card to it somewhere on this screen. Uh,
+you can think of it as like a part two
+to this video. All right, so that is the
+whole build. You found a gap that nobody
+was speaking to. You picked a product
+that was backed by research and we built
+the store that talks like your buyer and
+turned their own words into your ads.
+Now, the thing is, your first ad
+probably won't print money and that is
+totally fine. The first batch is there
+to teach you something. Now, the real
+decisions, they start after this video
+ends. So, that is why I put together a
+free community for exactly that. Every
+single prompt from this video is saved
+in there. There is also an entire road
+map for every stage of this build and we
+run daily calls where you bring whatever
+you're stuck on and we work through it
+live on that call. Now, I'm telling you
+others, they charge literally thousands
+[music] to $4,000 for that at minimum.
+This is completely free. You can get
+access while it's still open below. And
+as always, I appreciate you guys for
+watching. I'll see you in the next one.
