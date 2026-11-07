@@ -1,0 +1,184 @@
+VIDEO: The Complete AI Dropshipping Playbook (How I’d Start in 2026)
+URL: https://www.youtube.com/watch?v=fMUupH_vb8c
+CHANNEL: Nathan Nazareth
+UPLOADED: 2026-04-01
+DURATION_S: 1361
+VIEWS_AT_DISCOVERY: 18811
+THREAD: t1 RANK_BY_VIEWS: 46
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~1356s of ~1361s, 174 cues)
+
+If I lost everything tomorrow, no audience, no connections, no money, and had to get back to $10,000 a month as
+fast as humanly possible, this is the exact playbook I would follow. And I'm not going to theorize about it. I will literally build an entire AI system for
+you live and walk you through every single piece of it right now. And by the end of this video, you'll know exactly how this system works. And you'll actually get the whole thing for free.
+every template, every prompt, every resource, [music] 100% free. And I'll show you how to do it at the end of this video. Let's get into it. All right, so you probably
+already understand the model of drop shipping. You know, you're looking for an undervalued product, typically from China, sending it to a customer in the
+US, and you keep that profit in between because you don't actually have to spend any money on housing the inventory yourself. What changed the entire game,
+what changed everything is AI. I'm talking about using AI to compress the three biggest bottlenecks that you will
+face in doing drop shipping. Product research, content creation, and decision-making. What used to take me 2
+weeks and $500 to test, [music] I can now do in 2 days for under 50 bucks. All right, so let's do some quick math. If
+you want to make $10,000 in a month, that is going to be roughly $333
+per day. Now, [music] in order to make $333 per day, let's just say that your product is being sold for $50. This
+means that you need to sell, I think, about 6.6, so about six to seven products every single day. That's it.
+One viral video. Like, if you have one video on social media that gets a million views, you can make $10,000 in a month. So, just keep that in mind. I've called this the AI business co-pilot.
+And basically, it's a suite of spreadsheets. That sounds kind of boring, but these spreadsheets will put in work. All of them are equipped with clawed AI prompts and workflows that
+handle product research, competitor analysis, store building, ad creative intelligence, and even scaling. Everything feeds into everything else.
+In phase one, we'll have product research. At this point, you're not guessing. You're scoring every single product right here across five different
+criteria, and you're only testing what scores above a seven out of 10. Anything else not worth your time. Phase two, we have the competitor analysis
+intelligence sheet. So before you enter a market, you want to map out every single competitor, their pricing, their ads, their positioning, and AI will do
+all this research for you, and then you make the decisions. Phase three, the store build itself. So AI will write your copy, your product descriptions,
+your about page, and even generate the images. All you have to do is focus on the design decisions and brand feel. AI can't replace your taste. Now for phase four, we have ad creative production.
+This is where most people get stuck. But this system has UGC script templates, an AI creative workflow, and a tracker for
+scraping winning ads from the entire internet. You can easily produce 15 to 25 ad variations in a single afternoon.
+Then we have phase five, which is launch and scale. [music] So testing frameworks, kill criteria, scaling rules, and a P&L tracker so you always
+know your numbers. That's the bird's eye view of the entire system. Now, let me walk you through each phase and show you exactly how it works.
+All right, so inside of the winning product and trend identifier sheet, at the very bottom right, we have these co-work prompts. Now, these prompts are
+insane. This entire system I built around Claude Co-work. So, it has an automation layer built in. When you run one of these prompts, for example,
+weekly product research inside of Claude Co-work every single week, it's going to be adding new products and compiling a report inside of this spreadsheet. But
+in the case that you don't have Claude Co-work or maybe you just want to use the free version of Claude instead. And by the way, this can work for any other
+LLM as well. It takes a little bit longer, but you can essentially achieve the same thing. So, all we have to do is go to this weekly product research tab.
+Copy this prompt right here and then go into Claude and paste it. Because I'm showing you how to do this, not inside of Claude Co-work, instead of autopop
+populating in the sheet, what Claude's going to do is it's going to give me a brand new spreadsheet, but all the data is going to be the same. So, it just takes a few seconds longer and you don't
+have the automation layer built in. But, I would highly recommend if your computer has the capability for Cloud Co-work to use it because it's saving a
+ton of time. So you can see Claude's going ahead and doing the research based on this prompt. We check Amazon movers and shakers. We check Tik Tok ads. We
+check ad spy data, Facebook ads, and even emerging niches. So the prompt really covers every best way to find winning products online. All right. And
+just like that, it's gone ahead and built out the entire spreadsheet. Now, I'll be honest, this took a few minutes longer than I was hoping. It usually doesn't take very long, but I've gone
+ahead and turned [music] on extended thinking for even better results. So, if you have the pro version and you want to use extended thinking, then you can do that as well. So, it's going to spit out
+this spreadsheet, which is very similar to the one that I just showed you. And then at the bottom, you'll see the tabs Tik Tok trending, Amazon movers, ad spy, emerging niches, and you'll have tons of
+different products loaded inside each one of these. So, starting with Tik Tok trending products here, you can see the product name, portable POV camera,
+roulette watch, smart door knob, etc., etc. It'll show you the supplier cost on average, what the competitors are charging for this product. It'll even
+give you an explanation on why it's trending, the competition, assessment, content potential, and then based on all of this stuff. It'll actually rank what
+is the score for that product. So, as I said, we only want to be testing products that show up in here at a seven or above. So, right now, I'll look at these top seven products right here, and
+then I'll make an educated decision on which one I want to test. But basically, we're looking for a real problem-solving product and one that we can communicate
+very well with creatives in the first few seconds. But all this stuff's built into the prompt, so the system already knows. And then in the honest take here,
+it says, "This is the real deal for a quick test. High wow factor, genuine momentum backed up by Google Trends, best brand potential." So long-term
+brand potential. Let's go ahead and check out this roulette watch, for example. So, because it was trending on Tik Tok shop, we don't have an exact source link for it, but if you just type
+it in on Google, roulette watch, like this, you'll be able to go ahead and find out exactly what this product is. I don't know why this one is so expensive
+on AliExpress. I'm sure there's cheaper versions. So, let's just go ahead and search it here. Yeah, $20 version right here. So, essentially, this is what the
+watch looks like. It's just a clean, high-quality watch with a roulette wheel built into it. So, kind of cool for all the gambling lovers, I guess. And you
+could definitely start to build out a watch brand with a product like this.
+Now, I'm not going to go through all the examples because you guys get the point.
+This is a fantastic way to find good products for you to start testing. All right, so now we got to dive into the AI research layer because this is what sets
+apart the system that I built from all the other tutorials you've probably watched online. It dives deep and finds every single competitor and what you
+need to know about the competitors, what creatives are winning for them, and how you can replicate their success and even do better.
+Back into the AI business co-pilot, you'll find this sheet called the competitor tracker. And basically, Claude's going to input the entire competitor landscape for your product.
+And then you're going to have a weekly competitor radar as well. So if you're using the co-work prompts, the intention of this is every single week Claude will
+search the entire internet and figure out what were the major moves from your current competitors, what are the trends with content for the product, what are the opportunities for you to expand and
+grow the brand, make more money, and also what are the threats. So again, if you don't have Claude Co-work, that's okay. It just takes a little bit of manual work. So, you can either copy the
+spreadsheet like I've done right here, or you can just copy and paste all the information, go back into Claude, say, "Hey, I want to do a deep dive competitor analysis on this product,
+paste in the product that you found using this competitive landscape document," you can paste in the spreadsheet. If your Claude or your LLM isn't able to read the spreadsheet,
+which I don't think mine will, unless I use the desktop app, yeah, I can't access the spreadsheet. So, you can just copy and paste everything from the spreadsheet into here. Uh, and then
+it'll go ahead and do that for you. Now, just while we're waiting for the response from Claude here, I also want to show you the monthly P&L inside the
+system as well. So, this monthly P&L basically categorizes your store revenue and every single expense that you would need. So, product cost, shipping and
+fulfillment costs, refunds, chargebacks, transaction fees. It'll calculate your gross profit, gross margin, uh operating expenses, Tik Tok ads, meta ads, Google
+ads, what have you. All the different softwares and tools that you'll be using longterm to grow this brand. So, this monthly P&L sheet can take you very far,
+even to seven figures a month on your store, because everything's already set up for you. And that way, every single month, you can see exactly where you at.
+Are you in the green? Are you in the red? What's your margin? How are things looking with everything factored in and it's super easy to use as well. You can
+fill this out manually if you want. All the formulas are built in. Or you can upload your credit card and your bank account statement inside of Claude.
+Although, for privacy reasons, you might want to do it manually. But, I've had no issues doing that. I just don't want to recommend, you know, giving AI financial data if you don't have to. Uh, but then
+it'll automatically categorize it inside of the spreadsheet as well. Again, super helpful if you're using Claude Co-work because that's the way that this entire
+system is designed to [music] have everything done for you. All right. Now, just like that, Claude's done with the spreadsheet. So, again, the same exact spreadsheet that I just showed you guys,
+but now it's all filled out. So, we have all the competitors in here selling different kinds of watches. We have the information. So, the key features, the
+target market, distribution, estimated revenue, brand positioning, strengths, weaknesses, and the way this prompt is designed, it'll show you small drop
+shipping style brands, but it'll also show you the largest brands in the industry. So, that way you can do research on brands across the entire
+market and figure out how to best position yourself moving forward. It even has a sheet at the bottom called gaps and strategy. So, this allows you
+to really differentiate yourself from what's already out there in the market and it'll tell you exactly how. So, gap one, zero Tik Tok and social presence
+from any competitors. Not a single competitor running this product or a similar product in the space has a meaningful Tik Tok or social media content strategy. That is a really,
+really good sign. That tells you that most of these drop shippers are simply running Facebook ads or Tik Tok ads, but they haven't cracked organic yet. And if
+you can come in and make some very, very good creatives, there's no reason why you can't make a ton of money straight off the rip. But again, all of this is just research and we're trying to figure
+out our positioning and where we can come in and start to gain market share.
+And we're ready for the next stages, which is building the store and coming up with the ad creatives.
+So now I'm going to show you how to actually build the store. The first link in the description of this video will send you to an onboarding call to get
+into our mentorship. Now, I'm not charging you thousands of dollars. This mentorship is 100% free. And I'm honestly super blessed and super
+fortunate to be in this position because I don't want to sell you a paid course.
+I don't want to take your money. I want to win when you win. And with this model, I literally only get paid when you see lasting success. which is why
+I've worked so hard to create all these AI systems, this custom back-end platform full with course videos showing you exactly how to use the system, how
+to set up your store, and everything you need to know in detail, which is why I'm not rambling on about every single task on this YouTube video because it's all here for free inside of this platform.
+[music] Now, at the bottom left of this custom platform, you're going to see the link to get your free AI store built.
+And honestly, [music] you can use this as many times as you want. When you come here, it'll literally build you a drop shipping business from scratch in less than five
+minutes. You're going to simply walk through. The first thing you want to do is choose your niche. So, based on the product that you already figured out, what niche is it in? Although, it
+doesn't really matter that much because once you have this store, it's really just a template. It's a starting point.
+And yes, it's built with AI. It's customized to your liking, but you still have to build on top of it to set yourself apart. You know, you can generate images of your product using
+Nano Banana in seconds. You can write all the copy for your store using Claude, but you should use the research from the prompts that I showed you
+earlier and your own expertise within the market and of the product to make the store really your own. But again, all you have to do is click build your
+store. It'll take you through a couple of prompts and within [music] minutes, it'll spit you out a store ready to go.
+So, you can see it's currently working on the store right now. Now, once you have your store built using the method I just showed you, the next question is
+where is the product that you found actually going to come from? And this is where most people over complicate things. So, let me show you the tool
+that I use. AutoDS has revolutionized the game. They are what connects everything on the back end. They handle your product sourcing, your supplier
+integration, and automated order fulfillment. So, when a customer places an order on your store, AutoDS automatically processes it with the
+supplier and sends tracking information directly to your customer. You literally don't touch anything. It's like having multiple VAS working in your business at
+once. In one click, you can have your product imported. So, you paste the AliExpress link in or wherever you found your product and it'll automatically
+upload it to your store, generate images, generate copy. It's insane. On top of that, they do have Ad Spy tools built in if you wanted to find products
+in another way. They have a marketplace of trending products with real data. So, engagement scores, pricing, shipping times where they have experts every
+single day feeding top winning products into the software. If a supplier changes the price, AutoDS will alert you so you never accidentally sell your product at
+a loss. And that sounds like a small thing, but when you're starting to do orders at scale, this will save you a ton of money. They triple check every
+single product when it goes out. And they have warehouses across the US and China. So now you can ship from the US and get literally two to three day
+shipping. Since I'm partnered with them as well, I'll leave a special link down below, but you'll also have access to that link inside of the free mentorship program, too.
+Back to the Trusty Dusty AI business co-pilot right here. The next sheet that we have is the AI creative intelligence sheet. So this is a winning creative
+tracker, which basically logs winning ads and organic content for you to find in the wild. So again, the co-work prompts at the bottom right side of the
+sheet will allow you to just copy and paste all of these different prompts into claude co-work so that it'll autopop populate the sheet for you every
+single week or whenever you set the weekly cadence to. Now doing this manually is super easy as well. But the point is, once we've done our weekly ad
+creative research, we've identified Tik Tok organic winners and paid ad winners and the hooks that stop the scroll, then we can generate UGC scripts for the
+product based on what's already performing insanely well in the market.
+So, I'll show you how this works. Go ahead and take this prompt right here, punch it into Claude. Now, as you can see, I was doing my own research with viral supplements in the neutrautical
+space because I'm building a brand there. So, I'm just going to leave that in. You could easily just change it to whatever your product is. So instead of viral supplement on Tik Tok, if you
+wanted to use the roulette watch, all you have to do is just change this right here and then go ahead and hit enter. As you can see, I actually use the system
+myself because it says we already built this earlier today. I'm just going to go ahead and regenerate it so you guys know what it looks like. And the craziest
+thing is even though I literally used this prompt earlier today, it's already got fresh data to add. And that's why using this with Claude Co-work is so
+powerful because it'll automatically schedule to run every single week for you. So when you come back to your AI business co-pilot drive, there'll be new
+and fresh updated information in all of these sheets at your fingertips. All right, here you can see the spreadsheet is built out. This is crazy. So we
+basically have Tik Tok organic winners, so videos that have done more than 500,000 views. We have the product listed here, the brand name listed here,
+so you can dive deeper and search them up and watch all their other socials.
+Uh, and the hook. So, I was stressed, bloated, and my face was puffy, and then I found this. This is what I take every
+morning instead of a second coffee. So, instead of manually doing the research yourself and scrolling through all these videos and writing all this stuff down
+and figuring it all out, it's all here in the spreadsheet. Every single relevant metric of data that you need to look at is here based on one prompt.
+Now, on top of that, we have the paid ad winner sheet, too. So, you can see what videos are working insanely well on meta ads, on Tik Tok ads, on Google ads, or
+on meta and Tik Tok ads. It'll show you the angle, the hook, the CTA, and you can literally just come in, take the ones that are priority hot, search them
+up for yourself, and recreate them with your own spin on that. Now, beyond that, it'll automatically generate you 10 scroll stopping hooks. And again, this will run every single week with co-work.
+And these are actually really, really good. When your brain won't shut off, this is what works. I replaced 12 supplements with this one scoop. I was
+stressed, bloated, and my face was puffy, and then I found this. And it'll tell you why it works. And then it'll tell you how you can adapt it for your
+brand. And then the last sheet is angle patterns. So, what angle or what theme to use, the other brands that are using it, why it works, and how you should use
+it for your brand. Now, to take this one step further, inside the ad creative intelligence sheet as well, there's more prompts. That was literally the first
+prompt. The second prompt will generate you five UGC ad scripts based on all the research you just compiled previously.
+Then there's another prompt that allow you to adapt the winning ads to your product, a weekly hook generator, and a monthly creative performance review.
+Now, I'd be here for a lot longer than this short YouTube video if I were to walk you through every single step, but I think you get the point. You literally just come to the sheet, copy and paste.
+It'll give you all the information that you need and it'll do everything for you. Once you have your scripts, then you can use a platform like Arcad to make AI videos like this.
+So, I gave this to my mom last week and I swear she started crying within seconds. It's called a memory orb. It literally plays a video. This was for
+another product. But again, once you have these very very real life looking people reading the scripts that you generated based on the data that you
+know will work, then you can open up Cap Cut and you can overlay it with B-rolls and other content that you have from your product either from the supplier or
+content that you found online or you can generate it using AI tools like Nano Banana.
+At this point in time, you should have everything built out or at least understand how to do so. And now you can launch. And this is where having a
+system matters the most. The testing framework I start with to keep it super simple is Facebook ads. But if you're starting from $0 and you don't want to
+run ads, organic marketing will do you right. I'll link a video in the description covering that as well. Now, with Facebook ads, I've been doing static image ads, which you can generate
+with Nano Banana in seconds, and also the Arc Ads cap cut method, which I briefly talked about just a few minutes ago. So, those are the two ways to get
+ad creatives. And the name of the game is to just test as many winning angles as possible. And using the competitor ad intelligence sheet that I showed you
+earlier, it becomes a no-brainer, dead simple for you to pump out 10, 20, or even 30 videos every single week. Now, I'm not going to dive into all the
+metrics because again, I'll link in the description a full video teaching you how to set up Facebook ads from scratch and walking you through step by step.
+Now using this entire AI business co-pilot system once you have your store live the system runs on a weekly cadence. So if you put all the prompts
+in correctly to claude co-work on Monday it'll run the product research and competitor monitor prompts and update the tracking sheets. On Tuesday it will
+review ad performance. It'll let you know to kill underperformers or to scale winners. On Wednesday it'll generate new scripts based on what's currently working and create new ARC ads videos.
+On Thursday, you'll launch new ad tests, and Friday, you'll review your numbers and update your P&L sheet that I showed you earlier. Now, I do also want to tell
+you about something that I call the 30-day rule. If a product gets 30 days of active testing, meaning, you know, every single week, you've pumped new ad
+creatives, you've tried new angles, new customer avatars, and you haven't found any way to get consistent profitable sales or break even sales at the very
+least within that window of 30 days, kill it and move on to the next product.
+no emotions. Now, if the product is working and you're getting consistent daily sales, positive margin, and content that resonates, that's when you
+invest more and you double down. More budget, more creative variations, and you start thinking about your branding for the long term. That's how a product test eventually turns into a real brand.
+All right. Now, I want to be straight up with you before we wrap this up. This system works. I use it myself. The people inside our free mentorship are
+crushing it and even my partner operator stores are using it as well and seeing results. But I'm not going to sit here and tell you that it's easy. You will
+test products that fail probably more often than they succeed. You will spend money on ads and many times in these tests they won't convert. You'll have
+days where nothing works and you want to quit. That's not a bug in this system.
+That's just the game of e-commerce. The people who make the system work are the ones who treat it like a real business and not a lottery ticket. AI is not
+going to be your magic button, but it's a crazy force multiplier, and it'll save you so much time. It makes a smart person move faster and even smarter. All
+right, so that was a lot of information I just threw at you at once. So, let me quickly recap what we just covered. So, we covered a five-phase AI e-commerce
+system, product research with AI scoring, competitor analysis, [music] AI powered store build, a full creative production pipeline, and a launch and
+scale framework with a weekly operating rhythm. That's the $10,000 a month plus playbook. Now, [music] everything I just showed you today, the spreadsheets, the
+AI prompts, the templates, the entire system, [music] I'm giving it all away for free inside my 100% free mentorship
+program. There's no catch. There's no upsell to some other high ticket program. And I built this because I genuinely believe this is the best way to start an e-commerce business in 2026.
+and I want to help as many people as possible actually do it with this crazy win-win-win model. First link in the description. I'll also pin it in the
+comments. So, go sign up now because I don't know how long I'll be able to offer this program for. Just take full advantage and change your life. This is
+seriously the best opportunity on the internet right now. I'll also have every single tool listed below in the description box. So, all the free trials
+and all the deals that I used and everything that I talked about in this video so that you can implement them on your own business. Drop a comment with one interesting thing you learned in
+this video, and I'll actually reply to every single person that does that. And if you want to see me using this system, building a store, and documenting it
+from scratch to $10,000 or bust, subscribe and turn on notifications cuz that's coming soon. Remember, the playbook works, the system works,
+everything is built out for you. The question is whether you're going to execute. But before you execute, if you want, watch this video next cuz it'll
+save you 7 years of mistakes. I'll see you there.
