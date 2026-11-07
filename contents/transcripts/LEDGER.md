@@ -149,3 +149,5 @@ Instinct wave-46 +1 full (t1): C_pfk6_6Svg (emphasis, 97.4%; page title differs 
 Instinct wave-47 +4 full (all t2, pool_raw9 high-view): _67MWD7XW9Q (2025-outside, 99.7%), fr78adfAnuA (early-window, 99.9%), JssvncqBUUY (emphasis, 99.6%), b4k2UJPFQMQ (early-window, 99.8%). Threads title-heuristic INFERENCE. Review queue: 10.
 
 Instinct wave-48 +3 full (all t2): JHwDZpQbvTQ (emphasis, 99.7%), KqjtDMx0LYU (2025-outside, 99.6%), VQdtFvfHGss (emphasis, 99.9%). Threads title-heuristic INFERENCE. +1 NO_TRANSCRIPT (tracked 125): rmeRH6v3l3c. Review queue: 13 - triggers Gemini batch32.
+
+Gemini batch 32 +13 reviewed (waves 44-48 queue): jYAqQwHUpgQ yxP9LZAw6J4 _IrX4akKD5k Gfe3eW0xXAA iwBPJmE_vdQ C_pfk6_6Svg _67MWD7XW9Q fr78adfAnuA JssvncqBUUY b4k2UJPFQMQ JHwDZpQbvTQ KqjtDMx0LYU VQdtFvfHGss - QC all 13 IDs echoed (strict format contract). CORPUS FULLY REVIEW-MAPPED again. Review queue: 0.

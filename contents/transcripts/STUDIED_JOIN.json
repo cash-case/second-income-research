@@ -240,6 +240,9 @@
   "CGMX_4-qzQA": [
    "gemini-batch28.md"
   ],
+  "C_pfk6_6Svg": [
+   "gemini-batch32.md"
+  ],
   "ChSEhsQAoYo": [
    "gemini-pool-batch12.md"
   ],
@@ -339,6 +342,9 @@
   "GM6VILJXaqU": [
    "gemini-batch24.md"
   ],
+  "Gfe3eW0xXAA": [
+   "gemini-batch32.md"
+  ],
   "GhaaIVvlh3s": [
    "gemini-batch16a.md"
   ],
@@ -393,6 +399,9 @@
   "J68cjnpjnpo": [
    "instinct-t1-41-60.md"
   ],
+  "JHwDZpQbvTQ": [
+   "gemini-batch32.md"
+  ],
   "Jdcq1Pgi8vo": [
    "gemini-t2-61-77-batch8.md"
   ],
@@ -401,6 +410,9 @@
   ],
   "JrFZ_ky7AzE": [
    "gemini-batch2.md"
+  ],
+  "JssvncqBUUY": [
+   "gemini-batch32.md"
   ],
   "Jy2b5KMIEGY": [
    "gemini-batch25.md"
@@ -413,6 +425,9 @@
   ],
   "KCiwfiaig-s": [
    "gemini-batch28.md"
+  ],
+  "KqjtDMx0LYU": [
+   "gemini-batch32.md"
   ],
   "KsJLgpzZL0s": [
    "gemini-t1-61-82-batch9.md"
@@ -594,6 +609,9 @@
   "Uu5gNtHsEI4": [
    "gemini-worker-w6b1-batch14.md"
   ],
+  "VQdtFvfHGss": [
+   "gemini-batch32.md"
+  ],
   "Vbg_FwDx36s": [
    "gemini-batch16a.md"
   ],
@@ -684,6 +702,9 @@
   "_5TRyfDbxUI": [
    "gemini-batch22.md"
   ],
+  "_67MWD7XW9Q": [
+   "gemini-batch32.md"
+  ],
   "_C63HuekKUg": [
    "instinct-t2-41-60.md"
   ],
@@ -698,6 +719,9 @@
   ],
   "_EYjyrNKCkk": [
    "gemini-batch28.md"
+  ],
+  "_IrX4akKD5k": [
+   "gemini-batch32.md"
   ],
   "_KmXbRiJVyg": [
    "gemini-batch28.md"
@@ -732,6 +756,9 @@
   ],
   "b1sVnEVc3GA": [
    "gemini-batch23a.md"
+  ],
+  "b4k2UJPFQMQ": [
+   "gemini-batch32.md"
   ],
   "bKdYlonknME": [
    "gemini-batch31.md"
@@ -826,6 +853,9 @@
   "fr38Q2OWAbI": [
    "gemini-batch26.md"
   ],
+  "fr78adfAnuA": [
+   "gemini-batch32.md"
+  ],
   "g3M-lyvecSY": [
    "instinct-t2-41-60.md"
   ],
@@ -887,6 +917,9 @@
   "iZawmmnoNvQ": [
    "gemini-batch4.md"
   ],
+  "iwBPJmE_vdQ": [
+   "gemini-batch32.md"
+  ],
   "jEk9oKfw94g": [
    "gemini-pool-batch15.md"
   ],
@@ -898,6 +931,9 @@
   ],
   "jVOk8oc-a70": [
    "gemini-pool-batch11.md"
+  ],
+  "jYAqQwHUpgQ": [
+   "gemini-batch32.md"
   ],
   "jZkH9tWplK8": [
    "gemini-batch21a.md"
@@ -1225,6 +1261,9 @@
   ],
   "ymCxlW7pfNk": [
    "gemini-t1-61-82-batch9.md"
+  ],
+  "yxP9LZAw6J4": [
+   "gemini-batch32.md"
   ],
   "yzIw54gIJZI": [
    "gemini-batch27.md"
