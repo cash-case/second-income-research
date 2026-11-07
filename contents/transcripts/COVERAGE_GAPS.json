@@ -1,34 +1,6 @@
 {
  "unreviewed_corpus": {
-  "claude_never_delivered": [
-   "CGMX_4-qzQA",
-   "DZoeGR_tatA",
-   "KCiwfiaig-s",
-   "MWrmsiY_3Kk",
-   "MrCZBfeTdag",
-   "XFGOEaGokaU",
-   "_EYjyrNKCkk",
-   "_KmXbRiJVyg",
-   "_miL74-wMy4",
-   "l0Vqm0ZIySc",
-   "oxlpMAHZz3U",
-   "qA6w5PbdF4I",
-   "vy7XsVPy_kA"
-  ],
   "other": [
-   "-WTpnXmjQFI",
-   "0lTLOyB7QUE",
-   "16YZH2M5AUk",
-   "2RFgO_ccb9M",
-   "4e4pRrWsJvU",
-   "83WFADpYuLw",
-   "DRgCOONskcA",
-   "Fgutvd4-F_0",
-   "G86-mq5MRUI",
-   "PuYyyrobJbQ",
-   "QopRRjoOyyg",
-   "R2it3l35yJI",
-   "S51UX1ncWdo",
    "SEFqWOu_DZE",
    "WBc-Gy_9s10",
    "WzdKaFsDMZg",
@@ -41,7 +13,8 @@
    "sEfuolqQstA",
    "uJ_c-9Wu3nA",
    "ye2T2FwubI4"
-  ]
+  ],
+  "claude_never_delivered": []
  },
- "note": "updated after batch27, 2026-11-07 ~10:21 UTC"
+ "note": "updated after batches 28+29, 2026-11-07 ~10:23 UTC; Claude 13 reassigned to Gemini (batch28) per main; pre-corpus 2 (Hark-Bernstein, Hark-AcHampton) UNRESOLVED - no primary text in repo or local, no analysis found in any source"
 }
