@@ -141,3 +141,5 @@ Instinct wave-43 +3 full (all t1): fI2AWPxnWtM (emphasis, 99.2%), ebC-rYcyhVw (e
 Gemini batch 31 +12 reviewed (waves 39-43 queue): w9Y1A23RAJs y99Qjx77_hs o9lKN0XL_Do Yz-CPV-sKso bKdYlonknME uaeL2S7Uydo ztD5I_RPuxU kWsB2eLtwJ8 qv1_wiHrRU8 fI2AWPxnWtM ebC-rYcyhVw d8_jeu26nQ8 - QC all 12 IDs echoed (strict format contract). STUDIED now 420 = 418 corpus + 2 pre-corpus (machine join). CORPUS FULLY REVIEW-MAPPED. Review queue: 0. IN-WINDOW STUDIED: 309 (T1 123 / T2 186) of 309 in-window collected.
 
 Instinct wave-44 +3 full: jYAqQwHUpgQ (t1, emphasis, 96.9%), yxP9LZAw6J4 (t1, early-window, 98.6%), _IrX4akKD5k (t2, early-window, 96.8%). Threads title-heuristic INFERENCE. +1 NO_TRANSCRIPT (tracked 119): qRPPsmUsfx0. Research resumed 11:50 UTC per main toward per-topic target; File snapshot stays fixed at 420. Review queue: 3.
+
+Instinct wave-45 +2 full (both t2): Gfe3eW0xXAA (emphasis, 98.9%), iwBPJmE_vdQ (emphasis, 98.9%). Threads title-heuristic INFERENCE. +2 NO_TRANSCRIPT (tracked 121): IMY3Ij2rG1o (2025-03-29, 2025-outside), G2i_01_oTjQ (2026-03-29). Review queue: 5.
