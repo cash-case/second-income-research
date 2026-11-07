@@ -103,6 +103,14 @@
   "thread_src": "ledger",
   "title": "AI Agents That Small Businesses Actually Need in 2026 (Claude)"
  },
+ "1Y61xJ08dBw": {
+  "cohort": "2025-outside",
+  "date": "2025-01-10",
+  "path": "contents/transcripts/1Y61xJ08dBw.json",
+  "thread": "t2",
+  "thread_src": "title-heuristic",
+  "title": "How To Sell Notion Templates in 2026 With ZERO Budget"
+ },
  "1dvM89NMK3s": {
   "cohort": "emphasis",
   "date": "2026-10-19",
@@ -216,6 +224,14 @@
   "thread": "t1",
   "thread_src": "path",
   "title": ""
+ },
+ "4Sw6kFk4auY": {
+  "cohort": "emphasis",
+  "date": "2026-06-01",
+  "path": "contents/transcripts/4Sw6kFk4auY.json",
+  "thread": "t2",
+  "thread_src": "title-heuristic",
+  "title": "How to Make Coloring Books with AI for Amazon KDP (2026)"
  },
  "4dCnb3kuiTo": {
   "cohort": "emphasis",
@@ -2915,6 +2931,14 @@
   "thread_src": "review-section:gemini-batch20.md",
   "title": "How to Build a $10M Solo AI Business (Zero Code)"
  },
+ "wEcOTy2gKcA": {
+  "cohort": "emphasis",
+  "date": "2026-06-06",
+  "path": "contents/transcripts/wEcOTy2gKcA.json",
+  "thread": "t2",
+  "thread_src": "title-heuristic",
+  "title": "How to Start a Substack from Scratch in 2026: Full Step-by-Step"
+ },
  "wMbfdlZm61I": {
   "cohort": "2025-outside",
   "date": "2025-09-11",
@@ -3012,6 +3036,14 @@
   "thread_src": "prompt:gemini_batch19_prompt.txt",
   "title": "It's Boring But it's How Print on Demand Sellers Get Rich"
  },
+ "y8BSLeEL9G4": {
+  "cohort": "emphasis",
+  "date": "2026-06-11",
+  "path": "contents/transcripts/y8BSLeEL9G4.json",
+  "thread": "t2",
+  "thread_src": "title-heuristic",
+  "title": "I Sold a Digital Planner on Etsy for 12 Months - Here's What Happened"
+ },
  "yGjNCfdg5BU": {
   "cohort": "2025-outside",
   "date": "2025-07-24",
@@ -3059,6 +3091,14 @@
   "thread": "t2",
   "thread_src": "capture-search-provenance",
   "title": "Which KDP Books Are Still Making Money on Amazon in 2026?"
+ },
+ "z6WqpRlsauo": {
+  "cohort": "emphasis",
+  "date": "2026-07-29",
+  "path": "contents/transcripts/z6WqpRlsauo.json",
+  "thread": "t2",
+  "thread_src": "title-heuristic",
+  "title": "Everything Has Changed on Amazon KDP. Here's What to Do"
  },
  "zDedVOZHG0w": {
   "cohort": "emphasis",
