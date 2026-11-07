@@ -133,3 +133,5 @@ Instinct wave-39 +2 full (both t2): w9Y1A23RAJs y99Qjx77_hs - PASS >=96%, both e
 Instinct wave-40 +2 full (both t2, Gumroad/Canva topics, high-view but PRE-2025 cohort - recency caveat): o9lKN0XL_Do Yz-CPV-sKso - PASS 99%. Threads title-heuristic INFERENCE. +2 NO_TRANSCRIPT (tracked 114). Review queue: 4. Pool expanded pool_raw7 (+26 candidates, 39 eligible).
 
 Instinct wave-41 +4 full (2 t1, 2 t2): bKdYlonknME uaeL2S7Uydo t1; ztD5I_RPuxU kWsB2eLtwJ8 t2 - PASS >=99%. Cohorts: emphasis 1, early-window 3. Threads title-heuristic INFERENCE. Review queue: 8.
+
+Instinct wave-42 +1 full (t2): qv1_wiHrRU8 - PASS 99.4% cov, emphasis cohort. Thread title-heuristic INFERENCE. +3 NO_TRANSCRIPT (tracked 117): zLc0lUHPo5A (2025-12-08, 2025-outside cohort), rUfkEW-Q8mg (2026-05-16), gUy4YXBMXDQ (2026-05-18). Review queue: 9.
