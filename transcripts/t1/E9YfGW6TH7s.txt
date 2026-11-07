@@ -1,0 +1,465 @@
+VIDEO: Beginners Complete Guide To AI Dropshipping In 2026
+URL: https://www.youtube.com/watch?v=E9YfGW6TH7s
+CHANNEL: Anthony Eclipse
+UPLOADED: 2026-08-03
+DURATION_S: 1003
+VIEWS_AT_DISCOVERY: 15408
+THREAD: t1 RANK_BY_VIEWS: 51
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~1002s of ~1003s, 455 cues)
+
+Most people that teach drop shipping on
+YouTube aren't even running their own
+stores anymore. But this is mine last 30
+days. I'll give you a quick refresh here
+so you know that's legit. And over the
+next 30 minutes, I'm going to walk you
+through the entire AI drop shipping
+process from zero. So that includes the
+product, the store, the AI automations,
+the AI influencers, the ads, literally
+every single step. And by the end of
+today's video, your store will be built,
+branded, and ready to go. Now, real
+quick, if you're new, drop shipping just
+means we're selling a product online and
+typically shipping that overseas from
+China. So, you don't need any inventory
+and you don't need thousands of dollars
+in cash flow immediately upfront.
+[music] That's literally the whole
+business model in a nutshell. What's
+changed though is AI can now do all of
+the heavy lifting for us. And that's
+what I'm going to prove to you in
+today's video. Now, before we build out
+the store, we first need a product to
+sell. And one of my mentors once taught
+me, you can't polish a turd. Aka, you
+can have the best website and branding
+in the world, but if nobody actually
+wants what you're selling, then you're
+not going to get any sales. So, I'm
+going to walk you through my five-step
+checklist to validate any product for
+yourself. So, check number one is to
+check in the right places. So, you all
+know, oh, go to Tik Tok, look at what
+products are selling here. But to make
+your life easier, I want you to come
+straight to the Tik Tok shop tab. Now,
+every product here is already a
+validated winner. You can literally see
+how many units have been sold. 800K,
+150K, 300K. And again, these are units
+sold, not even total revenue. So, the
+data is right in front of your face. But
+you need to figure out, okay, of all of
+these products here, what is the best
+one that I can actually get some profits
+with for myself? And instead of
+scrolling through Tik Tok manually like
+a like a barbarian, there are some spy
+tools out there that use AI to
+automatically sort the top products for
+us where every product here again, we
+can see how many units have been sold,
+how much revenue has been generated. The
+hard work is already done for us. So
+check number two then is to only sell
+products that have a very clear end
+outcome. So when I look at this product,
+it just looks like a pair of men's
+shorts or boxers. Not really that clear.
+Next product. This is from Medic Cube.
+It's a proper brand, not something I
+would try to compete against. From
+there, there is a magnesium supplement.
+If you're selling a consumable from
+China, you don't necessarily know what's
+in [music] it. So, you just want to look
+for a product that is safe to sell and
+that is very obvious what it does right
+when you first glance at it. Okay, I
+think we have one product right here.
+So, this is a men's hair growth serum.
+Essentially, you put this on your
+receding hairline. It helps baby hairs
+come up. You don't got to go to Turkey.
+Don't need to go get a hair transplant.
+It's convenient, affordable, and it's a
+newer product to a problem people have
+always had, which is balding. And the
+perk of finding products already
+crushing on Tik Tok shop is check number
+three, they're already validated for
+you. So last 7 days here, this product
+has cleared over 100K. Last 30 days, the
+product is pushing a million dollars.
+But then we can even look at the top
+videos from the past 7 and 30 days. And
+this product should still be Yeah, it's
+getting millions of views, which is
+crazy. And these videos are already
+proven. So, we can watch them to figure
+out their messaging, how they're
+speaking to the customer, the pain
+points, and a little foreshadowing here.
+We can even download these videos and
+repurpose them for our initial testing
+campaign. So, check number four then is
+to validate we can actually source this
+product from China. You know, it's one
+thing to find a cool product, but how do
+we know we can actually sell this? So, I
+would recommend you first save an image
+of the product and then head on over to
+AliExpress and we can upload the picture
+that we just saved. And one disclaimer,
+we will not be using AliExpress to
+fulfill orders. I just like to at least
+search it ahead of time to validate the
+product exists out there. And don't
+stress the competitor's name like
+Bodywise here. I'll show you how to get
+a non-branded version of the product.
+So, in just a moment, we are going to
+build our Shopify store. Three AI
+prompts is all it'll take to actually
+brand it out. I'll have the editor flash
+a little foreshadow of what we're going
+to build. But the final check before we
+proceed forward to the store is just
+making sure the product you're selling
+isn't violating any copyright, patents,
+trademarks, IP, etc. So, with all of
+that there, we can proceed forward and
+let the magic begin. Now, if you don't
+already have a store yet, I highly
+recommend my free AI store builder. You
+just click build my free store, enter
+your contact info. There's a few prompts
+and it'll give you a custom Shopify
+store on the same exact theme I'm using.
+But the perks is it comes with your
+essential pages like your track order
+page, contact us page, it has your
+policies already there, so your legal
+policies, terms of service, and it even
+partners you with the supplier where we
+can just add that product onto our shop
+and start to brand it out. So with your
+store officially live, we can then
+import that product from AliExpress onto
+our shop. So return back to any of these
+listings here. So all you need to do is
+copy the AliExpress link and on your
+store, open up the AutoDS app. And once
+this loads, you can come to the plus
+here, add product, single product. You
+drop in that AliExpress link, click
+publish to store. So now just give this
+10 to 30 seconds and the product will
+officially be on our shop and we can
+brand it out. So, the product's
+officially added. And if we click the
+sell item ID, it'll pull open the
+product page. But this looks like a a
+hot steaming pile of garbage. And this
+is really where AI drop shipping comes
+into play because in the past, you would
+have to do all the copywriting manually,
+do your graphic design, the photos, the
+branding. You would have to do all the
+work from scratch. It was a big pain in
+the ass. But now, we just have some AI
+prompts. Beep beep boop. Rest takes care
+of itself. So from there, we are going
+to copy prompt number one and we're
+going to paste this directly into
+Claude. And this prompt will prepare all
+of the text, the fonts, and the colors
+for our theme. So on [clears throat] top
+of that, I'm going to upload a picture
+of my product and say the hair growth
+serum. And we can run this with Claude.
+And it's worth noting all of the prompts
+and automations you see me use today
+from the AI store builder to AutoDS to
+the prompts I'm plugging in right now.
+These can all be found in the
+description and the pin comment down
+below. So follow along with what you're
+learning. Take action. And that's going
+to be the best way that you can actually
+move forward and start to hit some
+results. And just like that, prompt
+number one is completed. So, in the
+past, we used to copy each section one
+at a time and drop it on our Shopify
+store. But that is where prompt number
+two comes in. So, we're going to copy
+that, paste it directly into Claude, and
+we can just submit this. So, again, both
+those prompts are attached down below.
+So, while Claude is preparing the code
+for our store to copy all of that text
+over in one click, I'm conveniently
+going to run my product image generator
+in the background. So, this is my hair
+growth serum. So, this gives us the
+exact color scheme we need for our
+store. But then it's also going to start
+generating all of our product photos in
+the background. So, while we are loading
+for these images to generate, I'm going
+to head back to Claude. And this full
+code should be done here. Okay, Claude
+has completed the task. So, we just want
+to copy all of this text at once here.
+And don't worry about the code. I don't
+know what the code means either, but I
+can show you how to get this on our
+website. So come to online store, come
+to our theme, click these dots, click
+edit code, and once this loads, come to
+templates here, and we want to click
+this little new file icon and call this
+product do your name. So product dot,
+we'll call it hair serum, and it must
+end injs.json.
+From here, delete all of the text that's
+there by default. Paste in the new text
+and just click save, and it should save
+without any issues. Now return to the
+products tab on your store. Click your
+product you imported. And very
+important, you need to come to theme
+template and you should see the new
+template that you just created. And we
+can save. At this point, too, I'm going
+to clear out the description and then go
+download the new photos that we just got
+from our image generator. So, these
+should be done in just a moment. Okay.
+So, all of our photos are just about
+generated here. So, we can save these.
+So, check this out. We're going to
+remove the existing photos that were
+already there. And then we're just going
+to take our new photos that AI
+generated. Easy for the variance. Then
+we only need the one piece. I will set
+up bundles, but we're going to do that
+via an app. So, one of these through
+AutoDS was $112, but then there's also
+$6.99 shipping there. So, it'll hit the
+USA in 10 11 days. So, just $8 to
+fulfill one order is not much money. So,
+one of these is $8. And for the price,
+we'll sell this for $29.95. We'll have
+it be uh 40% off. That should be fine.
+And then I'll show you how to set up
+bundles where we're going to charge them
+shipping on one and only give them free
+shipping if they buy two or more. So,
+heading to online store, we're going to
+edit the theme. And this is where the
+magic's going to happen. So, for the
+homepage, we're going to delete
+everything here and just add a featured
+collection. And now, here's our product.
+So, we can click into here. And
+reminder, all of the text is already
+pasted onto our store where we just need
+to tweak the colors ever so slightly,
+add some images, and the rest will will
+take care of itself. And reminder, we
+have the exact colors we need from AI.
+So, I'm going to go update the colors on
+my store. From there, I'm going to
+upload the fonts on my store. From
+there, we're going to do some small
+tweaks like to our announcement bar.
+We're going to [music] add some photos
+to the description a bit. And just like
+that, like the whole theme itself is
+pretty much customized. It wasn't too
+much work. Okay, so this is it for the
+store. It took us maybe 20, 30 minutes
+in total to go through the AI store
+builder, import the product, fully
+customize it to this point right here.
+And it's important you check from the
+mobile view since most customers will be
+coming from their phone. They're on Tik
+Tok. But this is the same quality stores
+I'm launching with, the same type of
+stores my students are are running. And
+if a section's ever invisible from you,
+you may just need to to refresh it real
+quick. Now, we could do some more small
+tweaks like add some more social proof
+images here, like actual photos for the
+reviews. We could add little icons above
+this, but for a store that we put very
+minimal effort into, like this is
+unbelievable. And I've also went ahead
+and set up some bundles on the store. So
+I'm charging shipping if they buy one,
+but if they buy two, they get free
+shipping, save 10. And if they buy
+three, they get free shipping and save
+20% off. So super small incentive, but
+would highly recommend you implement
+that. So realistically, your store isn't
+as important as you may think,
+considering AI automates everything on
+the back end. [music] And when you're
+looking at members in the ecom mafia
+community, you know, the one smashing
+$1,000 in a single day, you know, more
+1k days backto back, it's not that these
+people have a better store than you.
+More often than not, they've been in the
+game longer, so they've had more
+failures, but also they applied to work
+one-on-one, and they maybe have some
+better systems that you don't have
+access to. So, if you would like to work
+with me to build and scale your own
+e-commerce business, that way you don't
+have to find a product on your own,
+build the store on your own, or run the
+ads all by yourself. You can apply to
+work one-on-one and get daily guidance
+just like all of the wins you're seeing
+in the Discord. So, that link is in the
+pin comment and description down below.
+So, at this point, you have the product,
+you have the store. The final piece to
+your puzzle is cracking paid ads. Now,
+I'm going to show you two different
+methods to find winning ad creatives.
+But before that, I first need to walk
+you through the winning ad criteria.
+[music]
+So, every winning ad I've ever had
+follows the same five principles every
+single [music] time. So, first two
+seconds is the hook of our ad. It's what
+reels them in. And we want to introduce
+the viewer to a problem. From there, we
+want to introduce our product as the
+solution to whatever problem we just
+created. After that, we'll hit the
+benefits of our product. We'll sprinkle
+in some social proof, other people using
+it, give them some pressure, limited
+units left in stock, and then at the
+very end, we're going to do a CTA, a
+call to action that reminds them to
+click the button below so they can go
+purchase the product. And thankfully, AI
+can create AI influencers for our ads.
+But I'm going to be honest. If you are a
+beginner and you're figuring out product
+research, copywriting, branding, you're
+figuring out how to run ads in the first
+place, you should start with method two
+for ad creatives because method one,
+custom ads, is difficult. You need to
+script the ad out. You then need to
+create the AI influencers and then you
+need to go figure out how the f to use
+cap cut so you can actually make a high
+converting ad. and with all the other
+skills you got going on, that may just
+not make the most logistical sense given
+maybe your time available and just how
+you need to execute. So, method number
+two is to just search your product up
+over on Tik Tok and to repurpose the
+non-branded videos for our ads. So, you
+can look at how many likes these posts
+have and you can also look at when the
+the videos were last posted here. So, I
+recommend you look for newer videos,
+ideally past 7 to 30 days. And the more
+likes/views something has, typically uh
+the more proven that video is. And you
+can download any Tik Tok by just copying
+the link, going over to any Tik Tok
+video downloader, and just pasting the
+link directly in there. Now, this is a
+bit of a gray area. So my main rule of
+thumb is number one, don't infringe on
+any brand's copyright, IP, trademarks.
+And then number two, once you are
+profitable, you can always go back and
+get custom ads after the fact. But
+imagine you spent hours trying to make
+custom ads and they got zero sales. At
+least you can test with non-branded
+videos and then invest that time once
+you have some sort of validation. And
+for this ad strategy to work, you will
+need three videos in total. So, go get
+any three videos that meet the criteria
+like you just learned and then proceed
+forward. So, now to launch our ads,
+we're going to go to ads.tiktock.com
+and we're going to create a new
+campaign. And you want to make sure you
+run your ads for sales to your website.
+And we're going to call this the hair
+growth test. [music] And with Tik Tok
+ads, the absolute minimum budget I would
+do per day is $50. So, [music] get 50
+bucks. Continue. And it's important that
+you always run your ads for purchases.
+Some people accidentally run their ads
+for add to carts or view content and
+they get confused why they have no
+sales. And as a general best practice, I
+would always schedule your ads to go
+live for midnight of the following day.
+That way they have a full 24 hours. And
+for this last step, you want to choose
+manual ads there. And this is where we
+can upload our three videos into [music]
+Tik Tok directly. So now that we have
+all three of our videos uploaded, we can
+get this campaign published and
+scheduled to go live. So, here is our
+campaign. Reminder, we have a $50
+budget. And then inside of here, we have
+our three ads that we just uploaded. And
+these should begin spending at midnight
+tomorrow. Now, here's what you guys need
+to understand. Not every product you
+launch is going to be profitable. And
+for all the wins, even my students, it
+takes us around 4 to eight products,
+around 30 to 90 days just to get to the
+point where we have something profitable
+that we can start to scale up. and
+watching YouTube videos. It's exciting.
+It gets your foot in the door. So,
+understand drop shipping works. You
+wouldn't say the gym's a scam if you
+didn't get a six-pack after 30 days. So,
+if you're looking to build a successful
+e-commerce business, this is something
+you need to commit to for the long haul.
+So, on the screen now, I have a free
+2-hour course taking you step by step
+behind the scenes in a whole lot more
+detail. [music]
+Check that out. And then reminder for
+those of you that want to get one-on-one
+help to build and scale your store, that
+link is in the description and pin
+comment down below. That's it for today.
+Peace out, guys. See you in the next
+one.
