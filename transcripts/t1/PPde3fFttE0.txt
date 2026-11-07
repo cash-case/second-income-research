@@ -1,0 +1,208 @@
+VIDEO: How to ACTUALLY Start Dropshipping with Claude AI in 2026 (FULL COURSE)
+URL: https://www.youtube.com/watch?v=PPde3fFttE0
+CHANNEL: Ac Hampton
+UPLOADED: 2026-09-05T09:44:27-07:00
+DURATION_S: 1489
+VIEWS_AT_DISCOVERY: 46029
+THREAD: t1 RANK_BY_VIEWS: 29
+CAPTURE: worker agent guest cloud-browser (Instinct QC'd), 2026-11-07 ~04:56Z, deduped
+COMPLETENESS: full (last cue ~1485s of ~1489s, 198 cues)
+
+Right now, Claude is the loudest thing on YouTube. And I know exactly what that's doing to you. You've got 50 different tabs open. One guy is telling
+you AI ads are the play. Somebody else swears it's creating a store with AI.
+Another is talking about finding a product with AI, but none of them are showing you how any of it fits together.
+So, you're sitting there with all these pieces and no big picture. And as someone who's made over $1.7 million utilizing Claude in just the last year,
+I'm going to show you what that full picture actually looks like with drop shipping. I've been building Shopify stores with Claude like this, this, and this all year. And every single one of them have been printing money for me.
+So, in this video, I'm giving you guys a full course step by step on how to do all of it from start to finish. Even if you're starting with zero experience, and with basically no money, we're going
+to use Claw to find a winning product, source it, figure out exactly who buys it, build the store, create the ads, launch them, and look at the results,
+everything. So, let's go and jump straight into it. Now, before we start hunting for a product, I do have to fix the thing that actually stops most of you. And it's not picking a bad product.
+It's not ads. It's this. Most people watching this video will never launch anything. You've been getting ready for months. You've got product ideas saved
+everywhere. You've watched every guide and you keep telling yourself that you'll start once you know a little bit more. But here's what I've learned watching thousands of students. And
+that's that the person who launches a messy store this week beats the person who is still studying next year every single time. because the one with the live store is collecting real answers
+while the other one is still collecting videos. So, we're flipping the order.
+Okay, the store is going to come first before the research, before anything.
+Because the second your store exists, you stop being someone thinking about drop shipping and you become someone who owns a business. That switch changes how you treat every single step after that.
+And making that happen only takes about 2 minutes and it's 100% free. Watch this. If you're following along, you want to start here by clicking the free AI store builder in my description. And
+this is going to do two things. So, first it's going to build out your entire store, literally 100% of the store completely built out. And second is going to be able to get you signed up
+for Shopify where you're going to get your first three days for free. And then after that, you're only going to be paying one single dollar a month for your first 3 months. Now, this is honestly the best thing that Shopify has
+ever done for beginners who are starting from scratch and who are on a budget because that's long enough to be able to test products properly and not panic test for a week and then end up
+quitting. All right, so as you see, we're now inside the AI store builder.
+And the first thing it's going to do is it's going to ask you your niche. And there's no need to overthink this. is just go and pick the lane that you're leaning towards. And if you're not sure, there is an option right here that says,
+"I'm not sure." But I want you to know right now that everything in here can easily change later, and I will show you how to do that as well. Okay, so next, it's going to ask you to pick a banner.
+Again, this should not take more than 30 seconds. I'm just going to go and choose these two and keep moving. Next, here's where it's going to connect you to Shopify. So, just go ahead and click through, enter your email, answer these
+setup questions, and here, just go ahead and go with the basic plan because that's all you need starting out. And watch this. While it's building, the AI is not guessing at all. It's pulling
+structure from stores that are already converting. So the layout that you get isn't a blank canvas. It's a proven skeleton. And just like that, it's done.
+I mean, look at that. You now have the homepage, navigation, product page, templates, a real live store. So that's it. You're now in and you've done what
+99% of people won't do. You've got a real store with your name on it. And you can't unring that bell. But right now, it is an empty engine and there's
+nothing on this store that anyone has proven that they'll actually buy. So now what we need to do is we need to go out there and find the product that deserves the store using what I call the green
+light test. You see most beginners, they always end up picking their product with their eyes. They're scrolling, they see something that looks cool, and then they
+build their whole entire business on that. Then the ads flop, the store sits at zero, and then they blame everything except the real problem at hand. And
+that's that they're marketing something that nobody wants. And here's the truth.
+The product, it does decide how hard every other step is. You pick the right product and your ads, they basically make themselves. You pick the wrong
+product and it doesn't matter how good you do everything else. You're marketing something that nobody wants. So that's what this green light test is for. It's how I judge every single product before
+I spend a single dollar on it or allocate any of my time either. Now, this is broken down into four different lights. And a product does need all four
+on before you even think about building around it. Let me go and break it down.
+So light number one is that it kills the pain. The buyer has to feel the problem before they ever see your ad. where if you have to convince someone they have a problem, you've already lost. Light two
+is that you want to see people that are spending and buying this product right now. Where other stores are actively selling this thing today, you see active customers because that is your proof
+that the demand is real before you risk anything. Light three is that this product can sell year round. No seasonal stuff. You're building a store. So, if
+your product only sells in January, the store is not going to last very long.
+And light number four is that the math leaves room. You need to be able to sell the product for at least two and a half times what it cost you. ideally like three to four because that gap between
+what you buy and what you sell it for is where your ad budget and your profit live. So that's the full checklist. But now it brings us to the next question
+which is how do you actually find products that pass that? Now the old way was just weeks of scrolling. But we're not going to be doing any of that. We're going to be connecting Claude directly
+into the research platform that will find us our winning products, which is AutoDS. And for those of you who don't know, AutoDS is a product research platform with over 800 million products
+listed with the real numbers behind each one. views, engagement, sales data, what's trending. I mean, pretty much everything that you need, so you never
+have to guess on a product. But the best part is is that AutoDS is an official partner of Claude, which means that you can find them directly on the connectors list. So, I'm going to go ahead and
+connect to it. I'm going to give it our checklist and let it hunt down our winning products for us. Okay, so right away, you're going to see that Claude is going to ask us for permission. Let's go and click always allow. And now, just
+like that, it's active. And Claude has access to hundreds of millions of products. And it's not just a raw database, either. AutoDS has a handpicked product section where their actual team prevets winning products.
+And they also have a trending product section that uses data to catch winners while they're still climbing. And now with Claw being connected to it, it can dig through all of this for us. So
+here's a prompt. And this is where AI will save you a ton of time. And I'm going to go ahead and leave that exact prompt in the description down below along with all the other prompts that I
+use in this video for 100% free. So if you are following along, go down there and go ahead and grab that. And I went ahead and also got that green light checklist paired up with Claude. So,
+it's going to return as many winning products as possible, and it's going to be able to do this within only a couple minutes. And as you see, here's what it gave us. It gave us over a 100 different products across all different niches.
+You see, I have skincare, hair care, wellness, grooming, and I even see recovery in here. And it's not only just showing me winners, but it's also
+showing me the rejects and why. So, for example, this posture corrector, you can see that it's saturated. These under eye patches, it says that it's sold everywhere. So, you can probably go
+ahead and grab these at any local Walmart. Hair growth serums, again, every store already has them in stock.
+And this is great because that rejection list right there. It would have cost you 2 weeks of trial and error and claw just did all of that for you. But now let's go and look at the winners. Starting off
+with this ingrown razor bump serum. And look at how deep this analysis goes. So the problem that we're solving for the customer, their pain point is that it's
+just painful. Visible bumps after shaving. But here's my favorite line that Claude wrote and that is that it's telling us the transformation that this customer is buying and that's that
+they're trying to be able to wear a swimsuit without doing a mirror check first. So that is the level that your marketing needs to operate on. And
+Claude, it just handed it to us. I mean, he even pulled up the competition where there's an established brand in the space and Claude broke down their whole
+play, premium pricing, bundles, quizzes, and then it told us exactly where the gap is. So Claude has done that for every single product and ranked them
+from best to worst. And after going through the top candidates, the one that I'm going to commit to is this cordless heating belt. And there's a few reasons why. Number one is that it has real
+recurring pain. The kind women are actively spending money on to escape.
+And it's just something that you can visually see working on camera in 3 seconds. But my favorite part though is that people are already selling it.
+There's proven demand, but there's still room to enter. So, I want you to look at what just happened. Collage just did weeks of research in minutes. It handed us a product list where everyone already
+passed the checklist, and our only job was just to pick one. Now, thankfully, AutoDS has all that product information in one spot, like the analytics, the sales data, and how many resellers are
+on it right now. So, Claude was able just to go in there and read everything for us. And if you guys want to use AutoDS for your own product research as well, I'm going to leave a link down in
+the description where you can get your first three days for only one single dollar, which is a perfect start for any beginner. So now, at this point, our product is already three for three on
+the checklist that we just talked about earlier. And now we just have to turn on the fourth light, which is the math. And we're about to do that right now.
+Because remember, if the math doesn't work, if we're not able to get a good enough margin on this product, the other three lights don't matter. You can have a product that kills a pain, has demand
+pouring in, and sells year round, and still lose money on every single order.
+So, the game here is just sourcing this product as cheap as possible without losing quality because every dollar that we shave off the cost, well, it just goes straight into our profit margin.
+And I already know what you're thinking.
+Okay, AC, well, where am I supposed to find these products? Because there's too much to worry about these days when it comes to sourcing, like bad quality,
+slow shipping, prices that eat your margin. So, to be able to solve all these problems, what I use for my fulfillment is Team Drop, and they're my top choice for drop shipping because they actually check every single box.
+They run their own warehouses. They inspect every single order before it ships and deliver in 3 to 9 days instead of the month-long weights that get
+beginners refund requested to death. So, let's go and run our heating belt through Team Drop, and we're going to see what the numbers come out to. So, I've got a picture of the heating belt saved, and I want you to watch this. So,
+instead of searching for it, all I have to do is drop that picture straight into Team Drop search. And just like that, in a couple seconds, there's our product.
+And as you can see, the product is listed for $12.70. And if we look back at what Claw said the potential selling price behind this product is, it comes
+out to around $42. So that means that we're getting over 3x margin from what we're able to source a product for versus what we're able to sell the product for. And we're pocketing almost
+$30 a sale, which is crazy. So now that we have checked off that fourth green light, we know that the profit's going to be there. Team Drop also makes it really easy to get this product on the
+store as well, where all you have to do is now click on this button where it says list to store. So, just like that, all four lights are on and this product is now ready to go. That is a fully
+validated product. So, now where we're at is we have a store built by AI. The product is validated and the supplier is locked. But there's still one big
+question that decides if this whole thing converts or not, and that's who's actually even buying this thing. Now, the most expensive mistake that you can
+make in e-commerce is trying to talk to everybody. Because when your store tries to talk to everybody, it connects with nobody and every dollar that you put
+behind it just evaporates. The fix is something called your ICP, better known as your ideal customer profile. That's the one specific person that your
+product is really for, where you should understand what they've already tried that let them down, what they're embarrassed about, what they actually want to feel when this thing shows up at
+their door. And here's why this matters more than anything else in this entire video. That profile, that customer profile, it becomes a raw material for
+everything that we build from here. The words on your website, the angle in your ads, the first line in your headlines, all of it gets written from this one
+profile. So, if you don't like burning money, which I know you don't, well, this is the step that you don't skip.
+And let me just say, this part used to be genuinely so hard. Brands, they would be paying research agencies thousands of dollars to figure out who their customer really is. But we're going to be able to
+get it all from Claude inside one single conversation. Watch this. So, now I jump back into Claude and I'm going to go ahead and tell it. We're moving forward with the cordless heating belt and I
+need you to break down who our ICP is, why the customer actually buys this product and what pain points that we need to hit for it to resonate. And then
+one extra instruction that's going to help us build out our store, but we'll get to that in a minute. And this part does take a little bit of time because look at how Deepclaw went on the
+research. It's telling us who's buying the product, how old they are. I mean, literally everything that we need to know. And look, it even tells us where we can find them, which is on Instagram
+and Tik Tok. So that is also huge for us. So we know exactly where to run our ads. And it didn't even just stop there.
+It said the customer who is a female has already tried everything. Painkillers, heating pads, hot water bottles, even hot showers. But then it tells us her
+biggest pain. And that's that every single product that she's tried only works if she's stuck on the couch or right by an outlet. Which means that
+she's only getting relief if she stops living. And she's been let down by products like this before, which means that our store, it has to answer those
+doubts. And that is where our product stands out. I mean, look at this line right here. She wants her pain to stop so she can get through her Tuesday. So that's exactly what we have to deliver.
+And our product, it's cordless. So she will be able to get her relief and her life at the exact same time. So now that we have this, that's basically everything that we need to know about
+our customer. So now all I need to do is just save this file because this right here is going to be the research that powers our next step. And you just watched Claude just do more customer
+research in one single conversation than I could have done on my own in weeks.
+And this next step is where we're going to put everything that we just did to work. Because right now, yes, we do have a Shopify store, but it is not designed or optimized to our specific product.
+Your store has exactly one single job and it's to turn a visitor into a customer. This is what closes every single one of your sales. So, if anything feels off about it, the
+customer leaves and they are never coming back. So, before we build anything, let me go and give you the filter that every single decision runs through. I call it the caveman test and
+that's that if a caveman landed on your store, could he figure out in 3 seconds or less with no scrolling and no thinking what you're selling, how it
+makes his life better and what to do next? Three grunts and that is the test.
+And I'm dead serious about this. If I pull up my own store and I wipe everything that I know about the product out of my head and I just stare at it
+like I've never seen it before, if I can't answer those three things instantly, the store has failed. Because a confused customer doesn't sit there
+and try to figure it out. They just leave. And we all know this. Now, trying to build a store that actually passes those checks, I'm telling you right now, it used to be the bottleneck that people
+quit at. You'd either be hiring developers or just staring at a blank website with no clue what goes where.
+But with AI and Claude, that wall is now gone. That barrier is eliminated. Watch what I'm about to do. So, I'm going to take the ICP file that Claude built for
+us. I'm going to paste the whole thing in, upload our product image, and I'm going to tell Claude, "Analyze all of this, then build our store around it, starting from a brand name and a logo."
+And as you see, it handed us back four options. And I think Seline is probably going to be the best one. So, I'm going to go ahead and go with that one. It's clean. It's premium. And it does kind of
+sound like it belongs on a shelf next to Skincare. Now, for the logo, doing the exact same thing. And as you see, it gave us something perfect for our customer. So, now that we have both of
+these, it is time to actually go into building the store out. But I'm not going to build it. I'm going to tell Claude to build it. And this is where I really want you to think about what the
+research is that we just did because this is where it all comes to life on the store. So Cloud is now going to take that exact file that we just gave it and it's going to tailor the entire store
+around this one customer so it feels like we built it for them. I mean look at this homepage relief that stays on.
+No cord and you can wear it hidden. We already know from our research earlier that that was her biggest pain points and we just answered it in the first 3
+seconds on the page. Now scroll with me because this is my favorite part. It talks straight up to them. It talks about everything that they've tried before. the water bottle, the pad that
+needs to be plugged into the wall. And that type of messaging, that's what converts because it's not just features that you have to highlight, but what you need to highlight the most is making the
+customer feel understood. And even as we keep scrolling, you're going to see this comparison table showing exactly why this beats everything that she's already tried. So, the store is clearly calling
+out the doubts that are sitting in her head because remember, she's been burned by products just like this before, and she's walking into this skeptical. And instead of hiding that from her, the
+page answers that loud and clear. and that is what wins in drop shipping. But we're not done yet. Let's go and scroll down to the bottom where you're seeing
+these reviews, FAQs, and even a 90-day guarantee that takes all that risk off of her shoulders. Now, hold on, because before we call this store done, we got
+to do what we said we're going to do, which is to run this through the caveman test. So, let's go ahead and do this together with the first question of what are they selling? Well, the product is front and center with the name on it, a
+cordless heat belt. Easy. How does it make my life better? Relief that stays on. No cord needed. And what do I do next? Well, the bundles are right there
+with descriptions and the button is staring right at you on exactly what to do next, which is to buy it. So, we just checked off everything off of this caveman test, and this easily passes
+everything without a doubt. And also, I mean, just look at this. This thing looks like it's been running for years.
+And we just got all this done from one clogged conversation in one research file. So, now the store is live. It passes the caveman test and it's
+speaking exactly to the person that we built it for. But, we're still sitting with one huge problem, and that's that the customer has no idea that this product even exists. So, to solve that
+problem, it is time to go and get some customers. And I'm sure you've already guessed how we're going to do that, and that's with ads. But I'm going to save you years of confusion with one
+sentence. The creative, your ad, decides everything. The actual video decides if they stop scrolling or not. And that's
+the whole game. And right now, nothing stops the scroll like UGC content. And the reason it's winning is simple.
+People want to buy from people, not from ads. So, when they see a polished ad, they look at it like a money grab and just continue to keep scrolling. But
+when they see another regular person who looks just like them on camera, they relate to them. But what separates a UGC ad that prints from one that flops?
+Well, I run every single one through what I call the scroll stop test, and it's based off of three things. Start off with the first, which is a face. You should be seeing a real human on screen
+in the first second. That's what stops the scroll. Second is a call out. The first line should be speaking directly to your buyer, where they hear their own problem out loud and they just can't
+scroll past it. And third is proof where you can see the product working on camera. Nobody describing it, but it's happening and it's being shown in real
+time. Now, here's where normally people will get stuck. Right now, you don't actually have the product in your hands.
+You never filmed an ad in your life. And real UGC creators, they charge hundreds of dollars per video, which is why this is the exact spot where most beginners
+freeze up because they don't have the time or the money or the skill to know how to do this. But you don't need to worry about doing any of that because we're going to be using an AI marketing
+tool called Ecom Boss. And it generates full UGC videos with AI. And I'm not talking like some obvious AI stuff either. I'm talking people that look
+real, sound real, and move like actual people. Now listen up because this is genuinely the part of the video that's going to mess with your head because
+you're about to watch. AI creators pitch our product like they've been using it for years. Watch how crazy this is about to be. It starts the same way as every
+other step. We go on Cloud. We drop in our product and our customer breakdown.
+And now it's going to write us some ad copies. Now, after it clicks, it's going to spit out a couple different variations of ad copy. And now what I'm going to do is I'm going to take this
+one right here, open up AI Studio, drop in our product image, paste in everything Claw just gave us, and we're going to generate this with Cance 2.5.
+And here's the best part. Ecom Boss has a built-in AI enhancer that takes your prompt and refits it to exactly what the video model needs based off the product
+itself. So, you see Claude wrote that message, but Ecom Boss translated it into video language. So, now that we have both paired together, let's go and hit generate. So, you wait about a
+minute and I'm telling you guys right now, it is crazy what this thing gave us. I mean, look at this. A person that does not exist at all, that looks
+completely real, pitching our product, hitting the exact pain that we need to hit, and no one had to buy the product or pick up a camera to make this come to
+life. And here's another one. And personally, I think this is the one that came out better. You can actually see the scroll stop coming into play here.
+So, you're seeing the face, the call out, and the proof all in there within the first few seconds of the video.
+Before Ecom Boss, I mean, this would have cost hundreds of dollars and chasing down a bunch of different UGC creators. But now, you can make them all in one afternoon for less than the price
+of a coffee. And like I said, this isn't some heavily AI looking ad. I mean, this is something that legitimately looks like a real person made it. So, if you
+want to go ahead and use this to generate your own ads, I definitely would recommend it. So, it can save you a lot of time and money while still giving you the same highquality ads that
+you're seeing I'm creating. I'm going to go ahead and leave a link in the description. And since y'all are rocking with me, you can use the code Alex for 25% off. Now, you see I already made about one or two creatives, but I'm
+going to continue to keep repeating this and you should too where you have a full stack of creatives where I actually ended up with 15. So, now the only thing
+left is now to start pushing them out and to get this engine running. But first, I need to prepare you for something because this is exactly where
+most beginners fall apart or just honestly give up. I see this all the time happen where people launch their ads, day one, it comes back quiet, it's
+not getting the results that you're looking for, and the panic starts to set in where all these emotions and thoughts start running through your head like I picked the wrong product. The store is
+trash. None of this works. So, they end up killing everything. They scrap the whole business and they start over from zero when the truth is nothing was even
+wrong yet. Ads just need time and data before they tell you anything. That's why we don't run this stage on feelings.
+We run it on rules. One structure for testing, one for scaling. So no matter what the first few days look like, you already know exactly what you're going
+to be doing next. Let me build a testing campaign with you right now so all this makes sense. Click forclick. And I'm going to break it all down. Now, what we're going to be creating is a sales campaign. And we're going to be using
+what's called CBO campaign budget optimization. One budget at the top, $50 a day. And Meta's algorithm is going to decide which ads deserve this budget.
+Where you're never guessing where the money goes, the data decides. Now, down at the adset level, here's a structure. You want to have one adset per angle.
+Remember, our creatives, they attack different pain points. So, each angle gets its own lane so we can read the data as accurately as possible.
+Conversion event is going to be purchased since we're always optimizing for buyers. And then for the audience, we're going to be starting in the United States, 18 and up. And that's it. Now,
+for the ads. So, I'm going to go and upload Creative 1. Drop in our stores URL. Not the homepage store URL, but our product page URL. And then for the words
+on the ad, guess who's writing them. I'm going to come right back over here to Claude and get 15 different ad copies with primary text, headlines, and descriptions. And I'm just going to go
+ahead and copy and paste all of them into each creative. So, you just want to do that for every ad that you have. And then after that, your campaign is going to be ready to launch where you've now
+just witnessed us going from zero to launching a live store of paid traffic all done in one afternoon in one video.
+Which takes us to our next question is that once the machine does start running, what's next? Well, what you do is you let it sit for a few days and
+allow the data to start to stack up. And I get it, there's going to be a lot to look at and you probably don't even know what you're looking at, especially if you've never ran ads before. But that's
+what I'm here to help you with. or I guess AI is here to help you with because it's going to analyze all of your data so you can actually read the results like you've been doing this for
+years. So in the ads manager, you can actually come in here and export your campaign data as a CSV. That's just going to be a spreadsheet of everything that's happened and breaking down all
+your data in one place. Now what we're going to do is we're going to take that spreadsheet. We're going to upload it to Claude and we're going to tell it to analyze the campaign and watch what comes back. And I mean look at this
+breakdown. Claude is checking the health of everything first, telling us that our CPM is fine. Impressions are cheap. add to cart rate is nearly double the
+target. So people who do land on this store, they genuinely do want the product, but then you can also see that it found the leak. It's saying that the click-through rate is under target,
+which means that the store converts, but the ads are not stopping enough people to scroll to even watch it in the first place. And then verdicts, it breaks down each ad, saying that this one's got to
+go. It burned $600 and it never came back above break even. Cloud told me that this one creative burned half my budget. This one barely has any clicks
+and zero add to cardarts. But this one right here, this one is a winner. Why?
+Because it has the cheapest clicks, best cost per purchase, highest add to cart rate. So that's showing that there's real intent on this creative. So Claude
+has now told me that there are a few ads that I do genuinely need to kill, but it doesn't just tell you what's bad and good. It also tells you the next move.
+So you can see it's telling us that video 6 is something that we should rebuild from. And even though it's unprofitable right now, it does still have the best stats. But let me go and
+show you the second asset because this one is actually telling a completely different story. So look at this video right here. Almost $700 spent and 64
+sales where Meta pushed almost all of the budget into it for the right reason and that's because it converts. And once again, Claude is laying out the scaling
+rules. two to three days of consistency below break even first then double the budget and then do it at the start of the day where then after that you're just going to take your proven winners
+move them into their own champion campaign which is going to be like your best three to four ads each in its own ads set with a dedicated budget. Why?
+Because winners should never have to share a wallet with losers. So we got the ads up. We now know what to kill and we know what to scale. So, even if right
+now you're watching this and you've never read a single number on the screen, you never ran ads before, Claude is still there to help you and tell you exactly what you need to do from start
+to finish. You just watched Claude handle everything that you needed to know where all your responsibilities to do is to just execute. So, I want you to
+really look at everything that we just built inside one single video. A product that is validated by all four green lights, a supplier that is locked in
+with real margin behind it. A buyer that we understand better than she even understands herself. a live story that speaks straight to her and an ad system
+with rules so you're never guessing with your own money. And that's the full course. AI does the heavy lifting at every single stage. The only thing that it can't do is actually run it. And if
+you want to see me running the whole thing live and making over $500 on my very first day of launching, watch this video right here where I go through every single step and pivot live. This
+is AC with Supreme. I'll see you in that next video. I'm out.
