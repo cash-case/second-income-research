@@ -1,0 +1,132 @@
+VIDEO: How to Actually Find Winning Dropshipping Products in 2027
+URL: https://www.youtube.com/watch?v=LCpaNoYZiWU
+CHANNEL: Ac Hampton
+UPLOADED: 2026-10-19
+DURATION_S: 944
+VIEWS_AT_DISCOVERY: 19745
+THREAD: t1 RANK_BY_VIEWS: 42
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~942s of ~944s, 122 cues)
+
+Everything in drop shipping changes the moment you find your first real winning product. Before that happens, it can feel like you're just throwing money at products that go nowhere. You test, you
+lose, you test again, and eventually you start wondering whether the whole business is built on luck. I know because that was me when I started over
+8 years ago. I spent weeks scrolling through products, picking things because they look cool, and funding tests based on gut feeling because I had no idea what I was actually looking for. But
+once I figured out how to identify products with real potential, the next eight years took me past $10 million in my own sales with my students generating
+more than $50 million combined. So today, I'm going to give you my entire process [music] that I wish I had when I first started, the three things that I look for in a potential winner, how I
+research products in hours instead of weeks, and the numbers that tell me whether to scale a product or [music] walk away, so you can find and scale your winning products all throughout
+2027, even if you're a complete beginner. Let's go ahead and jump straight into this. Before I even open up a single tool, we're going to build your checklist because this is the step
+that most beginners skip and it's exactly why they end up spending weeks and hundreds of dollars testing products without really knowing what they're looking for. And look, this part is
+actually super easy because there's really only three things that you need to check off. So number one is that your product needs to solve a deep pain point. And that can be physical like
+back pain or joint pain or emotional like acne or hair loss. But it has to be something that somebody sees in the mirror and hates. And this is where most
+beginners mess up because they fall in love with trending products that just look cool or like something that they just feel they would actually buy themselves. I'll have a client show me products like this all the time and I'll
+say something like, "Okay, well this is cool, but what painoint does this actually solve?" And they don't have an answer. Then they sit there and they wonder why the sales aren't going to
+come in. Look, when your product fixes a real problem, people are already out there looking for it. So you're not fighting to convince anybody. The second thing that we're checking off is healthy
+margins. And you want this to be at least 2.5, but ideally a 3x markup. So, if your cost of goods, which is your product cost plus shipping to the customer, is 10 bucks, you're selling
+that thing for $25 to $30 minimum. A lot of beginners price off the product cost alone. And a month later, they're sitting there staring at their bank account wondering where their money
+went. And it all went to ads, processing fees, and apps. And that markup, that 2.5 to 3x markup, that's what covers all of it and still leaves you profit. And
+you're actually going to see it play out on a live screen later in this video.
+And third and final requirement is that you want something evergreen. a product, it can check every other box and still die in January because it was a summer
+product the whole time. So, I want something that people need in March just as much as they need it in November. So, before you decide on any product, just ask yourself, does it solve a real
+painoint? Do I have enough margin? And will people want it all year? And if you can't say yes to all three, then it's a no. All right, so now that your checklist is locked in, it's time to actually go find that winning product.
+And real quick before we move forward, this whole video assumes that you already have a Shopify store up and running. So, if you don't, now is the perfect time to get signed up because with the first link in my description,
+you can not only build your store, but also get signed up for Shopify completely for free for your first three days. And that's it. After that, it's literally just one single dollar a month
+for your first 3 months. Perfect way to get started as a beginner. So, I would definitely take advantage of that now while they're still running that deal.
+And I'll show you why this is important here in a second. Okay. Now, this is where I want you to really pay attention because going into 2027, speed is what's going to separate you from everybody
+else trying to do this. Now, Tik Tok is a great tool. Meta ads library is a great tool and Google Trends is great for seeing what's picking up in the market. I've used all of them. But if
+you're jumping between five different tabs trying to piece it all together, the person who has all that data right in front of them all at once is going to beat you to that product every single
+time. So what you want is one single place that's pulling in ad data and trend data at the same time. And for me that's autos because instead of spending
+a week connecting the dots myself, I can spot what's actually selling in an afternoon. And how do they do this?
+Well, inside AutoDS, there's a section called the product finding hub. And there's three tabs in there that I want you to know about. The first one is the handpicked product section. Now, these are all going to be products that their
+own team has already gone through and vetted. And they even give you the target audience, some competitor research, and content that you can use right out the gate. So, if you're brand new and you just want a head start, that
+is a really good place to look. The second one is going to be the ad spy tool. Now, you remember what I just said about jumping between multiple different tabs? Well, this is what fixes that
+because it pulls the ads running on Tik Tok, Facebook, and Instagram inside one dashboard. So, you can see what products that people are actually spending money to push right now. And the third one is
+Tik Tok analytics. And that's the one that we're going to be using today because it shows you the top selling products on Tik Tok shop here in the US.
+So, we're not looking at views or likes or hype. We're looking at what people are buying right now. So, let me go and pull it up and I'm going to show you exactly how I go through it. All right.
+So, inside the Tik Tok analytics tab, the first thing I'm going to go ahead and do is sort by total GMV. GMV just means gross merchandise value, which is basically the total amount of money that
+a product has made. So, sorting by it puts the biggest sellers who are making the most money right here at the top.
+Now, page one is going to be full of stuff that you've already probably seen 100 times. And I just go ahead and skip past all of this because if I've been seeing it on my feed for months, so has everybody that I'd be running ads to.
+So, instead, I'm going to go and filter down to beauty and personal care. And if you remember that checklist earlier, this is exactly why. Beauty, we all know, is an emotional pain. things like
+acne, texture, and dark spots, the stuff people hate to see in the mirror and want gone. So, we want to pry on that emotion and find products that align with that. And one of the first ones
+that I just found is this female probiotic. And I want you to pay attention here because this is the kind of product that fools beginners all the time. And as you can see, it's done
+around $1.6 million of sales with around 40,000 units sold. And it's got around 80 creators that are currently promoting it. Now, on paper, I mean, that looks
+like a no-brainer, right? But when I go in here and I look at these comments, nobody's really talking about results and almost nobody is asking where to buy
+it. So the numbers, they're big, but the buyers are quiet and that's telling me that there's got to be something off.
+The numbers are what gets me to click on this product and look for more information about it. But the comments, that's what decides if it even makes my list in the first place. And this one clearly doesn't. So I'm going to go
+ahead and pass on this one. Now, this next product right here, it stops me for the right reasons. It's the Sum by Me acne Body Cleanser. And you can see it has almost a thousand videos and 100,000
+units sold. And the top video is a woman talking about her flare-ups from HS, which is a painful skin condition that doesn't go away. And unlike the last
+product, look at these comments. One person says that they suffered with it for over 10 years. Another one says that they've been using it for 2 years and it's great. So just from the comments,
+you got deep pain and people buying it year after year. And that's two boxes off the checklist right there. The next one is this lip serum from Dr. Rue. And
+in the comments, people are saying stuff like Carmex and Chapstick just don't work for them. And that's a customer telling you exactly how to sell it as a thing that works, unlike the cheap
+drugstore stuff that clearly doesn't. So hold on to that and remember that. And then there's this one right here, the Metacube Zero Pore Blackhead Mud Mask.
+It's got almost 1,000 views, around 200,000 of sales, and 100,000 units sold. And the comments on this thing is crazy. One person is literally saying that they never believe ads, but this
+one's convincing them. When people who do not trust ads are telling you that they got sold, that means that the videos on this product are really working. And if we run it through our
+checklist, yes, it solves a pain that people can see in the mirror. It's small enough to fit in the envelope and people, they're going to need it all year round. So, we got a few options
+here, but this one is definitely my front runner. And don't worry, I'm going to be leaving a link for AutoDS in the description where you can get your first 3 days for only one single dollar. Now,
+this is where beginners mess up because they just pick one right now off of a feeling. But truly, your opinion, my opinion are feelings that just don't matter here. I mean, even 8 years in,
+I'm still letting the data make that call. And 5 minutes of validating your product is a whole lot cheaper than blowing $500 on ads just to find out
+that you picked the wrong one. And the tool that I use to solve this is valids, where you give it the products that you're thinking about. It compares them on live data and then with this logic,
+it picks the winner for you. And I'm going to go and leave a link in the description if you want to follow along.
+All right, so we're in Valads. Our front runner, that product we just found, the Medicube mask is now inside of this compare list. It's selected along with the other two products that we found on
+AutoDS. a facial cleansing device and a face massager. That same beauty lane, both with real numbers behind them. And I want the data right here and the logic
+to make this decision for me, not my feelings and not my gut. So, to do this, what we're going to do is hit compare now. And we're just going to let it work. And there it is. The winner is the
+Medic Mask. And look at why. It's saying it has recent momentum, lifetime sales, creative performance, and the confidence behind the evidence. Now, the other two
+scored at a 66 and a 35. So, it really wasn't even close. And I want you to peep the creative performance on that list because that's the same thing that we caught in the comments earlier.
+People who don't trust ads admitting they got sold. So now we have the data confirming what the buyers have already told us. Now if you scroll down you can
+see that the opportunity score sits way above the other two where it says test carefully with high confidence. Entry difficulty is high and I'm not going to hide that from you. But competition cuts
+both ways. Nobody's fighting over product that doesn't sell. So every one of these competitors are proof that the demand is real. And nine times out of ten with all these competitors is that
+their product pages are pretty basic. So an optimized page alone is already going to put us ahead of them. Now, as you can see, they're selling it for around $27 with a steady sales trend. And check the
+reviews because the massager has way more of them. And it's still scored at a 35, which means that more reviews don't always mean more opportunity. Now, last
+thing, 41 verified suppliers ready to ship it. So now nobody's going to be hunting for weeks to sources. [music] And you remember that lip serum we saw earlier where the comments told us
+exactly how to sell it against that drugstore stuff? Well, the same rule applies in every crowded market where the buyer tells you the angle, tells you how to market the product. And I want
+you to hold that thought. So, that's a pick. And it's now done the hardest part for us that every person struggles with, which is making the decision of what to move forward with. And we've now made this based off of data instead of vibes.
+And this right here is where every single video you've ever watched on this topic stops. You've got the winner.
+Congratulations. Now, go figure out the rest alone. Where then you have to figure out, okay, what am I going to price this thing at? Where do I source this product from? What do the ads even
+say? How do I beat my competitors? That gap right there is exactly where beginners die, but it's also exactly where Ballad DS starts showing off and
+giving these type of answers. So, watch this. So, let's head back on that winner page. And as you can see, there's a button right here that says, "What's next?" Click it. And now you're going to
+see that it opens up seven execution steps that takes this product from picked to now ready to launch. The supplier, the pricing, the unit
+economics, the store, the creative angles, the test brief, and the launch plan. Now, eight years I've been doing this and I've never watched a product research tool keep working after the
+pick. Step one is going to be the supplier where, as you see, it's pulling up multiple different sourcing options.
+I'm going to go and pick mine and the product is already sitting there at $17.58 cents a unit. So, we now have that cost locked at that price. Step two, market pricing. So, right here, I
+punch in that $17.58 and now it's showing me the whole market where the median competitor is selling at $24.95, but the highest is at $59.95. Now, you
+remember that markup that I told you to lock in during the checklist? Well, this is that live screen that I promised. So, if we take $17.58 and we multiply that by 2.5, that comes out to $43.99.
+And now, as you can see, based off of the market, this lands us clean between the median and the top of that market, and that's our price. Now, step three is
+going to be the unit economics. And I love what happens here. As you see, it autofills the median price at $24.95. It immediately throws a red warning.
+Insufficient margin room. A 1.4x 4x markup below the 2.5x threshold, pushing campaign into net losses. That right there is that mistake that eats
+beginners alive. Priced like the crowd, bleeding on every order, and the tool catches it before we spend a single dollar. But we already know we're going
+to price this at a different price, but we're going to go and update it at that price of $43.99 and watch what happens.
+So now you see the warning clears 2.5x markup, 60% profit margin, $2641 net profit on every single unit. So
+let's go ahead and mark it done. Step four tells us to go ahead and prepare the store where it's now handing you a whole build list. What the product title and hook should be, high resolution
+photos and infographics, quantity tiers with a subscription option, a UGC video slider, social proof, trust badges, and even the FAQ. And I want you to repeat
+that subscription line, okay? Because we preach this all the time here at Supreme Ecom. A face mask that people keep repurchasing means that money is going to keep coming back to you every single
+month without you spending an extra single dollar on ads. And now it's telling us that this product can clearly do that. So, that's another advantage here. Step five is the creative angles.
+And you remember what the lip serum taught us that buyers hand you the angle? Well, this screen just did it five times over automatically. Five angles for this exact product. Each one
+aimed at a different buyer. We have a spa reset for people who want that moment at home. A pore purge for the ones who tried every strip on the market, extraction content for the
+people who can't look away from it, glow prep for that K beauty crowd, and even a travel reset for people whose skin falls apart on planes. So, I'm going go and
+take Spa Reset, Poor Purge, and Travel Reset. And travel actually might be one of my favorites because now I can bundle it. One from home, one for the road,
+subscribe for the refills. I mean, it's even showing you the top creatives that are already running underneath. So, you can see exactly what's working before you film anything. But now, we can just
+take these angles, drop them into Claude, and let her write your product page and add copy around it. Now, step six is my favorite screen in this whole entire tool, which is a test brief. one
+page with everything that you need. Why this product wins, the 75 out of 100 opportunity score, test carefully with high confidence, who to target, showing
+the age group of 18 to 34, mostly women, showing the location being United States, United Kingdom, and South Korea, even the risk and the angles that we
+picked, which makes it super easy for us cuz now we can just download this as a PDF right here, hand it to Claude, and now your AI knows everything about your
+product and the market without you having to ever explain a single word.
+And step seven, launch and test. Now, this is going to be where Balladas gives you the entire marketing plan on the best way to budget your money when it comes to advertising your product,
+showing that the break even cost per purchase is $20, break even rorowaz is 2.2, budget guidance $25 to $50 per marketing angle, meaning that a three
+angle test will run around $75 to 150 a day. It's even giving you the kill rules showing that an ad that spends $20 plus with no clicks and no added cards gets
+cut. And on the reverse side, the keep rules like an ad point and clicks and added carts with no sales yet is telling you that the creative works and your store is the leak, but that is fixable.
+And even the scale rules only when cost per purchase and rorowaz beats your break even and never off of only one good day. Then you even get your benchmarks for every single metric like
+clicks under a dollar, clickthrough rate above 2.5, even watch time being 5 seconds or better. And remember at the start of this video when I told you I'd give you all the numbers that tell you
+whether to scale or to walk away from these products? Well, you're looking at them. And it rolls all this up into an execution summary at the bottom where your entire test is now highlighted on
+one page. Seven steps now officially done. And now there's only one last move. Head to my store, connect the Shopify account that you set up at the start of this video. Install Valad DS
+into it. Look up the Metacube and then click on import. And now that product that we chosen that's found, validated, price, and plan go straight directly
+into your Shopify store. And if you've made it this far, you didn't just watch a video, you actually learned the method. So, I've got something for you.
+Every single month, myself and my team run this exact process and put the top 10 best products that we find inside one free list where we give out to you the
+product links, the competitor stores, the ads that are already working, everything that you need to pick one, and move on it today. And every product on that list got validated the same way
+that you just watched me do it. Now, it's in the description right now for 100% free. So, go ahead and grab it, pick one, and get to work. Now, we covered a lot. So, let's take a quick
+step back and let's look at where you're sitting at right now. a validated winner in your store, priced at a 60% margin, five angles picked, and a one-page plan
+that tells you what to spend and when to walk away. That's further than beginners usually get in their first month, and it took us only one afternoon. But now from
+here, there's one move left, and it's about turning those marketing angles into ads that will actually sell it. And now that is a whole different skill.
+I've watched Perfect Products die to bad ads more times than I can count. So, I went ahead and did you a favor. I already filmed exactly how I would do that, how I would launch it, how I find
+the creatives and make them, how I build out the campaign, all of it step by step, and it's right here on the screen.
+So, even if you're on a limited budget or a complete beginner, this is what your next step is going to be. So, follow all the steps that we talked about today, validate your product, even
+use those top 10 winning products list that I'm giving to you, and get ready for the next step, which is that next video. I'll see you there. This is AC
+with Supreme and I'm
