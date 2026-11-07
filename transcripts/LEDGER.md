@@ -25,7 +25,7 @@ Rank = by real view count within thread (t1 = dropshipping, t2 = AI-run). Review
 | vy7XsVPy_kA | t1 | 11 | full | 367 | 2026-04-24T07:00:22-07:00 | 139585 |
 
 ## Verified NO transcript available (focused-solo verified)
-LlhTEttKcwQ (t2 rank 1), 9tKeNT-k4kk (t2 rank 2, 2024), uz_3dSU8rQo (t2 rank 4), wDBcYlt_DZU (t1 rank 5), y_qugC6fVw0 (t1 rank 9). Wave 3 additions: ytAW1_g2IfI (t2), wtDDjBOfTZo (t2), JWMizuT_A8E (t2) - total NO_TRANSCRIPT 22
+LlhTEttKcwQ (t2 rank 1), 9tKeNT-k4kk (t2 rank 2, 2024), uz_3dSU8rQo (t2 rank 4), wDBcYlt_DZU (t1 rank 5), y_qugC6fVw0 (t1 rank 9). Wave 3 additions: ytAW1_g2IfI (t2), wtDDjBOfTZo (t2), JWMizuT_A8E (t2) - total NO_TRANSCRIPT 23 (+oN9BKMw9328 wave 4)
 
 ## Capture rules
 Guest cloud-browser, focused single tab only (parallel tabs fail - panel renders only in active tab), get_transcript intercept with panel-scroll fallback, deduped, full = last cue >= 75% of duration. Pre-2025 uploads are flagged background, not recent corpus. Stop on any YouTube challenge.
@@ -42,6 +42,6 @@ Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both thr
 - New NO_TRANSCRIPT verified: 19 total (incl. m1WVgQ7Xkqw - expanded-pool wave 2, 2026-11-07)
 
 ## CANONICAL COUNTS (authoritative - read from here, not prose)
-- ALL-TIME COLLECTED 168 = corpus 164 (T1 82, T2 82) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1). Worker batch 1 (119) endpoint-audited 2026-11-07: all PASS (see WORKER_BATCH1_AUDIT.md). Instinct wave 3 (+6, endpoint-audited PASS): xxN5vSy0d8k t1, DhEMFeo_gL8 t2, HKWLH1Zh79A t2, f27fhxJ7b10 t1, -hV1199wN0k t1, XMLjZB1ASUM t1 - committed to transcripts/
+- ALL-TIME COLLECTED 173 = corpus 169 (T1 84, T2 85) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1). Worker batch 1 (119) endpoint-audited 2026-11-07: all PASS (see WORKER_BATCH1_AUDIT.md). Instinct wave 3 (+6, endpoint-audited PASS): xxN5vSy0d8k t1, DhEMFeo_gL8 t2, HKWLH1Zh79A t2, f27fhxJ7b10 t1, -hV1199wN0k t1, XMLjZB1ASUM t1 - committed to transcripts/. Wave 4 (+5, endpoint-audited PASS): gRcBu8LyfGo t2, jVOk8oc-a70 t2, 5T-Cl_-k0YU t2, o8xofw0jV0A t1, qeVeZO73lRA t1
 - STUDIED 134 = T1 73, T2 61 (updated 2026-11-07 ~05:42 UTC: + Gemini pool batch 10, 6 wave-3 captures, QC-passed)
 - Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 + T2 41-60 BOTH DONE. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
