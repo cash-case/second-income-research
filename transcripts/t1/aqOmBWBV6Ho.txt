@@ -1,0 +1,929 @@
+VIDEO: I Tried Shopify Dropshipping For 7 Days (Realistic Results)
+URL: https://www.youtube.com/watch?v=aqOmBWBV6Ho
+CHANNEL: Marko
+UPLOADED: 2026-10-07T09:03:35-07:00
+DURATION_S: 1479
+VIEWS_AT_DISCOVERY: 31857
+THREAD: t1 RANK_BY_VIEWS: 33
+CAPTURE: worker agent guest cloud-browser (Instinct QC'd), 2026-11-07 ~04:56Z, deduped
+COMPLETENESS: full (last cue ~1474s of ~1479s, 919 cues)
+
+Hey guys, welcome back to a new video.
+In this one, we're going to be doing a
+7-day drop shipping challenge, which
+means today we're going to find a
+product, set up a store for it, make
+some ads, and we're going to launch an
+ad campaign and see what we can do over
+the course of the next 7 days. And
+hopefully by the end of it, we can be
+profitable and make some money. That's
+the goal, but we'll have to wait and see
+what happens. If you guys are not
+already, make sure to subscribe to the
+channel and follow me on Instagram,
+ecomarco. If you guys plan on starting a
+new Shopify store yourself, I'll leave a
+link for a free trial in the description
+below where you can get your first 3
+days for free and then your first three
+months for just $1 a month. And if you
+want me to work with you one-on-one and
+help you get started with drop shipping,
+you can apply for my program in the
+description below. I'll go over your
+application and if you're a good fit,
+I'll reach out to you and we might start
+working together. And with that being
+said, we are ready to get started. So
+the first thing that we need to do is we
+need to find the product to sell. So
+let's go over to my screen and let's
+find the product that we're going to be
+selling. All right, so to find the
+product, we're going to be using a tool
+called Cal Data. And this tool basically
+allows us to see the analytics of
+different Tik Tok shop products. So if
+we go over to product here, we can see
+all the bestselling products in Tik Tok
+shop. And we can see exactly how much
+revenue they're doing, how many items
+they've sold. We can also see the
+revenue trend, whether it's going up or
+down, and a few more statistics. And we
+can also see all of the best performing
+videos as well. So, we basically have
+everything we need in one place. And we
+can play around with the filters here.
+For example, we can set the dates here.
+We can also filter our products by
+revenue. So, if we only want to see
+products that have done over 100,000 in
+revenue, we can put that in and click
+apply and then click submit down here.
+And now we're only seeing products that
+have over 100,000 in revenue. So, we can
+really do a lot with the filters and we
+can only filter out products that have
+potential and that are already selling
+well. And yeah, I'm going to play around
+with the filters a bit and I'm going to
+start scrolling here until I find
+something that looks interesting. And
+I'll be back to you guys when I find
+something that looks good. So, I'll see
+you guys soon. All right. So, after
+scrolling for a few minutes, I found
+this product right here that I think has
+a lot of potential. And the product is a
+roll-on serum that's supposed to boost
+hair growth. And it's a very simple
+product. And it also makes sense for
+people to buy more of them cuz they're
+going to need to use it over a couple of
+months. These guys have done over
+600,000 in revenue in the last 30 days.
+And the sales trend has been really
+steady and it's been going up. So this
+product is clearly selling and there's a
+lot of demand for it. And these guys are
+selling one for $35 and then two for 80,
+four for 120 and six for 160. So So if
+this product works, I think we have a
+lot of potential in getting people to
+buy more than one, which would be really
+good because that will make us a lot
+more profitable. And as I said, they're
+selling one for basically 40 with 10%
+off is 35. And I've managed to find
+basically the same product on Zenrop for
+$1.72. It comes with 8 days shipping
+time from the US and the shipping price
+is $6.15. So if we were selling it for,
+let's say, $39, we will be keeping over
+$30 of profit per sale, which for a $40
+product is amazing. So I really think
+this product has a lot of potential. So
+that's why it's going to be the first
+one we're going to test and hopefully
+the last one as well cuz it will kind of
+suck to keep testing multiple products
+on the challenge cuz we only have 7
+days. So ideally, the first product
+works. So this is the product that we're
+going to be going for. And now that we
+found the product, the next thing that
+we need to do is we need to set up a
+store for it. So, to set the store up,
+we're going to be using my free AI store
+builder, which I'll leave a link for in
+the description below. And this tool
+literally creates a store for you in
+less than 5 minutes, and it's completely
+free. So, the first thing I need to do
+is I need to pick a niche. So, we have
+clothing, pets, tech, home, and sports.
+None of these really fit what I'm trying
+to sell, but it doesn't really matter
+too much cuz we can always change it
+later. So, I'm just going to go with the
+home niche. And now, I'm going to need
+to enter in my info here. And after
+entering my info, I'm going to click
+claim your store. And now, we're going
+to need to make a Shopify account. So,
+let's click here. And it's going to
+automatically put my email in. So, I'm
+just going to click here. Then, it's
+going to ask for a password. So, I'm
+just going to set a password and click
+create account. And here, it's going to
+ask for my credit card. It's not going
+to charge me anything for the first 3
+days. And then, it's $1 a month for the
+first 3 months. So, it's effectively
+free. It's going to be $1 for this
+challenge, which really isn't much. So,
+I'll go ahead and put my card info here.
+And now, I'm going to click subscribe.
+And now, it's going to ask us to choose
+a plan. So, we're going to go for the
+cheapest one, the basic plan. And I'm
+just going to click try basic here.
+We're just going to click not now. And
+here I'm going to click skip. And there
+we go. So, we registered on Shopify. So,
+let's go back here and click next. And
+now we need to choose a banner for our
+site. So usually I like going with this
+one. It's very simple and we can always
+change it later. So let's click next.
+And now we need to install the store
+build app. So let's click here. Let's
+click install here. Then click install
+again and click continue here. There we
+go. And now we need to install Zenrop.
+So let's click here and again click
+install. Click install again. And now we
+need to choose a plan. So here we have a
+really good offer for Zenrop Plus where
+we can get it for free for the first 7
+days and then it's $79 a month. And that
+would pretty much work for our challenge
+cuz we wouldn't really pay anything. Or
+if you don't want to take this offer,
+you can just click approve on Shopify.
+And then it's going to give you the
+cheapest plan. So I'll go for this offer
+right here. Let's click here and let's
+click start trial. And there we go. So
+let's go to dashboard. And here we are
+inside of Zenrop's back end. So we're
+done here. And let's go back over here
+and click next. And now the AI is
+setting up our store. So it's probably
+going to take about a minute. So I'll
+give it about a minute to finish up. And
+then we'll see how the store turned out.
+All right. So it took about a minute and
+it's done. So now we need to remove the
+password from the store. So I'm going to
+click here. And that's going to take us
+to our store's back end and under
+preferences. And I'm going to click
+here. and then just put in my address
+real quick and then click save. And now
+to remove the password, I'm just going
+to click here and then go over here and
+click save. And now our store is open to
+everyone. So let's click on view store
+and let's see what we have. All right,
+so this is what our store is looking
+like for now. We have the banner image
+that we chose. We have some products
+already imported. Here we have some
+reasons why people should buy from us,
+some testimonials, and then a footer.
+And yeah, that's basically it for the
+homepage. When we go over to catalog
+here, we can see all of the products
+that we have on the store. So we'll
+definitely need to do some work to the
+homepage. And I'll probably just remove
+all of these products cuz we're not
+really going to be selling them. And
+I'll need to import the product that
+we're actually going to be selling. So,
+let's go back over to Zenrop and let's
+go into find products here. And let's
+look for a hair serum roll on. And
+there's a lot of similar products here.
+Let's just try to find this one. All
+right, here it is. And yeah, as I said,
+it's $1.72. So, let's click on to my
+products. Let's set the price to $39.95.
+And let's click publish to my store. And
+when we go to products here, we can find
+it right here. And there we go. Now, we
+have the product on our store. And this
+is what our product page looks like. So,
+as you can see, the product page doesn't
+look that good. This is just the default
+description that got imported along with
+the product. So, what we need to do now
+is we need to make the product page
+better. And to do that, we're going to
+be using an app called Page Pilot. So,
+I'm just going to click install. Click
+install again. And now, it's going to
+ask us a couple of questions. So, let's
+say we're a drop shipper. Let's say
+none, just starting. Click next. Create
+high converting product pages and let's
+say manually in Shopify. And let's go
+for a general store. And let's say we
+heard about it on YouTube. And click
+complete. And now we are inside of Page
+Pilot's back end. So the first thing we
+need to do is we need to choose a plan.
+So let's go over here and let's go into
+billing. And then this is where you can
+choose a plan. So they have the light
+plan and the scaler plan. So both of
+these plans are good. It's just that the
+scaler plan has some features that the
+light plan doesn't. So since we're doing
+a 7-day challenge, I'll go for the
+scalar plan because it's going to allow
+us to do some things that we couldn't do
+on the light plan. And if you're going
+to be using page pilot yourself, before
+you choose a plan, make sure you go over
+here and click apply discount. And then
+just type in Marco 15. And that's going
+to give us 15% off. So let's click
+choose plan. And let's click approve.
+And our subscription is now active. So
+let's click here. And now I'm going to
+click on create AI product page here.
+And here you can enter the product URL
+from AliExpress. Or if you already have
+it imported, you can just click choose
+from store. So I'll select it here and
+click select product. For the language,
+we're going to do English. And here for
+the AI product images, let's go for six.
+Now this is one feature you couldn't do
+on the light plan. So that's why I went
+for this one cuz our product only had
+like one photo. So we're definitely
+going to need some AI images. And let's
+click next. And then here for the target
+audience. Most of the videos that are
+performing well for these guys are
+targeting men. So, we're going to go for
+man. And then here for the
+copyrightiting angle, we can choose from
+these six here. Or I could also put in a
+custom one, but I think this one here
+would work really well. So, we're going
+to go for that one and click next. And
+then here, we can choose the template of
+how I want the product page to look. And
+I like this one right here the most. So,
+I'm going to select this one and click
+create AI product page. And this is what
+our product page is looking like now.
+So, it's generated some AI images here.
+And they look really good. We have a
+really detailed description, and it
+looks really professional and way better
+than it was before. So, now I'm just
+going to do some slight changes. is I'll
+remove the recommended product section
+cuz we're not really selling anything
+else. I'll remove the review section for
+now. I'll probably add it back in later,
+but just for testing, we don't really
+need it that much. And I'll also remove
+this review section here as well. And
+our product page is pretty much good to
+go. So, let's click save. And then let's
+click publish to store. And since we
+already imported the product, we're
+going to click use existing product
+here. We're going to select this one.
+And we're going to turn on replace
+product title and replace product
+description. And we're not going to
+replace inventory. And we're going to
+click publish. And our product page has
+been published. So, let's click on view.
+And this is what it looks like live on
+the store right now. And as you saw,
+this literally took like 2 minutes and
+basically no effort. So, we now have a
+really good looking product page. I'll
+still need to do some changes to the
+store, like add a logo, put the product
+on sale and do some more changes in the
+back end, but I'm not going to do that
+now cuz it will take too long while I'm
+filming. So, I'll just do those updates
+later off camera. And now that the store
+is ready, the last thing that we need to
+do is we need to get some ads. So, for
+the ads, I'm just going to take some
+videos that I found online. I'm not
+going to show you guys exactly which
+videos I'll go for because it's a bit of
+a gray area. you know, it's not
+something that you should do and it's a
+little bit risky, but it's the most
+effective way to test products quickly.
+So, yeah, I've downloaded a few videos
+of the product and now we're going to go
+over to Tik Tok ads and launch a
+campaign. All right, so here we are
+inside of Tik Tok ads and we are going
+to be going for a sales campaign. For
+the sales destination, we're going to go
+for website. And by the way, if you
+don't already have a Tik Tok ads
+account, I'll leave a link where you can
+register in the description. And if you
+sign up through that link, Tik Tok is
+going to match your ad spend up to
+$6,000. So, it's a crazy offer they have
+going on. I'm not sure how long it's
+going to be available, so make sure you
+use it while you still can. Here, under
+product source, we're going to turn this
+off. For the campaign name, we're just
+going to name it hair serum. For the
+budget strategy, we're going to go for a
+campaign budget. And for the daily
+budget, we're just going to set it to
+50. For the bid strategy, we're going to
+go for maximum results. And we're going
+to leave everything else as it is and
+click continue. Then for the ad group
+name, we're going to name it ad group
+one. For the optimization goal, we're
+going to go for conversion. Here, you
+want to make sure you select the pixel.
+And for the optimization event, we're
+going to go for purchase. Then for the
+schedule, we're going to let it run from
+tomorrow at 12:00 a.m. There we go. And
+then under day parting, we're going to
+click select specific times. And here we
+can basically choose what hours of the
+day we want our ads to be running. So So
+we're going to let them run from 10:00
+a.m. to the end of the day. And that way
+we're not going to be spending any money
+on ads from 12:00 a.m. to like 10:00
+a.m. because that's when most people are
+sleeping and the majority of the sales
+usually come in in these later hours. So
+that's how we're going to be using our
+money a little bit more effectively.
+Then under audience controls, we're
+going to go for United States. We're not
+going to touch any of this. For the
+ages, we're going to go for 18 and up.
+And for the genders, we're just going to
+go for male. And then here under
+placements, we're just going to click
+edit. And we're going to turn off the
+Tik Tok ad network. And we're also going
+to turn off Lemonade and Pine Drama.
+Basically, we just want to run ads on
+Tik Tok itself. And then under advanced
+settings, we're going to turn off
+comments and we're going to turn off
+video downloading. And we're only going
+to leave video sharing on because we
+don't really want to risk getting any
+negative comments and we don't really
+want people downloading our videos. So
+that's why we're turning those off and
+we're going to click continue. Then for
+the ad name, we're just going to name it
+ad one. I'm going to put in the link
+straight to the product page. So, when
+we click on preview, it's going to take
+us straight to the product page here.
+And that way, we're not going to have
+any people getting lost on the homepage.
+They're just going to go straight to the
+product page, and they can either buy or
+just leave the store. For the identity
+or Tik Tok account, I'm just going to
+use an existing Tik Tok account. I'm not
+going to show it cuz I actually use it,
+but it's just a very general sounding
+name that could basically go with
+anything. And that's really what you
+need for testing. You don't want to be
+making a new Tik Tok account for every
+single product. So, we're going to be
+going for that. For the text, we're just
+going to do get it now at 50% off. I
+like doing something simple like this
+because in my experience the video
+itself basically does the selling. The
+description here doesn't really matter
+that much. Then for the call to action
+text I'm just going to click edit and
+then deselect all of these and then only
+select shop now. There we go. And the
+last thing that's left is just for me to
+upload the videos. So I'll go ahead and
+upload them now and I'll be back to you
+guys when I'm done. And I just finished
+uploading all the ads. So now I'm just
+going to go over here and click on
+publish all. And the ads have just
+finished uploading. So this is our ad
+group here. And now we're just going to
+have to wait for our ads to pass the
+review. And hopefully if they do
+tomorrow I'll be back to you guys with
+the first day's results. So that's going
+to be it for now and I will see you guys
+tomorrow.
+Tomorrow.
+All right guys, so the ads got approved
+and day one is officially over and we
+have the results. So now we're going to
+go over the results. So let's go to my
+screen and let's see how the ads did.
+All right, so we ended up spending $50
+in total. Our cost per click was $1.19.
+Our CPM was pretty high. It was $28.72.
+We had $1,741 impressions. We got 42
+clicks. And Tik Tok tracked two
+purchases. But Tik Tok is not always
+100% accurate with tracking every
+purchase. So let's go over to Shopify
+and let's see what actually happened.
+All right, so here we are inside of
+Shopify. And as you can see, we actually
+got three separate purchases. So Tik Tok
+mist tracked one of them and everyone
+just bought one unit and we ended up
+getting $11,985
+in revenue. But the important thing is
+profit. So let's go to the profit loss
+sheet and let's see how much we actually
+made. So we ended up getting a total of
+three sales. We had $119.85
+in revenue. We spent $50 on ads. It cost
+us $23.64 64 to fulfill the orders. Our
+payment processing fees were $557. And
+that leaves us with a total profit of
+$40.64
+for day one. And that's pretty good,
+especially for day one. Just being
+profitable in general is good. And the
+fact that we made $40 after all expenses
+is really, really good. So, this product
+is looking promising and it's showing a
+lot of potential, but it's still pretty
+early to judge. We definitely want to
+see the performance over a couple of
+days to make sure that it's consistent.
+So, normally I would probably leave the
+budget at $50 a day and just let it run
+for another day or two before making any
+changes. But since we only have 7 days
+for this challenge, I'm going to scale
+the ad spend a little bit. So, I'm just
+going to take it from $50 a day to $100
+a day and click confirm. And now I'm
+going to let it run for another 24 hours
+and just see how it performs. So, that's
+going to be it for today. So, I'll be
+back to you guys tomorrow and we're
+going to see how day two goes. So, I'll
+see you guys then.
+Tomorrow.
+All right, guys. We're back and day two
+is officially over. So, let's not waste
+any time and let's just go check out the
+results. So, as always, starting off in
+Tik Tok, our ads ended up spending
+$10021.
+Our cost per click was $1.50. So, it
+went up quite a bit compared to
+yesterday. It's still in the range where
+it's not horrible. It's okay, but
+ideally, we'd like it to be a bit lower.
+Our CPM was $34.20, so the CPM went up
+quite a bit as well. We had 67 clicks,
+and Tik Tok ended up tracking a total of
+three sales, but as you know, it's not
+always accurate. And now we're going to
+go over to Shopify and see what actually
+ended up happening there. All right, so
+inside of Shopify, as you can see, we
+did end up getting three sales. So, Tik
+Tok did track all of them. And again,
+same as yesterday, everyone just bought
+one of the product. And our revenue is
+exactly the same as yesterday. It's
+$119.85.
+And now let's go to the profit loss
+sheet and let's see how much we actually
+made. So we ended up having a total of
+three sales. We had $119.85
+in revenue. We spent $10021 on ads. It
+cost us $23.56
+to fulfill the orders. Our payment
+processing fees were $5.57. And the
+total profit for day 2 was $1949.
+[music]
+So unfortunately day two was not nearly
+as good as day one. We still got three
+sales. Even though we spent a lot more
+on ads and that's pretty normal. Ads can
+fluctuate quite a bit dayto-day,
+especially on lower budgets like this.
+Because when you're spending $50 to $100
+a day, just not getting like one or two
+sales can totally change your day
+compared to if you're spending, let's
+say, $1,000 a day on ads, then usually
+the performance dayto-day is a lot more
+consistent. But it is what it is. We
+were only negative like 9 bucks. So,
+it's not the end of the world. And
+before we go into day three, I want to
+make some changes to the store because
+I've noticed that everyone just keeps
+buying one unit. So, I believe this
+product could definitely do well with
+bundle offers. So, that's what we're
+going to set up now. So, I'm going to go
+over to the Shopify app store and I'm
+going to install this app right here.
+It's called Kaching Bundles, and it
+basically allows you to create bundle
+offers for your product. So, I'm just
+going to click install. Click install
+again. And here we are inside of the
+app. We're going to go for the cheapest
+plan, which is about $15 a month. And it
+comes with a 7-day free trial, which is
+perfect. And now that we selected a
+plan, we need to activate the app embed.
+So, let's click here. And we've
+activated it. So, let's click save. And
+now we can actually make our first deal.
+So, let's click here. And then here, we
+can select the type of deal we want to
+go for. So, we have quantity brakes for
+the same product, just basically selling
+more of the exact same product. We have
+buy x, get y. We can do quantity brakes
+for different products. We can do
+bundle, subscription. But I think for
+this product, either the buy one get one
+free will do well or quantity breaks for
+the same product. And I'm actually going
+to go for the quantity brakes. So let's
+click choose. Actually, let's change the
+color before we choose. So let's go for
+the blue one. And let's click choose.
+And then just make sure we select the
+correct product. So here it is. Let's
+click select. And then here we have the
+two different options for now. So we
+have the first one, which is called
+single. And I'm going to change this to
+one month supply. And then for the
+second one, we're just going to do two
+month supply. And then for the discount,
+we're going to do a fixed price. And
+let's do $59.95. And now people can
+choose between getting one for 40 or
+getting two for 60, which is a really
+good deal. And I think we're going to
+get a lot of people going for the two
+month supply. Now, we could do a 3-mon
+supply as well. And usually having three
+options is better, but we're going to
+stick to two for now. And then if people
+do start buying this, we might add
+another one later. So let's look save
+for now. And let's publish it to the
+store. And now when I go to the product
+page, this is what it looks like. So we
+have the one month supply here and the
+two month supply here. And this should
+help us with the average order value and
+the profitability quite a bit. And then
+also for the shipping options, so far we
+only had free standard shipping, but I'm
+going to add another option and we're
+going to call it priority insured
+shipping. And we're going to charge,
+let's say, $4.97 for this. We're not
+going to do a transit time. And we're
+going to click done and click save. And
+now people are going to be able to get
+priority shipping for $4.97. And that
+should also help us a bit with the
+profitability. Now, if anyone does get
+the priority shipping, we're going to
+ship the order out normally, but in case
+something happens to their package,
+we're just going to ship out a
+replacement for free. So 99% of the
+time, nothing happens to the package.
+and this is just going to be free money
+for us. So, it's a good way for us to
+raise the profitability a bit without
+really having to do any extra work. So,
+those are all the changes that I did to
+the site. When it comes to the ads, I'm
+not going to change the budget today
+because we were not profitable. So,
+we're not going to scale. We're just
+going to leave the budget as it is and
+we're going to see what ends up
+happening on day three. So, that's going
+to be it for now and I will see you guys
+tomorrow.
+Tomorrow.
+All right. So, we're back and day three
+is done. And you guys know the drill by
+now. We're going to go over the results
+and see if we need to change anything.
+So, let's hop into my screen and let's
+see what happened. All right. So, here
+we are inside of Tik Tok and as you can
+see, we spent $100.36 on ads. Our cost
+per click was $129, so a bit better than
+yesterday. The CPM also dropped a bit.
+We had 78 clicks and we ended up having
+a total of five sales. And when I go
+over to Shopify, we did get five sales.
+And our total revenue for the day was
+$239.75.
+And we actually had two of the five
+people buy two. So, one here and then
+another one here. And that helped raise
+our average order value quite a bit. So,
+what we did yesterday with the bundles
+was definitely good. And when I go to
+the profit loss sheet, we ended up
+having five sales. We had $239.75
+in revenue. We spent $100.36 on ads. It
+cost us $372 to fulfill the orders. Our
+payment processing fees were $10.85.
+And that leaves us with a total profit
+for day three at $91.52.
+So day three is actually looking good. I
+mean, in this economy, 91 bucks is
+probably not that much, but we're only 3
+days in. And for the revenue that we
+had, we're very profitable. So, it's
+showing good potential and I'm excited
+to see how it's going to do over the
+next few days. So, for now, I'm not
+going to make any more changes to the
+store. I'm just going to scale the ad
+spend a bit and let it run for tomorrow.
+So, I'll raise it from $100 a day to
+$200 a day. And that's a pretty big
+jump. It's 100% increase. We're still at
+small scale, so it should be fine. But
+raising your budget too aggressively can
+sometimes hurt the performance. So, I
+hope that doesn't happen now, but we'll
+have to wait and see for tomorrow. So,
+that's going to be for today, and I will
+see you guys tomorrow.
+Tomorrow.
+All right. So, day four is done, and as
+you can probably guess, we're going to
+go over the results. So, first let's hop
+over to Tik Tok and let's see how the
+ads did. So, our total ad spend was
+$24.82.
+Our cost per click was $1.36. CPM was
+similar to yesterday and we had 151
+clicks and Tik Tok tracked seven
+purchases. And when I go to Shopify, as
+you can see, we had a total of $42,452
+in revenue. And we actually had nine
+orders in total. And we had a few people
+get the quantity upsell. So, that
+definitely helped raise the revenue a
+bit. And the revenue is looking good,
+but the profit is the thing that
+actually matters. So, let's go over to
+the profit loss sheet and let's see how
+much we actually made. All right, so we
+had a total of nine orders. We had
+$424.52
+in revenue. We spent $24.82
+on ads. It cost us $72.38 to fulfill all
+of the orders. Our payment processing
+fees were $19.26
+and that leaves the total profit for day
+4 at $1286.
+Compared to the revenue that we had
+yesterday, we didn't have that much more
+profit, but still it's not bad and it's
+over $100. So, it's looking pretty good
+so far. So, for tomorrow, I'm just going
+to raise the campaign budget to 300 and
+I'm going to click confirm and we're
+going to let it run tomorrow and see
+what happens. So, so that's going to be
+it for today and I'll be back to you
+guys with the results tomorrow.
+Tomorrow.
+Okay, so day five is done. Time really
+does fly, especially when you're
+watching a YouTube video where it
+happens in a few seconds. And it is time
+to go over the results and see what
+happened on day five. So, as always, I'm
+not going to waste any time. Let's just
+go straight into it and let's see what
+happened. And inside of Tik Tok, we
+spent $37.40.
+Our cost per click was $1.25. CPM was
+similar, $26.89. and Tik Tok tracked 11
+purchases. And when we go to Shopify, we
+actually ended up having 14 sales. And
+we ended up making $65,421.
+We had a few people buy the more
+expensive option and we also had some
+people take the shipping upsell as well.
+So those are helping boost the revenue a
+little bit. But yeah, that's it for the
+Shopify side of things. And then inside
+the profit loss sheet, we had a total of
+14 sales. We had $65,421
+in revenue. We spent $37.40
+on ads. It cost us $118.39
+to fulfill the orders. We had $29.71
+in payment processing fees. And that
+leaves us with a total profit on day
+five at $198.71.
+So we were like $1.30 short of 200,
+which kind of sucks. But if things keep
+going good, we're probably going to get
+there tomorrow. So since day five was
+pretty good, I'm just going to raise the
+ad budget again. And again, we're just
+going to raise it by $100. Let's do 400
+and click confirm. And we're going to
+let it run for tomorrow and just see
+what happens. So that's it for today and
+I'll see you guys tomorrow.
+Tomorrow.
+All right, guys. So we are back with the
+results for day six. And honestly, it's
+not really what I was hoping for. It's
+still not bad, but I'll just show you
+guys and you can see for yourself. So,
+first, let's go over to Tik Tok ads and
+let's see how the ads performed. So, we
+ended up spending $4326.
+The CPC went down a little bit to $17.
+The CPM dropped a little bit as well. We
+had 345 clicks and Tik Tok tracked 15
+purchases. And as you can see in
+Shopify, we did make more revenue than
+yesterday. So, we had $759.3.
+And again, we had quite a few people get
+the bundle offer. It kind of started off
+slow, but we had one hour here where it
+was almost $200. So, it did get better
+towards the end. And as I said, we did
+have more revenue, but the important
+thing is the profit. So, let's go to the
+profit loss sheet and let's see how much
+we actually made. And as you can see
+here, we had a total of 17 sales. We had
+$759.3
+in revenue. We spent $4326
+on ads. It cost us $144.75
+to fulfill the orders. Our payment
+processing fees were $34.70.
+And that leaves us with a total profit
+for day 6 at $176.32.
+So I can't really complain. It's still
+pretty good profit, but it's less than
+yesterday and we had less revenue
+yesterday. So it just kind of sucks that
+we had more revenue but less profit. And
+again, it was pretty close, but as we're
+trying to scale, the profit is kind of
+dropping. So it could be that. It could
+also just be regular fluctuations that
+happen day to day. But the important
+thing is that we are profitable. So
+tomorrow's the last day of the
+challenge. So normally I wouldn't scale
+the ads if our profitability dropped.
+I'll probably just leave them at this
+scale or maybe downscale them a little
+bit. But since tomorrow is the last day
+of the challenge, just to keep things
+interesting, I'm going to scale it up to
+$500 a day and we're going to see what
+ends up happening. So, I'm just going to
+go back over to Tik Tok and just raise
+the budget to $500 a day. I think 500 is
+a really nice round number to finish
+things off on. So, let's click confirm.
+So, that's it for day six. I'll be back
+to you guys tomorrow with the final
+results and we'll add up all the numbers
+and see how much we made in total. So,
+that's going to be it for today and I'll
+see you guys tomorrow.
+Tomorrow.
+All right guys, so the challenge is
+officially over. It's been 7 days. So,
+now it's time to go over the results for
+day seven and see how much we made. And
+then we're going to go over the results
+for the entire challenge and see how
+much we actually made in total. So,
+let's go over to my screen and let's go
+over the results. All right, so for day
+seven, our Tik Tok ads ended up spending
+$52.71.
+Our cost per click was $1.22. CPM was
+2629. We had 412 clicks and Tik Tok
+tracked 16 conversions. And then here on
+Shopify, as you can see, we made $9383.
+So, we were pretty close to a $1,000
+day. It does kind of suck that we didn't
+hit it, but it is what it is. We can't
+really complain. This is still some
+pretty good revenue. But as always, the
+revenue is not the important part. The
+important part is the profit. So, let's
+go to the profit loss sheet and let's
+see how much we actually made. So, for
+day 7, we had a total of 21 sales. We
+had $938.83
+in revenue. We had $52.71
+in ad spend. Our product cost was
+$172.28.
+Our payment processing fees were $42.91.
+And that leaves us with a total profit
+for day 7 at $220.93.
+So we finally crossed $200 a day in
+profit, which is great. But again, our
+revenue was pretty high. So our
+profitability has dropped quite a bit
+because with $600 in revenue, we were
+already making almost $200 in profit.
+And now with $938 in revenue, we're also
+making about 200. So I was hoping we'd
+be making a bit more profit, but again,
+we can't really complain cuz we're
+profitable. And those are the results
+for day seven. And now let's go over the
+total results for the entire challenge.
+And let's see how much we actually made.
+So, our total revenue for the entire 7
+days was $3,2564.
+Our total expenses, including ads,
+including product cost, and including
+the payment processing fees, was
+$2,49.37.
+And that leaves our total profit for the
+challenge at $8467.
+So, not too bad. On average, that's over
+$100 a day. And the majority of that
+came in the later days. So, it's not bad
+at all. So, I'm pretty happy with the
+results. Our goal was to be profitable,
+and we definitely managed to do that.
+So, that's it for this video. If you
+guys are looking for one help with drop
+shipping, you can apply for my program
+in the description below. If you want to
+use any of the services I use in the
+video, all of the links are going to be
+in the description. If you enjoyed the
+video, make sure to leave a like and
+subscribe to the channel below. And if
+you're not already, make sure to follow
+me on Instagram @ ecomarco. And that's
+going to be it for this video. I hope
+you guys enjoyed and I will see you guys
+in the next one. [music]
