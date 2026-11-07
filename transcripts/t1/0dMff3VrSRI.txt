@@ -1,0 +1,484 @@
+VIDEO: How I'd Make Money with AI Dropshipping in 2026 (If I had to Start Over)
+URL: https://www.youtube.com/watch?v=0dMff3VrSRI
+CHANNEL: Andy Stauring
+UPLOADED: 2026-02-16
+DURATION_S: 921
+VIEWS_AT_DISCOVERY: 20224
+THREAD: t1 RANK_BY_VIEWS: 41
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~919s of ~921s, 474 cues)
+
+Most people starting drop shipping in
+2026 think that they're ahead because
+they're using AI to speed up everything.
+They find a product in 20 minutes, they
+build a store in 10, and they write
+their ads in five. But once they've
+launched, reality hits. They spent $500
+on ads and made two sales. And a
+majority of them will have no idea what
+even went wrong. Well, here's what
+happened. They confused speed with
+direction. So AI helped them build
+everything really quickly, but being
+fast in the wrong direction just means
+that you're going to hit a wall faster.
+And that's the thing with AI. It'll do
+exactly what you tell it to do, but it
+won't tell you if what you're doing is
+actually right. So, most people right
+now are using AI to automate bad
+decisions. They're not building faster.
+They're just failing faster. And if
+you're using AI to make all the
+decisions for you, you are already
+behind. But here's the thing. AI isn't
+the problem. It's how you're using it.
+So, in this video, here's what I'd
+actually do if I had to start from zero
+today and I wanted to be successful as
+quickly as possible. So, let's get into
+it. All right. So before we get into
+this, you need to understand something
+that most people completely miss. There
+is a difference between execution and
+strategy. And AI just made that
+difference way more obvious. Execution,
+it's the tactical stuff. So building
+your store, writing product
+descriptions, generating ad copy, all
+the things that customers can actually
+see with their eyes. Strategy is the
+invisible layer behind it. That is the
+stuff that determines if you're going to
+make money or you're going to burn
+through your budget. So here's what's
+happening with AI right now. AI
+automated execution, which is great. It
+saves you weeks of work, but most people
+take that time and they use it to just
+do more execution. So, they'll launch
+more products, they'll test more stores,
+they'll run more ads. Basically, they
+are just gambling faster. So, you can
+build a store in 10 minutes now. That's
+awesome, right? But without the strategy
+layer, you're just broke in 10 minutes
+instead of 2 weeks. So, what I'd do
+instead is use AI to handle execution
+fast and then use the time that I'm
+saving to go deeper on the strategy. So,
+I'm going to show you both parts. First,
+the execution side. So, where AI
+actually saves you time. There are a ton
+of different AI tools out there. I'm
+going to show you the right ones to use.
+Then, what to do with that time. All
+right. So, the first thing, your store.
+This used to take 2 weeks. You'd pick a
+theme. You'd customize every page, write
+all the copy, set up your policies, the
+whole thing. That would take so much
+time. It was really tedious. And most of
+the time, you would just pay thousands
+of dollars to developers to do it for
+you. Now, it takes less than 10 minutes.
+And it looks just as professional, if
+not better, than if a developer did it.
+And that's not even an exaggeration. I'm
+going to show you right now. All right.
+So, I'm going to show you the most
+recent AI store builder that I've been
+using that is a serious game changer.
+So, let's just say that I want to sell
+this product right here. I really like
+the product page or this is a good
+reference brand. So, what you want to do
+is copy the URL at the top. Go back to
+clone store. We're going to hit paste
+link. Clone store. And next thing that
+you want to do is put your best email
+and password. And now it's going to
+start getting the product info. It's
+going to be scanning the store using AI.
+It's going to figure out exactly what
+this brand is selling along with, you
+know, how they are currently marketing
+this product. All right. So, just like
+that, the store is now done. So, you can
+see that it scanned the competitor
+store. It took the current images that
+they're using and it built out a custom
+store for us that looks I mean, we
+didn't do anything and within a couple
+minutes it looks amazing. So, what we
+can do right here is rebrand with AI.
+So, you know, of course, you can change
+the name right here. If this was Andy's
+NAD, we can name it that. Whatever you
+want to name it. You can change up the
+color. Let's just say I want to go and
+try and match this color of the bottle.
+Now, I'm just going to have it rebrand
+the entire thing with AI, and it's going
+to start generating. All right. So with
+that basic color adjustment and then the
+product name change, it went ahead and
+did that and also rebranded all the
+images so that they're AI based images.
+One thing to bear in mind, if your
+product has packaging on it and it's not
+like, you know, a regular product, then
+you're going to have to go in and
+actually adjust this with AI, your best
+bet is to use Nano Banana because it'll
+actually get the product information
+pasted properly onto your product. But
+for now, it just gives you an idea of
+what it can look like if you insert your
+own UGC. So, this is what it looks like
+with the original photos. You can go
+ahead and change up the color options
+again. Use this color. So, this is what
+it looks like with all their images. And
+then we can go back to the AI images.
+But for the sake of this example, I'm
+going to use the original along with
+this color scheme. And then I'm going to
+go and create store. Other than that,
+the entire theme itself is really good.
+It's a high converting theme. You can
+see you have all the product details
+right here, the drop downs, the us
+versus them. And as you can see, the
+copy does fall in line with what the
+product is selling because it uses AI to
+figure out how your reference company
+was marketing the product to then create
+your own custom brand new variation. All
+right, so the next step is creating a
+Shopify store. So if we click on this
+link, we're going to get access to
+Shopify for a dollar for the next 3
+months. All right, so the next thing
+that you're going to want to do is sign
+up for Shopify. You can see right here
+we have a 97% off discount. So, we're
+just going to press subscribe for $1.
+Next thing, you just need the basic
+plan. You don't need the grow or the
+advanced. Try basic. Add this all later.
+Skip the customization. All right. So,
+now that we are in our Shopify
+dashboard, we're going to go back to
+clone. It wants us to copy our URL at
+the top. So, we're going to go and do
+that and then just paste it right here.
+We're going to connect store, choose
+plan, and then we are just going to
+subscribe right here. So, we'll pay that
+dollar and then head back and install
+Blockie. So, this app is going to allow
+us to make modifications onto our own
+Shopify store. Just going to go install.
+All right. So, there's going to be a
+3-day free trial for you guys to use
+this builder and to decide whether or
+not you like it. So, we're just going to
+press approve. And then now we're going
+to go back to Blocky. And then it's
+going to start cloning our store. And
+then it's going to take us to our
+Shopify store where we can make any of
+the desired edits. So this is what it
+looks like on desktop and it's also
+optimized for mobile. So keep in mind
+most of your customers are going to be
+coming from their phones. So you do want
+to do a majority of your edits on
+mobile. If you guys want to make any
+adjustments to the images, one thing
+that you have to do, you cannot do it on
+this page, but you'll have to go back to
+your product page. So, you're going to
+go back from online store to home and
+then go to products. And then right
+here, this is where you'll make
+adjustments to not only the description
+here, but also all the images. So, you
+can remove these images, you can add
+images. If you guys want to go into Nano
+Banana and create AI images, you're
+going to insert them all here. And then
+once you save, it's going to then
+reflect on that theme. If we go back to
+online stores, and then we can edit our
+theme, and you'll see that it reflects
+on your own product page. So this is the
+homepage and then as we go into the shop
+now, this is going to direct us again to
+the product page that we saw earlier.
+Yeah, this is what the store looks like.
+That's pretty much it. We built it what
+in 10 minutes. You guys just save
+yourself 2 weeks of work. But what most
+people do with this time is that they
+take it and they immediately launch
+another product or you know they build
+another store or they start testing
+random stuff cuz they're like I have
+more time to do that. That is the trap.
+You guys didn't save two weeks so that
+you could gamble faster. you saved two
+weeks so that you could spend that time
+on stuff that actually determines if you
+make money. And we're going to get to
+that in a second, but let me show you
+the other place where AI handles nearly
+everything. Now, here's the thing. You
+could have the best store in the world.
+You could have the perfect product.
+Everything could be set up right, but if
+no one actually sees it, none of that
+really matters. So, once your store is
+up, you need traffic. And here's what's
+working best right now. That's UGC,
+which stands for user generated content.
+It's basically regular people that are
+filming themselves using your product.
+So, this could be unboxing videos,
+product reviews, all that kind of stuff.
+And it works because it doesn't look
+like an ad. It looks like someone
+genuinely recommending something that
+they like to their audience. Or it's not
+even people with a big audience, but
+it's just people sharing their reactions
+and reviews of said product. Now, the
+problem is that getting real UGC
+creators is very expensive and it also
+takes a lot of time. you're looking at
+spending anywhere from $200 to $500 per
+creator. And then you got to wait for
+days or even weeks just to get that ad.
+And if that ad doesn't work, you have to
+do that whole process again. So, takes a
+lot of time and money. But here's where
+AI completely changes the game. You can
+create UGC style ads in less than 10
+minutes, and it looks so realistic that
+most people can't even tell the
+difference. I'm going to guarantee that
+you guys won't even be able to tell the
+difference when I show you what I'm
+about to create. All right, so this is
+the tool that's going to make all the
+magic happen. It's called Arc Ads. I'm
+going to leave a link as well to this
+one for you guys to easily access. So
+once you create your ad, you log in, you
+sign up, you're going to get presented
+to a dashboard that looks like this. So
+I did a couple variations of what this
+ended up looking like. I'm going to show
+you the final product really quick,
+quick preview, and then I'm going to
+show you exactly how I built it. So, I
+started taking this because I wanted
+more energy. There's this doctor I
+follow online and he said, "If you're
+fatigued and you want more energy, you
+should be taking NAD+."
+All right, that's the first one. The
+second one.
+Okay, so I've been taking this NAD Plus
+supplement for about 3 weeks now and
+honestly, the difference is pretty
+noticeable. I'm not crashing in the
+afternoon anymore.
+Like, just listen to the cadence. It
+actually sounds like it's a real person.
+It's not It doesn't even sound like
+fully scripted, right?
+So, I started taking this because I
+wanted more energy. I'm going to mute
+this real quick, but I want you to just
+look at the actual product. You're not
+going to tell me that that doesn't look
+real. Like, come on. It's actually
+crazy. So, I'm going to show you exactly
+how to do it. Now, first thing that you
+want to do is press new project like
+this. And then we're going to go to see
+more. We're going to scroll down to Sora
+2 Pro. This is what's going to do
+everything for us. All right. So, the
+next thing that you want to do is get a
+clear image of the product. So you can
+go on the product page like this and use
+nano banana to get a cutout
+transparently just like this. So I'm
+going to take it head back into our ads
+and we're going to add this as the
+reference image. Open. So the next thing
+and this is really important is going to
+be this prompt right here. So it's style
+video a 30-year-old woman holding the
+product. This is where you can insert
+your script. So put whatever you want.
+So it's basically what she said within
+the video and that is pretty much it.
+You press create and it's going to start
+doing the render. So, this is going to
+take about maybe like 10 minutes to
+fully render and then you're going to
+have your video. I also went ahead and
+created this step-by-step guide with a
+bunch of different prompts and templates
+that you guys can use. It's going to be
+totally free. You can see like it's
+pretty detailed and it pertains to, you
+know, what you guys are currently
+watching. If you want it, I'll leave it
+below. So, at this point, you guys got
+pretty much everything. You got your
+store, you got your ads, almost all of
+it. Now, here's the thing. AI UC it's
+going to be perfect for what we are
+doing right now which is testing fast
+and for a fraction of the cost to figure
+out what actually works. Then once you
+know that whatever you have is working
+you can start looking to hire real
+creators because that's the reality real
+people real reactions it creates real
+trust which means that you know you're
+going to make more money more sales. So
+for now what you should do is you should
+use AI to validate the concepts and then
+once you find a winner you can bring on
+real creators and then scale. Now most
+people they get to this point everything
+pretty much everything set up but here's
+where it gets really tricky. When it's
+time to actually launch and start
+spending money that is when questions
+start to appear. So is this product
+worth testing? Do I kill an ad or do I
+give it more time? And that's where most
+people freeze up because they don't have
+anyone confirming they're making the
+right call. So what do they do? They
+either quit on something that could have
+worked or they keep burning money on
+something that was already dead and
+never had a chance. That is exactly
+where my mentorship program comes in. Me
+and my team, we work with you
+one-on-one. You show us your product, we
+tell you if it's worth testing, you show
+us your numbers, we make the call on
+what to kill versus what to scale. So,
+we're basically in there running it with
+you in [music] real time. So, if you're
+watching this and you're like, you know
+what, I want to get this done right now.
+I want to hit the ground running as
+quickly as possible and I want to do it
+the right way. We are still screening
+people for this program. So, I'll leave
+a link below for you guys to apply and
+we will see if you're a good fit. But
+either way, here is what a lot of people
+miss, what I was talking about earlier.
+So, you just use AI to handle all the
+execution stuff and you saved a ton of
+time. But that time isn't necessarily so
+you can launch faster. It's so that you
+can focus on the stuff that's actually
+going to give you an edge. And let me
+explain what I mean. So, if you are
+sourcing from AliExpress, you've got the
+same exact margins as everybody else,
+which means the only way to win is to
+outspend your competitors on ads. So,
+here's what the people who make this
+work are doing differently. They are
+going direct to wholesale platforms and
+building relationships with not only
+agents, but also manufacturers, which
+gives them better pricing, faster
+shipping, and access to stuff like
+custom packaging that AliExpress
+sellers, they will never get you. So, I
+want to show you the easiest way to do
+this if you guys are, you know, a
+complete beginner and you don't know how
+to directly work with manufacturers or
+find these wholesale websites that are
+going to service you properly. It's this
+website right here. It's called Team
+Drop, which gives you guys direct access
+to, as you can see right here, 1688,
+which is the wholesale version of
+AliExpress. There's also Taba right
+here, but I'm going to show you guys the
+pricing really quick, and it's extremely
+dramatic. regular product on AliExpress.
+The product price is $25.73.
+There's this deal right here which is
+for like welcome, like your welcome
+offer. If you continue to buy the
+product, it's going to be $25 or around
+there. Now, that same exact product,
+right? That same exact product is on
+Team Drop for a fraction of that price.
+Anywhere from 336 to9.96 depending on
+which variant that you select. So,
+that's one thing. It's already going to
+be a lot cheaper. you are not going
+through another person in between that's
+really just upcharging you. Now that is
+one thing. Another thing is the shipping
+time. So if we go over here we can see
+the various shipping methods. You get
+access to some of the fastest most
+reliable lines like Uni Express right
+here. We can get the shipping times down
+with Unfast Electro 5 to 8 days for $10.
+So get your product quicker to your
+customer. The product itself is going to
+be cheaper on here. And then if you guys
+want to work with direct with your
+agent, you just have to hit that
+WhatsApp icon and every single account
+gets access to their own dedicated
+agent. So someone that knows everything
+about your store, someone that can
+easily answer any questions, something
+going wrong with a product. Then you can
+just contact this agent and they're
+going to be able to assist you. It's
+like having someone over text that you
+can get all your questions answered. So
+look, AI just gave you guys something
+powerful. You can build a store and
+create ads that look extremely realistic
+in less than like 30 minutes. But what
+most people ignore is that they still
+have to make the important decisions.
+Which products to test, where to source,
+when to scale, what to kill. So what
+actually works is using AI for the
+execution. Yes, what we just did. Then
+spending this extra time that we have
+for better economics, for better
+validation, for better decisions, more
+time on what's actually going to move
+the needle. Okay. So in summary, AI it
+gives you speed. You guys need to bring
+the direction. Other than that, I hope
+you guys enjoyed. I hope this was
+helpful. I appreciate you guys for
+watching as always and I will see you in
+the next video. Paste.
