@@ -1,0 +1,769 @@
+VIDEO: Give Us 20 Minutes, We’ll Teach You 5 AI Side Hustles for 2026
+URL: https://www.youtube.com/watch?v=1dvM89NMK3s
+CHANNEL: Higgsfield AI
+UPLOADED: 2026-10-19
+DURATION_S: 1365
+VIEWS_AT_DISCOVERY: 472890
+THREAD: t2 RANK_BY_VIEWS: 14
+CAPTURE: instinct guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~1361s of ~1365s, 439 cues)
+
+I asked one of the most successful online
+entrepreneurs of the decade how he'd make
+money using AI in 2026
+if he had to start from scratch.
+Meet Iman Gadzhi. He's just become
+an investor and advisor for Higgsfield.
+He's also the owner of Consulting.com
+and co-owner of Wop.
+And because of that, he's able to see trends
+in the online space before anyone else
+does. And today,
+he's gonna be sharing his entire playbook,
+uncovering five of the easiest AI side
+hustles you can start today to make over
+$3,000 a month,
+even as a complete beginner.
+And I am gonna show
+you the exact AI tools.
+You won't need to show your face,
+know how to code,
+or build a team.
+All you have to do is watch
+and repeat after us.
+Thank you so much. I'm happy to be here,
+and I'm so excited to be joining
+forces with Higgsfield.
+And today, we wanna do things
+a little bit differently.
+We wanna not only show
+you how to make money,
+but how to go about it in the right way,
+because we have seen so much BS advice
+out there from people telling you to burn the
+boats and go all in, to quit your job,
+to drop out of college, and honestly,
+you don't need to do any of that,
+all right? Because with the right AI tools,
+making money is more
+simple than ever before.
+And by the time this video ends,
+you're gonna understand five proven side hustles
+that will work for you, and you're gonna
+have all the prompts and skills necessary
+to get started.
+So let's dive right into
+side hustle number one,
+AI content for e-commerce. E-commerce
+brands are pouring millions into AI content
+right now.
+Specifically, three things: UGC videos,
+AI product photoshoots, and 3D motion ads.
+But before a brand trusts
+you with their money,
+you need a strong portfolio,
+and that's exactly what we're building today.
+And here's something that most people don't
+really think about until they're already
+running an online store, and it's the fact
+that no matter how good the product is,
+it's the content that
+actually drives the sales.
+The biggest marketplaces count
+millions of active sellers,
+and every single one of them is struggling
+with two massive problems that you can
+actually solve with AI.
+You see, right now, Fortune 500 brands
+are pouring millions and millions of dollars
+into AI content. Now if-- imagine how desperate
+e-commerce brands are for that exact
+same technology.
+And by the way, they'll pay you thousands
+of dollars just to handle it for them.
+So what you can do is you can help these
+e-commerce stores get a lot more content
+out for a lot less effort, and it actually
+covers both of these problems at once.
+The first problem is that most sellers
+are sitting on garages and warehouses full of
+unsold stock. And marketplaces sometimes
+charge sellers extra storage fees when
+stock sits for too long.
+So basically,
+dead stock is losing them money twice over,
+and they will pay anything
+to move that product,
+especially for UGC,
+because relatable videos sell so much
+better than those glossy studio ads that
+people just scroll right past.
+And they do pay. Creative videos
+start at $200 for a 15-second clip.
+Then you ship them the product,
+wait for the final cut.
+The whole thing takes a week minimum.
+And if you're worried people
+will spot that it's AI,
+no worries at all.
+Now that problem is gone.
+Sometimes even I can't
+tell if it's AI or not.
+So instead of waiting
+for a week for one video,
+you can generate 100 variations
+with different AI actors,
+hooks, and angles in just
+a couple of hours.
+For a seller who can't drop
+$3,000 on an ad shoot,
+paying 50 bucks for an AI UGC video instead
+of over 200 is an absolute no-brainer.
+And look, every business needs this,
+from online brands to local clothing
+shops right down the street.
+But let's be honest, a random UGC video
+isn't gonna convert into sales.
+It needs a proven formula
+to actually go viral.
+So Iman and I built a custom
+Claude skill for this exact task,
+where we've gathered the most viral content
+ideas for different brands and products
+so that you don't spend
+time doing it yourself.
+Grab it for free in the description. Now,
+to make it work, just open Claude,
+click Customize,
+Skills, and upload the file.
+Then we need to connect
+Higgsfield to Claude.
+For that, again,
+inside Claude, go to Settings,
+Connectors, hit Add Custom Connector,
+name it Higgsfield, and paste in this URL.
+Once it's active,
+it connects Higgsfield right into Claude.
+Now, the skill runs
+a competitor analysis first.
+It breaks down top-performing UGC trends
+in your niche and the hooks that actually
+win,
+then writes high-converting scripts
+based on what's already making money.
+Look, it asks me, "What
+exactly is the product?
+What kind of shoot do I want? What format?
+How many videos?" Let's go with five.
+And now let's see what we've got.
+These videos will become your portfolio.
+Look at the skin, the way the light falls,
+how natural the movement is.
+So for videos like these, creators charge
+anywhere from 50 to 100 dollars each,
+and most brands are gonna order
+a package of at least five clips,
+because you need to understand that virality
+really has an element of luck to it.
+So the only way to mitigate luck is just
+to post UGC at scale with a lot of volume
+across different platforms.
+So you can charge the same amount
+without any prior experience,
+and I will tell
+you how in just a little bit.
+So that is a $250 minimum payout from
+a single client for about five minutes of AI
+generation.
+So even if you're taking it slow
+and only sign five clients a month,
+that's already 1,250 a month
+in sales just from UGC videos.
+And here's what makes this even better.
+These videos generally have a short life
+cycle. They don't work forever.
+So these brands need a constant stream of new
+content every single month.
+That one-time 250 package can easily
+turn into a monthly subscription.
+Same five clients paying you again every
+month without you chasing anyone new.
+And look, keep in mind, a single product
+category usually has at least 10,000
+sellers, and there are hundreds
+of categories out there.
+So sure, some of the larger sellers
+actually run multiple listings,
+but that's actually
+a huge advantage for us,
+because if you close a deal with
+a seller with a big product catalog,
+well then, congratulations,
+you've basically just hit an absolute goldmine.
+And I'm gonna show you the exact step-by-step
+formula to find and land these clients
+in just a couple minutes here.
+But for now,
+I want you to know how to cash
+even bigger checks using AI.
+And to do that, let's move on to the second
+most in-demand e-commerce content,
+which is product photos. You see, most
+marketplace listings are using the same
+static photos,
+while platforms are letting brands
+put video right into the listing gallery.
+And here's the secret. Listings with
+videos convert about three times better,
+and most sellers still don't leverage it.
+And I get it, because a video shoot
+costs hundreds of dollars and requires a
+videographer, a studio,
+and also a lot of time in editing.
+So what you can do to find your first clients
+is to use AI product photos as a free
+lead magnet. You offer them three free
+high-quality product photos to show what you
+can do,
+and then you upsell them on what
+actually makes you big money:
+hypermotion, 3D videos like these.
+And of course,
+there's a skill for this one too.
+Link in the description.
+You just upload a photo of the product,
+and the skill analyzes the item,
+generates cinematic lighting setup,
+and builds the motion video
+right inside Higgsfield.
+You can even generate a full cinematic ad.
+For example, here I wanted a high-budget
+TV commercial for this T-shirt that felt
+super dynamic.
+So I explained the vibe to Claude,
+approved the script,
+and it rendered this
+thirty-second commercial.
+But look, would you really order a content
+package from a complete stranger who just
+slid into your inbox with no portfolio,
+no proof of concept,
+and nothing to point at?
+No, you wouldn't, and neither will they.
+And that's precisely why you don't
+try to sell anyone on a full content package
+upfront.
+Instead, you walk them through
+a simple three-step funnel.
+You're gonna start by giving
+away something for free,
+as you said. In this case,
+it's gonna be three high-quality product photos,
+the stuff that takes a couple minutes
+to create and costs you basically nothing.
+This is really just your foot in the door,
+and it proves what you can do before
+anyone pays you a cent. And then,
+once they've seen that, the next step
+is really easy for them to say yes to.
+You see, right now the market is paying
+about three hundred dollars and up for a
+hypermotion ad. But the bad news
+is no one knows who you are yet.
+So with your first client,
+you're gonna win on price,
+speed, and value. So you're only gonna
+charge them a hundred and fifty dollars per
+video, which is half the market rate,
+and you're gonna deliver it the same day.
+It's cheap enough that saying
+yes isn't really a decision.
+It's more of a formality.
+And once they've paid you once,
+upselling them is super, super simple.
+But it doesn't stop there. Look,
+you've probably seen this with trends before.
+Something explodes for a few weeks,
+and then it's gone.
+And content really works the same
+way. It has a shelf life.
+It stops performing after a while.
+So the brand is gonna need
+a fresh batch again next month.
+So what this means is that
+first payment isn't a one-off.
+It turns into a retainer with the same
+client paying you again next month without
+you having to go find new business.
+I told you I was gonna show you what
+the process of finding clients actually looks
+like. Now, in order to do that, there
+are really three main ways of going about it.
+The first is to open
+up any product listing,
+click the seller's name. Their business
+email is often just sitting right there.
+The second method is you're just gonna
+find the brand on social media or just ask
+Claude to look up their
+official contact info.
+Everything it finds is already
+out on the internet.
+Claude basically just saves
+you the hours of digging.
+Method three, this is a lazy one.
+This is actually my favorite one. Adil,
+you wanna go ahead?
+We built a client finder skill,
+so it searches your niche,
+spots the sellers whose listings have
+the exact same problems we just covered,
+finds their official public contacts,
+and drafts a personal message for each one.
+All you have to do is text them. Now,
+there are rules to follow
+when using this method.
+Firstly, never send more than
+fifty cold emails a day per inbox,
+or you'll burn your
+domain and land in spam.
+Secondly,
+cold email rules differ by country,
+so give your region's rules a quick
+check before you send anything.
+I know it seems a bit tedious, but put in
+the two minutes of homework ahead of time,
+and you'll never have to do it again.
+And I know you guys are probably
+thinking right now,
+"Well, Iman, if it was this easy,
+everyone would be doing it." Well,
+here's the thing. Half the people watching
+this video are gonna forget it in five
+minutes,
+and then half of the people left won't even
+click three buttons to install a skill.
+And that is your advantage
+if you can simply follow the instructions.
+So there we have it.
+That is e-commerce done.
+And the next one is actually
+easier to sell,
+faster to deliver,
+and the clients are literally on the map.
+So I want you to think about anyone
+who makes money renting or selling space.
+So apartment owners, small hotels,
+hostels, realtors.
+They are all fighting the same
+war: not enough clients.
+And by the way, it doesn't
+matter if you live in London,
+New York, or a small town in Korea.
+Local realtors and short-term hosts everywhere
+are struggling with empty calendars.
+Why? Because the big corporate hotels have
+huge budgets for professional shoots.
+But small independent owners just take
+photos on their phone with bad lighting and
+pray for the best.
+And the issue is that bad photos,
+well, they kill income.
+And then the missing income, well, then that
+means there's no budget to actually fix
+the photos, and they just
+get stuck in this horrible loop.
+And here's where you come
+in. To help them,
+you don't need to buy a camera
+or fly to another country.
+Take the photos they already have,
+upload them to Claude,
+and ask for regeneration.
+Make these photos look
+professionally shot.
+Change nothing.
+Use Seedream for regeneration.
+Then make a 3D tour with Seedance 3.5.
+And Higgsfield does
+everything automatically
+You don't have to do anything manually,
+but this is just the beginning.
+Here's a psychological
+trick to close more deals.
+Think about how you book
+a hotel for a vacation.
+You wanna know if the photos
+match reality,
+right? And you wanna know
+how big the room actually is.
+That's exactly where you can take things
+to the next level with 3D visuals and tours
+to help get 10 times more bookings.
+In e-commerce,
+the big checks are in the videos,
+as we already saw. But in real estate,
+not every owner understands
+why a video tour matters.
+A lot of them are just super old school
+and just kind of stuck in their old ways.
+They still want professional photos,
+but they don't really understand the value of
+these 3D tours.
+So if you try to force
+them to buy a 3D tour,
+that actually might put them
+off. They might say no.
+So here's the way around this.
+You sell them the photos,
+and then you gift them the tour as a bonus.
+And with this,
+they're getting exactly what they need,
+plus a bonus that makes this
+an absolute no-brainer.
+Do you see how you have something
+impossible for them to refuse?
+Generating these visuals
+might be easy for you,
+but for a business owner drowning
+in daily tasks, it's a lifesaver.
+You can make a coffee at home, right?
+But you still pay a barista because it's
+faster. Same thing here.
+You can charge $150 to $300 for this package,
+and if you close just 10 local
+owners or agents a month,
+that's $1,500 to $3,000 a month.
+So to find these clients, the most effective
+method is literally just open Maps,
+search for hostels
+or real estate agencies,
+or browse apartment listing sites,
+and just contact them through
+their official public emails.
+Look, I know it sounds simple,
+but trust me,
+this works. You just can't be lazy.
+You need to sit down and message
+at least 20 to 50 prospects,
+and you don't have to stop there,
+but that's the minimum that I would recommend.
+Because at the end of the day,
+this is a numbers game.
+The more messages you send,
+the more replies you will get.
+And to increase your chances
+of getting that yes,
+I'm actually giving you my proven
+cold email template.
+Feel free to take a screenshot or just
+copy it from the link in the description.
+So build a mini portfolio
+and use this exact outreach template.
+Once you start building a portfolio,
+you don't need to rely on cold outreach too
+much.
+At that point, agents start
+referring you to other agents,
+and that's where you can take
+things to the next level.
+And remember,
+they need you more than you need them.
+The market is desperate
+for these specialists,
+so don't think that you're being annoying,
+because honestly, even as a founder,
+I love it when people pitch me directly
+with upfront proof of work instead of me
+having to go out there
+and hunt for talent.
+Now you know exactly what
+businesses are willing to pay for,
+how much they will pay,
+and who the buyers are.
+But most importantly,
+you know exactly how to do it.
+Now, if you want a side hustle that doesn't
+even require you to work on a daily,
+then the next AI side hustle
+might be the one for you.
+Every business needs a website.
+It doesn't matter if it's a plumber,
+a dentist,
+or a gym around the corner.
+But the reality is,
+a lot of them either have a terrible
+one or they just don't have one at all.
+Plenty of them are just running
+off of a Facebook page and a phone number,
+and that is exactly where this
+third side hustle comes in:
+building websites with AI.
+Everyone knows Claude can code websites,
+but to actually inject content into
+that site automatically, you need MCP.
+From one single prompt,
+you can generate images,
+embed motion videos, and apply the design
+without manually inserting anything
+yourself.
+You'll still need to adjust
+a couple things with the prompts,
+of course, but as long as you give
+Claude and Higgsfield clear,
+simple instructions
+on what the client wants,
+it builds the whole package for you.
+And like we said, AI has studied more
+web design than you can imagine.
+If you're unsure of the direction
+you wanna go, you can just
+ask it, and it can recommend a few different
+paths based on whoever you're building
+for. Which means by the time
+you're pitching a client,
+you're not selling them
+on an idea anymore,
+you've got the actual site sitting
+right there for them to click through.
+And once you get the hang of it,
+the opportunity to make money with it is pretty
+straightforward.
+That's right. And with this side hustle,
+there are actually
+two ways you can get paid.
+First is just the build fee itself,
+and this is where you charge for your
+first time setup and the building of the
+website for one of these businesses.
+And you can charge anywhere
+from $750 to $1,000 to do this,
+and you are already undercutting
+what most places are charging for.
+And by undercutting almost everyone else,
+your value proposition is pretty clear.
+Now, if you want leverage income without
+directly selling to clients every day,
+this next side hustle is for you.
+Everyone knows about
+faceless YouTube channels,
+but most people do it completely wrong.
+That's why their channels
+get shadowbanned,
+or YouTube outright
+refuses to monetize them.
+Let's break down exactly where
+the money comes from first,
+and then I'll show you how to keep your
+channel safe and monetized while you're at
+it.
+First of all, the biggest money early
+on doesn't come from YouTube AdSense.
+For a channel to get monetized from zero,
+you need 4,000 watch hours
+and at least 1,000 subscribers.
+Some channels get there in their
+first couple of videos.
+After that, YouTube pays you for views.
+You'll get there either
+way, but until you do,
+a faceless channel can get you paid
+in two other ways.
+Income stream number one, your channel
+acts as basically just a public portfolio.
+Every big creator right now wants
+AI visuals in their videos,
+in their inserts, in their B-rolls,
+in their cinematic scenes that they
+just can't really film themselves.
+So when they see a faceless channel
+posting engaging content every week,
+they don't think, "Oh, another
+competitor." They think, "Who makes this?
+And can I actually hire them?"
+And that's affiliate deals,
+way number one. And it's the easiest
+of the three to start,
+because you don't need
+a single subscriber to do it.
+If you put your business email
+in your channel description,
+you'll start getting inbound leads.
+Creators easily pay anywhere from $300 to $500
+to have AI visuals
+generated for their videos.
+Now, way number two is a step above that:
+sponsorships. And this is really where
+the bigger checks start coming in,
+around 10,000 subscribers.
+That's when brands start paying
+$500 and up per integration.
+Below that, you're really mostly working
+with affiliate deals and free products
+while you build that number up.
+So the way you go about
+this is pretty simple.
+Affiliate deals get you paid immediately,
+whereas sponsorships pay bigger once
+you've actually got an audience.
+And then once you cross
+the YouTube threshold,
+AdSense really just stacks
+on top of all of this.
+And that brings us to income
+stream number three: AdSense.
+But here's the catch. YouTube pays for content
+that actually provides value to the
+viewer. Now, one format that reliably
+pulls in millions of views is edutainment.
+So think about broad topics
+that everyone clicks on,
+things like, uh, science, psychology,
+geography, mysteries.
+But don't make meaningless
+cartoons or random clips.
+YouTube simply won't monetize them.
+The platform doesn't fight AI,
+it fights lazy content.
+Original script with real insights,
+a voice that fits, properly edited scenes,
+that's the whole safety checklist,
+and our workflow does it by default.
+So look at what you're actually building.
+Want finance brands paying you?
+Make money history content.
+Travel companies? Obviously geography.
+You're not picking topics,
+you're picking your future advertisers.
+Okay, let me show you how to make
+a video like this in just two clicks.
+First, ask Claude to analyze
+the top videos in the niche you picked.
+Have it pull the topics that crossed
+a million views in the last year.
+Then ask it to pick the one topic
+and make you a five-minute video.
+Claude does the research itself,
+writes the script,
+and Higgsfield makes the video, which means
+you'll always have original scripts and
+fresh videos.
+Let's see how it turned out.
+largest pyramid on earth isn't in Egypt.
+It's in Mexico, underneath this church.
+That green hill?
+That's the pyramid.
+By volume,
+it's almost twice the size of Giza.
+In 1931, archaeologists
+began tunnelling inside.
+Nearly 8 kilometers of passages.
+All right, so to package them,
+you need a title,
+a description,
+and thumbnails. Same scheme.
+You're gonna ask Claude
+to handle all of it,
+and Higgsfield actually generates high
+CTR thumbnails for your video using the
+special built-in skills.
+Now, the higher your CTR and watch time,
+the more the YouTube algorithm
+pushes your videos to new audiences,
+and that's really
+the whole faceless system.
+The channel builds your portfolio,
+the portfolio brings you clients,
+and then YouTube pays you on top.
+So moving on to the fifth and final,
+this is something close to my heart.
+It's called AI digital product,
+and this is really where a lot of my success has
+come from. Now, look,
+you obviously know what AI is,
+but maybe you don't really understand
+what a digital product is.
+So let me just go ahead
+and simplify this for you.
+A digital product is packaged information
+that solves someone else's specific
+problem.
+This is really a pain point
+for whoever is buying it.
+And when I say packaged,
+I just mean something that's concrete.
+Some examples of formats,
+it could be a guide,
+a template, a checklist,
+a short program, a toolkit.
+And because it's already packaged,
+you build it once,
+and it can be sold to the next person
+the same way it was sold to the first one,
+and that's what makes this
+side hustle work so well.
+It is the highest leverage
+one because scaling it is infinite.
+Now, look, when I started 10 years ago,
+doing this required years of expertise in
+whatever the subject was.
+It meant you needed a team to actually
+help you put this whole thing together.
+Nowadays, well, we've got AI, and that
+is all you need to get into the side hustle.
+And here's what AI actually does for you.
+It pulls together everything that's already
+been written and figured out on a topic,
+structures it properly,
+and turns it into a finished product.
+It also helps you land on exactly who this
+is for and what specific problem it's
+solving for them, because a product
+built for everyone sells to no one,
+unfortunately.
+And on top of the product,
+AI also helps you with everything related to it,
+the store page, the pitch, the FAQs,
+pretty much whatever it takes to take
+someone from viewer to buyer.
+And just like the other
+side hustles on this list,
+none of this depends on you having to show
+your face or build a huge audience.
+Digital marketplaces already have millions
+of people sitting on them looking for
+exactly this kind of solution,
+so the demand is already there.
+And there we have it, five proven
+ways to make money with AI.
+Inside each one, there
+is a version that fits you.
+Every one of these models
+is simple to start.
+It really just comes down to what you like
+best and how fast you wanna get paid.
+But whatever you choose to do,
+just promise me one thing.
+Do not waste your whole life trying
+to figure out which one to start.
+Just pick something and start.
+So AI is the ultimate equalizer.
+It doesn't care about your background,
+your degree, or your experience.
+I mean, I was a bartender a year ago,
+for crying out loud, and now I'm here.
+This is the moment to capitalize
+on what's going on in the world.
+You already have everything
+you need to start.
+And by the way, everything
+we talked about today,
+the Claude skills, prompts, and the outreach
+template are all in the description for
+free.
+And as always,
+if you found this video helpful,
+hit the like button, subscribe,
+and we'll see you guys in the next one.
+See you there.
+Nice.
