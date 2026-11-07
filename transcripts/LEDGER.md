@@ -1,3 +1,5 @@
+# CANONICAL LEDGER MOVED -> contents/transcripts/LEDGER.md (machine-manifest-backed counts). This file kept for provenance; do not write here.
+
 # Transcript Ledger - dedup + ownership (updated by Instinct, 2026-11-07 ~04:50Z)
 
 Rank = by real view count within thread (t1 = dropshipping, t2 = AI-run). Reviewer sets are UNIQUE per contributor (no overlap).
