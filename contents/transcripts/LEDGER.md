@@ -48,7 +48,7 @@ New IDs: Vbg_FwDx36s(t1) GjcFLguXb3E(t1) 8Di9xo5pU-M(t1) 16YZH2M5AUk(t1) wMbfdlZ
 
 ## CANONICAL COUNTS (authoritative - read from here, not prose)
 - ALL-TIME COLLECTED 274 = corpus 270 (T1 139, T2 131) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1). Worker batch 1 (119) endpoint-audited 2026-11-07: all PASS (see WORKER_BATCH1_AUDIT.md). Instinct wave 3 (+6, endpoint-audited PASS): xxN5vSy0d8k t1, DhEMFeo_gL8 t2, HKWLH1Zh79A t2, f27fhxJ7b10 t1, -hV1199wN0k t1, XMLjZB1ASUM t1 - committed to transcripts/. Wave 4 (+5, endpoint-audited PASS): gRcBu8LyfGo t2, jVOk8oc-a70 t2, 5T-Cl_-k0YU t2, o8xofw0jV0A t1, qeVeZO73lRA t1. Wave 5 (+4, endpoint-audited PASS): ChSEhsQAoYo t2, 2cFd1entuts t1, j_bAPw0kN6w t1, O39Eec76XZ8 t1. Wave 6 (+13, endpoint-audited PASS): UDhVOnSCUAU t2, iY3hPuE6kvE t1, ufNh8TaxqnE t2, OVdUFYEgYBw t1, D77kClSuvV4 t1, ud5zpAVqtSE t1, WlQy7EMhbFA t1, gs-d83-ESPE t1, h_suMViEZOw t2, 6LCephPttXM t2, lEon0g5WsT4 t1, qzfqnnyWyUI t1, oF1WN2J3lTw t1. Worker agent re-engaged on disjoint 60-ID package (worker_pkg_wave6.txt). Worker w6 batch 1: +18 (endpoint-audited by Instinct: all PASS, worst gap 12s, no dups; worker self-audit corroborates), 42 remaining. Instinct wave-6b +9 (8 t1, 1 t2, endpoint PASS): L2yjhtl9VYU 6CB9NlZDNhc qC8a2suBB4s 7e_pFgyCLDo 7zgRf2lcXmk tWELYG4p0Ys 333xXhgomng uQ7FZP9m-r8 t1, jEk9oKfw94g t2. Wave-6c +5 t1 (endpoint PASS): E9mQzp1ZnxI vH_bSl6NDWs 6WPnaKfG5Ys W4mk-pW3ZMw sIjMHN1qMCQ
-- STUDIED 245 = T1 131, T2 114 (updated 2026-11-07 ~06:46 UTC: + Gemini batch 16a-d, 48 videos, QC-passed)
+- STUDIED 236 = T1 127, T2 109 (updated 2026-11-07 ~06:46 UTC: + Gemini batch 16a-d, 48 videos, QC-passed)
 - Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 + T2 41-60 BOTH DONE. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
 
 Worker w6full +42 (T1 21, T2 21) - independent-audited PASS, committed 2026-11-07 ~06:41 UTC. Worker retired by main after confirming nothing outstanding.
@@ -60,4 +60,4 @@ REPAIR 2026-11-07 ~07:15 UTC: sandbox restart wiped local state; a stale local l
 - Gemini batch 16a-d (48 videos: worker w6full 42 + Instinct w7 6) QC-passed, reviews/gemini-batch16a-d.md.
 - NO_TRANSCRIPT total 56.
 
-Gemini batch 17 (9 videos: wave-8 4 + wave-8b 5) QC-passed 2026-11-07 ~07:22 UTC; all 9 IDs echoed, claim labels present. STUDIED 245 = T1 131, T2 114.
+Instinct wave-9 +2 recent full (1 t1, 1 t2): sdIxBrfyt1I gu2WIU8_25E - PASS 100%. +1 BACKGROUND (2023, excluded from recent corpus): MzqXFCJjJts. +4 NO_TRANSCRIPT (52 tracked + 4 = 56... note: tracked unique set now 56 with these: v9KwNO8naWU OINK1lURm4w zPcnuS8HWpE 0_njb7Cbauo). Yield note: fresh-phrasing pool has high no-caption rate (non-English masterclasses).
