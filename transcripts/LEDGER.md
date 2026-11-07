@@ -1,22 +1,31 @@
-# Transcript Ledger - dedup + ownership (updated by Instinct)
+# Transcript Ledger - dedup + ownership (updated by Instinct, 2026-11-07 ~04:50Z)
 
-Rank = by real view count within thread. Reviewer sets are UNIQUE per contributor (no overlap).
+Rank = by real view count within thread (t1 = dropshipping, t2 = AI-run). Reviewer sets are UNIQUE per contributor (no overlap).
 
-## Reviewer assignment (per thread, by view rank)
-- Claude: ranks 1-20 | Gemini: ranks 21-40 | Instinct: ranks 41-60 | Hark: ranks 61+ (self-reads, caption access)
-- Already read before this corpus: ahrnr70vF9o (Claude+Gemini), Bernstein video + Ac Hampton wDBcYlt_DZU... (Hark: Bernstein + Ac Hampton videos), w3jqBCkE_Ys (Gemini)
+## Reviewer assignment
+- Claude: t1 ranks 1-20; t2 ranks 3, 6, 21-40
+- Gemini: t2 ranks 1-2, 4-5, 7-20; t1 ranks 21-40
+- Hark: t1 + t2 ranks 61+ (self-reads via its caption route)
+- Instinct: t1 + t2 ranks 41-60, plus QC on everything
+- Already read pre-corpus: ahrnr70vF9o (Claude+Gemini), Bernstein video + Ac Hampton video (Hark), w3jqBCkE_Ys (Gemini)
 
-## Captured so far
-| video | thread | rank | completeness | segments | uploaded | views |
+## Captured (full unless noted)
+| video | thread | rank | completeness | cues | uploaded | views |
 |---|---|---|---|---|---|---|
 | rhuYy9LP72M | t1 | 1 | full | 710 | 2026-05-04T04:21:06-07:00 | 5058116 |
 | oxlpMAHZz3U | t1 | 2 | full | 292 | 2022-09-16T07:08:21-07:00 | 1395222 |
 | _miL74-wMy4 | t1 | 3 | full | 594 | 2026-03-20T14:39:59-07:00 | 904146 |
 | DZoeGR_tatA | t2 | 3 | full | 369 | 2026-07-09T10:15:59-07:00 | 1659693 |
 | l0Vqm0ZIySc | t2 | 6 | full | 252 | 2026-03-20T16:04:44-07:00 | 1188940 |
+| _KmXbRiJVyg | t1 | 4 | full | 565 | 2026-01-16T08:14:03-08:00 | 619267 |
+| XFGOEaGokaU | t1 | 7 | full | 717 | 2026-05-23T07:00:36-07:00 | 245434 |
+| MWrmsiY_3Kk | t1 | 6 | full | 576 | 2026-08-16T11:46:07-07:00 | 267814 |
+| CGMX_4-qzQA | t1 | 8 | full | 380 | 2026-09-16T06:52:35-07:00 | 231731 |
+| KCiwfiaig-s | t1 | 10 | full | 707 | 2025-12-15T10:00:13-08:00 | 201841 |
+| vy7XsVPy_kA | t1 | 11 | full | 367 | 2026-04-24T07:00:22-07:00 | 139585 |
 
-## Verified NO transcript available (panel solo-verified)
-LlhTEttKcwQ (t2 rank 1), 9tKeNT-k4kk (t2 rank 2), uz_3dSU8rQo (t2 rank 4)
+## Verified NO transcript available (focused-solo verified)
+LlhTEttKcwQ (t2 rank 1), 9tKeNT-k4kk (t2 rank 2, 2024), uz_3dSU8rQo (t2 rank 4), wDBcYlt_DZU (t1 rank 5), y_qugC6fVw0 (t1 rank 9)
 
 ## Capture rules
-Guest cloud-browser transcript panel, deduped by timestamp, completeness = last segment >= 75% of duration. No datacenter caption APIs (IP-blocked). Stop on any YouTube challenge.
+Guest cloud-browser, focused single tab only (parallel tabs fail - panel renders only in active tab), get_transcript intercept with panel-scroll fallback, deduped, full = last cue >= 75% of duration. Pre-2025 uploads are flagged background, not recent corpus. Stop on any YouTube challenge.
