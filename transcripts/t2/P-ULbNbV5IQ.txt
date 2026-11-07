@@ -1,0 +1,683 @@
+VIDEO: The Simple Way I'm Making Money Online With AI
+URL: https://www.youtube.com/watch?v=P-ULbNbV5IQ
+CHANNEL: Wholesale Ted
+UPLOADED: 2026-09-15
+DURATION_S: 1421
+VIEWS_AT_DISCOVERY: 247364
+THREAD: t2 RANK_BY_VIEWS: 20
+CAPTURE: instinct guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~1420s of ~1421s, 673 cues)
+
+Okay, so if I'm just being honest here,
+I can't help but notice that there are a
+lot of videos here on YouTube where
+creators are talking about all these
+great AI business ideas that they have.
+Yet, very few of them are actually
+showing how they themselves are using AI
+tools to make money. But I have I have
+case studies on this channel showing how
+I built my one person AI business to
+over $1,000 a day. So, I know how to
+actually do it. I know how to use AI to
+automate creating products or services,
+getting free sales and traffic, and
+crucially identifying low competition
+niches to target. And that word automate
+is key. Because, as I'm sure a lot of
+you can relate, when I first started
+this side hustle, I was already working
+over 40 hours a week. So, I've had to
+figure out how to automate as much as
+possible to be able to stack it as an
+additional income source on top of what
+I already do and earn. So, let me show
+you how I do this so that you can copy
+my AI tool workflows. But first, I know
+from my analytics most people to my
+channel are new and haven't seen my
+previous case studies on my AI business.
+So, I'll quickly explain what it is and
+how it makes money so that all of us are
+on the same page. Basically, it's pretty
+simple. I just create fun print on
+demand products like clothes that I
+design using AI tools, which I then sell
+on Etsy for a profit. My idea to start
+the store came one day when I was on
+Etsy looking for funny, clever dog
+clothing. And while I did find some good
+shirts that I was willing to buy, they
+were about dogs in general, there were
+no good, clever shirts about specific
+dog breeds such as huskys or corgis that
+I liked and was willing to actually buy.
+And when I noticed this, I realized I
+had discovered this a gap in the market.
+This is when there is demand for a
+product or a service or even say a
+YouTube channel, but it either hasn't
+yet been made or there is not enough of
+it to meet the demand. And so, of
+course, I decided to fill that gap
+myself. I used AI LLM chat bots like
+Gemini, ChatGpt, and Claude to
+brainstorm fun clothing slogans. And I
+used AI tools to take those ideas and
+then turn them into actual designs. And
+then I came to print on demand apps like
+Printify, which have a huge catalog of
+blank products that you can customize
+and sell, such as t-shirts, by uploading
+the designs you create onto them, and
+then listing them in your store for a
+markup price. So, I of course listed
+them in my new Etsy store. And well,
+since Etsy already gets hundreds of
+millions of visits each month, I got my
+traffic to my listings by using AI chat
+bots like Claude to optimize my products
+for Etsy's algorithm to be able to piggy
+back off of this traffic already coming
+into the website anyway. And it worked.
+Within two weeks, I had my first two
+sales and well, it has snowballed from
+there. And so now, every week, Etsy
+quietly sends me a check while my store
+runs on its own semi-passively as an
+extra income source for me. Because the
+way that it works is that each time
+somebody buys one of my products, the
+Printify print shop will print my design
+onto the product, package it up, and
+ship it out to my customer while I get
+to keep the difference as profit. So,
+yeah, it's mostly hands-off now that
+it's set up and running. And if you'd
+like to learn even more about how it
+works, you can download a copy of my
+free ebook, My One Person AI Business
+Unlocked. You can find a link to
+download my free ebook in the video
+description below. But yes, now that
+everyone is on the same page, let's
+discuss the three steps that I followed
+to first choose a business idea that I
+thought would work well as a second side
+income source, automate it, and then
+importantly, how I got free traffic to
+it. So, let's start with step one. You
+of course need to choose whatever
+business or side hustle that you're
+going to start. And for me, I chose to
+start one that I already had an unfair
+advantage in. Because here's the thing,
+right? If you're trying to stack a
+second income on top of an already busy
+work schedule like I was, you kind of
+need to make it as easy for yourself as
+possible, you know. And for me, I knew I
+had an unfair advantage when it came to
+starting a store about dog themed merch.
+And that's because I myself love dogs. I
+was already buying dog themed products
+for myself anyway. And so, because I
+myself am a customer in this niche, it
+made it easier for me to have fast
+success in it. Because here is a
+question for you. Yes, it is super easy
+for anyone to come up with a t-shirt
+design and go to AI and get it to make
+50 different images to pick from to
+sell. But here's a question. You can't
+upload all of these to Etsy. So all of
+these 50 images, they are different.
+Which one is the best? Which one would
+customers like the most? And actually,
+we can make this question even more
+tricky because AI image generators let
+you make modifications to the images
+that it makes. So, here's the new
+tougher question for you. Which of these
+designs in its current form maybe is not
+the best, but if we were to make a
+change to it, we could turn it into the
+best design. It's tricky, isn't it? And
+so, that is where my unfair advantage
+comes in because, well, since I myself
+am a customer in this niche, I get to
+use myself as a yard stick. I get to ask
+myself, hm, which of these images do I
+like the best and which one would I buy
+if I saw it printed onto a product? And
+so what I actually ended up doing was I
+took two of the pictures and I combined
+the best elements of each together into
+a single design that was super cool. But
+this would have been so much harder and
+honestly much slower if I myself didn't
+already understand what customers in the
+niche wanted. And so even though I poked
+fun earlier at how there are so many
+business idea videos on YouTube, I don't
+actually think that these are bad at
+all. In fact, I think that they can
+actually be super helpful, which is why
+I myself make them. Because while
+watching these, you can learn about lots
+of different business ideas and find one
+that works well for you with your unique
+advantages. For example, I recently
+showcased in a video a very cool side
+hustle people are doing where they
+create these AI fashion models on
+Instagram. They use AI video generators
+to create models that are wearing and
+showcasing clothing that is up for sale
+on Amazon. And then they make money by
+posting affiliate links to where people
+can go and buy them on Amazon. It's a
+great strategy. Although, if I'm being
+honest, long-term, this would not be a
+good side hustle for me to start because
+I myself don't really keep up with
+fashion trends. You know, long-term, I
+would find it difficult and boring to
+pick trendy clothes for my models to
+wear. But for someone that did keep up
+with fashion, well, this could be a
+really fun and even easy side hustle for
+them to start. And actually, this leads
+me onto my bonus tip. And that is I
+truly believe that starting a successful
+business is even easier if you can
+identify a problem that people are
+having and solve it. Because here's the
+thing, right? When I first launched the
+store, I got my first two sales pretty
+fast. And so, the reason why I think I
+got my first sales so quickly was
+because I did this. I found a gap in the
+market. People wanted more options for
+clothing related to specific dog breeds.
+And so, I made it for them. I filled the
+gap in the market, which is great
+because you think about it, right? When
+I first launched my store, I had no
+reviews and I had no social proof. So,
+if I had done what I see most other
+beginners honestly do, which is just
+copy t-shirts in already successful Etsy
+stores, then why would someone come and
+buy from me when they can just go and
+buy from the established Etsy store that
+has reviews and has social proof? So, I
+had to give them a reason to buy from me
+and take a chance on me. I had to create
+something new that they wanted. And
+filling a gap is actually a pretty
+straightforward way to do that. And
+there are lots of ways to fill gaps.
+Maybe people want more videos in a
+particular niche or genre here on
+YouTube. You can make those videos for
+them. Or maybe local businesses in your
+city want or need people to offer a
+particular marketing service. Well, you
+can go out there and you can offer that
+service to them. However, the next
+question you're probably thinking is
+this. Okay, Sarah, but how can I find a
+gap in the market to fill? And that's a
+good question because it's true. I did
+get a bit lucky when I stumbled on mine.
+So rather than wait until you get lucky
+like me, you can always just go and make
+your own luck instead. Take whatever
+niche or business idea you picked in
+step one and ask an AI chatbot to do
+deep research online and find
+discussions from people within the niche
+talking about what problems they are
+having. So let's say that you had
+decided that you would be great at
+making digital products for teachers
+back in step one. Well, you could get an
+AI to research problems that teachers
+are currently struggling with, and then
+you could come up with some sort of
+product, video, or app designed to solve
+it. So, then onto the next step. But
+first, can I just ask a quick favor? If
+you are enjoying this video, please
+consider giving it a like. Because
+lately, there has been a bit of what
+I've begun to call an AI witch hunt.
+People are clicking on AI tutorials like
+mine just to leave comments like this,
+which is why it does mean a lot to me
+when people leave supportive comments on
+the channel or do click like. So,
+genuinely, thank you so much to everyone
+who supports the channel. But yes, once
+you have your business idea, we can move
+on to step two and create an AI workflow
+for your new business or side hustle.
+And of course, whatever your workflow
+ends up being will depend entirely upon
+what business idea or side hustle you
+have decided to start. But here's my
+workflow just as an example. First, I
+use Chat GPT Claude or Gemini to help me
+brainstorm niche clothing ideas and
+slogans. Then next, I use Google's
+advanced image generator, Nano Banana
+Pro, to make the images for me, which I
+often access through Higsfield. This is
+an all-in-one media generator that has
+all of the most popular image and video
+models included in it, which I find
+pretty useful since it lets me pay for
+just one subscription to be able to
+access all of these. Then next up, once
+I have my design created, I'll upload it
+into the AI powered graphics app, Canva,
+and I'll use some of the features
+included in the pro version of Canva to
+make a few tweaks to the design to turn
+it into a print ready file. So, first
+I'll use it AI background remover to get
+rid of the white background because if I
+don't do that, the image will print like
+this onto a t-shirt instead of like
+this. Then next, I'll use Canvas AI
+upscaler to upscale it into high
+resolution so that it will print crisp
+and clear onto products I sell. And then
+I just download and export it in two
+times resolution as a PNG file with the
+background set to be transparent. And
+that's it. I now have my design ready to
+be uploaded and sold onto print on
+demand products like clothing, mugs,
+stationery, things like that. And yes,
+before anyone asks, later on in step
+three, I will be showing you how I use
+AI to get free traffic and sales, too.
+But for now, this is my workflow that
+I've developed for my business. And
+again, yours might be entirely different
+from mine, depending on what business or
+side hustle you've chosen to start. And
+if you'd like some help creating your
+own custom workflow, you can always come
+to your favorite AI chatbot, whether
+that is ChatGpt, Gemini, or Claude, and
+ask it to help you pick the best apps
+and tools to include in it. Explain what
+your new side hustle is that you're
+building out a workflow for and also
+make sure to explain any limitations
+that you might have that it will need to
+consider. For example, if you're new to
+AI and you need it to find tools that
+are beginner friendly and easy to use,
+note that. And if you have a limited
+budget to spend each month on
+subscriptions, note that too. That way
+you can build out a custom workflow that
+is best for you. And then next up, you
+can consider doing an optional bonus
+step, which is taking your AI workflow
+and then automating it by plugging it
+into an AI agent like Claude Code. And
+while it's not necessary to do this, I
+do think that it's especially helpful
+for those of us out there that already
+have a busy full-time work schedule.
+Because you think about it, right? If
+you can create an AI workflow like we
+did in step two, then hand over this
+workflow to an AI agent to do it for
+you, it can literally work for you and
+help you make money while you are at
+your job or even while you sleep. It is
+truly gamechanging. However, I know from
+polling viewers that a lot of people are
+confused. What even is an AI agent and
+how is it different from an AI chatbot?
+And that's a good question. So an AI LLM
+chatbot is the standard chat GBT, Gemini
+or Clawude AI bots that you can access
+through your internet browser. You can
+give it a specific task and it will do
+it for you with the tools that it has
+built in. It is reactive. It will react
+to whatever you tell it to do. But AI
+agents are more advanced. These have
+access to and can use an AI LLM like
+chat GPT, Gemini or Claude. But they
+also in addition to this have access to
+your computer and whatever tools that
+you give it. And it can use those tools
+and complete multiple tasks in a row by
+itself autonomously because an AI agent
+is not reactive. It is proactive. And
+the most popular AI agent right now is
+probably Claude's own AI agent, Claude
+Code. And trust me, as I'll show you,
+even though it's called Claude Code, it
+can do a lot more than just code. To use
+it, you need a paid Claude plan. And to
+download it and install it on your
+computer, then you'll be able to open it
+up as an app on your computer. And when
+you do, make sure to switch to code
+mode, which is agent mode. Then next,
+once I had it open, I needed to install
+and give it access to all of the apps
+that I had inside of my workflow. And of
+course, I didn't need to give it access
+to the first tool in my workflow, which
+was Claude, since obviously it already
+had access to Claude, but I did need to
+give it access to two other tools.
+Hicksfield so it could use it to
+generate my designs and then Canvas so
+that it could use the tools in it to
+turn the images that it made with
+Hicksfield into actual print ready
+files. And giving Claude access to these
+tools is actually surprisingly pretty
+simple. There are three main ways that
+you can do it. One way is to do a search
+for your app in the connector section of
+Claude Code and see if there's an
+official connection there like there is
+for Canva. If there is, you can add it
+in and then log into your account using
+the connector to give Claude code access
+to it. However, sometimes official
+connections can be quite limited with
+what they let Claude do with them. And
+the Canva one is particularly
+restricted. Like it doesn't let Claude
+code access the AI tools inside of
+Canvas, such as the magic background
+remover tool, which is the one that I
+want to use. However, this didn't
+actually bother me because, as you'll
+see shortly, there is a workaround to
+this that I like to do, which I will
+show you how to do, too. But yes, either
+way, there are also some apps like
+Higsfield which have what is called a
+CLI installation method. All you have to
+do is copy the CLI installation prompt
+that Higsfield has pre-prepared for you
+and paste it into Claude Code and click
+enter. It will then install Higsfield
+into Claude Code for you, which is by
+the way super cool because as I said
+earlier, Higsfield has all of the best
+image and video models built into it. So
+if you give Claude Code access to
+Higsfield, it can make pretty much
+anything for you on autopilot. It's kind
+of like supercharging Claude code. Plus,
+there is a third alternative way that
+you can give Claude access to the tools
+that you use, and that is that there is
+also a free Chrome extension for Claude
+that you can install. When you do, you
+can open up a window on your Chrome
+internet browser, and then click to open
+up Claude within it. Now, Claude Code
+can access and use this window
+autonomously by itself. So, I opened up
+a window with access to my Canva
+account. That means now that my Clawude
+Code agent is able to use all of the
+tools inside of my Canva account,
+including its background remover tool,
+which as I said is not actually included
+in the official connection app. Nice.
+Oh, and by the way, just a quick
+question. Would anyone out there enjoy
+seeing a video where I do a full
+step-by-step tutorial on how I install
+Claude Code, install my apps, and then
+create these automated workflows with
+it? because if there is enough demand, I
+can absolutely go out there and make
+this video. But I don't want to make it
+if people will find it boring, you know?
+So, it's up to you, dear viewers. But
+yes, either way, now that I've got these
+apps and tools installed with Claude
+Code, we can put it to the test with a
+quick fun experiment. You see, while I
+thought this corky design was super cute
+as is, I couldn't help but think,
+wouldn't it also work really great with
+cats as well, there is just one catch,
+though, when it comes to cat products,
+and that's this. Cats come in a huge
+variety of colors. You've got white
+cats, tabby cats, black cats, gray cats,
+you name it. And as you can probably
+guess, most cat owners are only willing
+to buy cat merch if it looks like their
+cat. Like an owner of a white cat is not
+going to buy a cute cat mug that
+features a tabby cat, are they? They
+will only buy the mug if it features a
+cute white cat just like theirs. So, if
+I want to reuse this design and modify
+it for cat owners, then I need to create
+different variations of it featuring
+different types of cats. And so, here's
+how I automated that process. First, I
+got Claude Code to help me modify my
+Corgi design into a tabby cat design. To
+do this, I got it to use Nano Banana
+Pro, which it was able to access through
+my Higsfield installation. It made three
+variations for me to pick from. And out
+of these, this one was my favorite. So,
+next up, I opened up an internet browser
+window in Canva and turned on the Claude
+Code browser extension sidebar and I
+came to Claude Code and I really put it
+to the test. I asked it to take this
+design and now make 20 variations each
+featuring popular cat colors. And I also
+asked it to modify the text colors on
+the design too to match the cat colors.
+And I told it to use Canva to make the
+background transparent, upscale it, and
+then save all of them with my specific
+export settings of having it set to be a
+transparent PNG file saved at two times
+resolution. And then that's it. I left
+Claude code alone to work its magic. And
+work its magic, it did. It went through,
+created all of the images, and
+customized them based on my request. And
+then it popped each image into Canva,
+and it used the tools in it to modify it
+by accessing Canva in my internet
+browser. The entire process took Claude
+Co just over an hour to do, but the
+final result was well worth it because
+check this out. It made these for me
+just like I requested. It is super cool.
+Doing this myself could have taken me
+hours. But now I can literally just ask
+Claude Code to make these for me, go to
+sleep and wake up. And then the next
+morning, boom, it's done. It's insane.
+So then on to the next step. But first,
+all of this talk about Claude Code can't
+help but remind me of today's video
+sponsor, me. Yes, because you see, there
+have been a lot of shady YouTube
+sponsors, like the FDX scandal and the
+Honey scandal. And so, frankly, I am
+[music] very picky about who I let
+sponsor my videos. And if I cannot find
+a sponsor for one that I trust, then I
+will just sponsor it myself. And so I'm
+sponsoring my video today to quickly
+remind you that if you would like more
+information on my AI business and how it
+works that you can download a copy of my
+free ebook, My One Person AI Business
+Unlocked. You will find a link to
+download it for free in the video
+description [music] below. Plus, for
+those that would like additional
+tutorials, I've also created my video
+course, The Ecom Clubhouse. This
+includes step-by-step video tutorials on
+my AI tool workflows, including my new
+series on how I'm using Claude Code to
+automate the process of creating print
+on demand designs and [music] products
+to sell. And as a special bonus, I will
+give all new readers who sign up today a
+special optional one-time coupon that
+lets you join my video course, the Ecom
+Clubhouse, for 7 days for just $1. The
+chess sponsorship segment over. Now,
+back to the tutorial. And next up is
+step three, getting free traffic. And
+the way I do this is surprisingly
+simple. I just piggyback off of Etsy's
+AI powered algorithm. Because you see,
+as long as you're posting your products
+or content to a major website or social
+media platform, it's usually already
+getting hundreds of millions to billions
+of views each month that you can just
+take advantage of. Like you take Etsy.
+This website is super popular. It is the
+67th most popular website in the world.
+Every month it gets 400 to 500 million
+visits. That's a lot of people coming to
+Etsy looking to buy things, right? The
+question though is this. Given that
+there are lots of other people also
+posting their products to Etsy, how can
+you get those 400 to 500 million people
+to see your products instead of your
+competitors? It's a good question. And
+so, let me show you something. As each
+user browses through Etsy, it will based
+on what you've already liked and bought
+before recommend products to you that it
+thinks that you might like to buy that
+it selects using an AI powered
+algorithm. So, you can guess what my
+traffic strategy is, right? When I
+upload my products to Etsy, I optimize
+them for Etsy's AI algorithm so that it
+will show users my products instead of
+my competitors in the recommendations.
+And well, it works. This is my main
+traffic source that I'm using to get my
+sales. In fact, my first two ever sales
+came directly from this form of traffic.
+And it's pretty cool. The key though is
+that to optimize your products for the
+algorithm, you really need to know how
+the algorithm works. And so let me show
+you the algorithm is basically split
+into three distinct phases. Each product
+posted on the platform will go through
+this three-phase algorithm. The first
+phase is the test impression phase. And
+this is arguably the most important of
+all of them to get right. Because you
+see, let's say, for example, that I
+decided that you know what, I'm just
+going to post this design as a print on
+demand mug and list it for sale on Etsy.
+Well, when I do, Etsy's AI will look
+over the mug that I uploaded and analyze
+its pictures, title, description, tags,
+and it will try to guess who out of
+their tens of millions of active
+customers might want to buy it. Then, it
+will pick a small test group and boost
+my product by putting it in front of
+them on places like their homepage,
+their app, or their search results. I
+call these test impressions because
+that's what this boost is. It's a test
+to see if when showing your product,
+will the small group of users that it's
+selected actually engage with it, such
+as clicking on it or even better, buying
+it. Then next up, the product will move
+into phase two, the results. And really,
+this is exactly what it sounds like. The
+algorithm will now analyze whether the
+test was successful. If it wasn't and it
+didn't get enough engagement, the test
+will fizzle and Etsy will stop
+artificially boosting the product. But
+on the flip side, if it does pass this
+test, then the mug will move on to phase
+three, snowball expansion, which is
+again exactly what it sounds like. At
+this point, the Etsy algorithm will now
+switch to analyzing the people that did
+engage and try to identify other similar
+customers in its database to them. And
+it will then expand the test group to
+include those customers. And if it
+passes that test, then it will expand
+out to even more customers, creating a
+snowball viral effect. It's pretty cool.
+And also, I think it's pretty fair
+because Etsy will generally test all
+products, including products in both new
+stores and established stores with this
+algorithm, meaning everyone has a chance
+for their products to go viral and sell
+if they're actually good, even if you
+don't have any social media followers or
+reviews. And there is a technical name
+for a fair algorithm like this. It's
+called a multi-armed bandit algorithm,
+if you're curious. But yes, pretty much
+all of the major platforms these days
+such as YouTube, Tik Tok, Google,
+LinkedIn, Amazon KDP, and Instagram use
+fair algorithms like this, not just
+Etsy, which is great. However, there is
+one downside, and that is that if the AI
+algorithm gets it wrong and chooses the
+wrong group of people to test your
+product with, then the test will fizzle
+and it will flop. So something that I
+think is very important to do is to use
+AI chat bots like Chat Gvt, Gemini or
+Claude to help you optimize your
+products or content to make it easy for
+this algorithm to figure out who to show
+it to. So for Etsy, I like to upload a
+photo of what I'm going to list and sell
+and ask the AI to create a listing
+title, description, and tags optimized
+for AI recommendation algorithms. And
+look, it can do that for me. Easy. Nice.
+[music] So then if you would like to
+learn about even more ways that people
+are using AI tools to start side hustles
+to help inspire you of course to find
+the right AI business idea for you then
+check out my next video here on screen
+and I will see you in the next video.
+[music]
