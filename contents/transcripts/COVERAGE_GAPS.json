@@ -2,5 +2,12 @@
  "unreviewed_corpus": {
   "other": []
  },
- "note": "updated after batch30, 2026-11-07 ~10:24 UTC. Corpus fully per-ID review-mapped. Pre-corpus 2 (Hark-Bernstein, Hark-AcHampton) UNRESOLVED - no primary text available anywhere; collected count keeps them, studied excludes them."
+ "pre_corpus_hark": {
+  "ids": [
+   "ieiPjWxyzO8",
+   "H4b2VxZEL-o"
+  ],
+  "status": "Hark reported 2 caption reviews (GitHub comment 6702124986, 2026-11-07T04:15:33Z, via third-party-fetched captions, claimed): ieiPjWxyzO8 Michael Bernstein 'Organic Dropshipping Is Surprisingly Back' (~9.5min), H4b2VxZEL-o AcHampton '$0 to $10000/mo Blueprint' (~26min); Hark identified sales funnel/unverified earnings; Claude comment 6702127246 refined 2 ROAS arithmetic. Primary full transcripts never transferred and PR currently unavailable -> not independently verifiable. Collected keeps both (captured + analyses observed); STUDIED excludes both (no primary text to verify coverage against)."
+ },
+ "note": "Hark history corrected per main 2026-11-07 ~10:24 UTC; placeholder strings Hark-Bernstein/Hark-AcHampton replaced by actual IDs; deduped against corpus (neither present)."
 }
