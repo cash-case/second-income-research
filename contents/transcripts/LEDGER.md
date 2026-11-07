@@ -60,4 +60,4 @@ REPAIR 2026-11-07 ~07:15 UTC: sandbox restart wiped local state; a stale local l
 - Gemini batch 16a-d (48 videos: worker w6full 42 + Instinct w7 6) QC-passed, reviews/gemini-batch16a-d.md.
 - NO_TRANSCRIPT total 56.
 
-Instinct wave-9 +2 recent full (1 t1, 1 t2): sdIxBrfyt1I gu2WIU8_25E - PASS 100%. +1 BACKGROUND (2023, excluded from recent corpus): MzqXFCJjJts. +4 NO_TRANSCRIPT (52 tracked + 4 = 56... note: tracked unique set now 56 with these: v9KwNO8naWU OINK1lURm4w zPcnuS8HWpE 0_njb7Cbauo). Yield note: fresh-phrasing pool has high no-caption rate (non-English masterclasses).
+Gemini batch 18 (3 videos, incl MzqXFCJjJts BACKGROUND 2023) QC-passed 2026-11-07 ~07:33 UTC. STUDIED 248 = T1 132, T2 116.
