@@ -1,0 +1,604 @@
+VIDEO: i tried A.I dropshipping for 7 days (realistic)
+URL: https://www.youtube.com/watch?v=_miL74-wMy4
+CHANNEL: Sharif Mohsin
+UPLOADED: 2026-03-20T14:39:59-07:00
+DURATION_S: 1268
+VIEWS_AT_DISCOVERY: 904146
+THREAD: t1 RANK_BY_VIEWS: 3
+CAPTURE: Instinct cloud-browser guest transcript panel, 2026-11-07 ~04:40Z, deduped by timestamp
+COMPLETENESS: full (last segment 21:07 of ~1268s, 594 segments)
+
+And the results are unsatisfying [music]
+to be honest. So we got one sale for 18
+bucks and another sale for [music] 30
+bucks. Oh my god, we are at $453.
+Just [music] crossed $2 and just got a
+sale as I was filming this. We are at
+about
+dollar [music] in sales.
+So a few years back I recorded a drop
+shipping challenge video in which I was
+able to make $14,000 all live all on
+camera. But that was back when I was a
+teenager. AI also didn't exist. We
+didn't have chat GBT. Yes, I know I'm at
+it. So that's why in this video, I'm
+going to start a store from complete
+scratch. I'm not going to use any
+connections or personal brand
+advantages. And we're going to try to
+scale a store all using the help of AI.
+Now, hopefully we can make the same, if
+not more, than we did in the last
+challenge video, but I'm not going to
+lie, it's going to be pretty tough. And
+I forgot to mention, we're simply just
+not going to stop until we make this
+work. Stay tuned. This video is going to
+be a good one. Grab your popcorn and the
+timer starts now.
+Okay, so it is currently day one and
+we're going to go product hunting.
+That's the first thing we need to do. As
+you guys know, product is probably one
+of the most important parts in this
+whole e-commerce ladder. And there's a
+bunch of different ways you can go about
+finding winning products. Now, the way
+I'm going to be going about this is
+finding products that are actually
+trending on Tik Tok shop, but not yet
+being sold through Facebook and
+Instagram. This is literally the meta
+right now. This is what's working. So,
+I'm going to go over to this website
+called Cal Data. And essentially, this
+has just a bunch of products with the
+metrics and how many sales they're
+getting from Tik Tok shop. So, I'm going
+to spend the next few minutes doing
+product research. Hopefully, we can find
+some bangers and I'll get back to you
+guys with the results. So, as I'm
+looking through dozens and dozens of
+products, I like to keep a certain
+criteria in [music] mind. And I think we
+ended up being able to find a few
+products that fall into the bucket list
+and requirements that we have.
+Okay, so I ended up being able to find a
+few products and these products actually
+might make us some money. And to be
+honest, it really didn't take me too
+long, around 10, 15 minutes to gather
+around five different products that
+might potentially work. And again, don't
+forget, this is still day one. We
+already have a few products, and it's
+still 3:25 p.m. So, we're chilling.
+We're way ahead of schedule. Okay, so
+time to show you guys the products I
+found. And I'm not going to lie, I think
+some of these products might be able to
+make us some Lamborghini money. But
+again, hey, knock on wood. I'm not sure.
+Let's get right into it. So, this is the
+first one. It's a Hey Dewey wireless
+humidifier. And the cool part about this
+is it's wireless. A lot of humidifiers
+are wired. Now, you can see the chart.
+It's done 60k in the last 30 days with a
+few days being 5 to 6K, 9K per day. Now,
+going on to the next one, we have this
+signature cologne set or whatever. 80K
+in the past 30 days, and the chart has
+been going up. Now, going on to the next
+one, we have this pocket printer. Uh,
+I've seen these types of products
+before. This isn't new. However, this
+one, for some reason, seems to be
+printing literally. Now, this next one
+I've definitely seen before, so I'm not
+sure why it's popping off again. But
+this is doing around 130K in the last 30
+days with doing 20, 40, 50K days, which
+is absolutely insane. [music] And
+essentially, it's just this glitter bomb
+that girls use to just overdose on
+glitter. This is a pretty good product,
+although I have seen this before, so I'm
+not going to get my hopes too high.
+However, this one right here is a
+hydrating lip plumping thing and it's
+done 168K in the past 30 days. And the
+cool part about this is it has a lot of
+content to be used for it. [music] And
+the chart is just absolutely insane.
+This product is unique. I feel like this
+might be the big winner. We'll see. But
+again, these were the products I came
+across. I'm going to do some pondering,
+see which one I'm going to end up going
+with, and keep you guys in the loop.
+So, after doing some thinking, I decided
+to go with the hydrating lip balm. It's
+a product that solves a real problem,
+something that people actually use and
+has very strong branding potential. And
+on top of that, when I checked the ads
+library, barely anybody was running it,
+which of course, less competition is
+always better. So, now that we found the
+product, we need to handle fulfillment.
+Now, look, if you're still using
+AliExpress in 2026, you're pretty much
+cooked. One wrong supplier can screw
+over your entire business. Not only are
+there a ton of scammy suppliers, but a
+bunch of suppliers who provide late
+shipping and just a bad overall customer
+experience, which in return results into
+higher dispute rates, refunds, and
+chargebacks, overall leading to a full
+collapse in your business, which just
+shows how important orders and
+fulfillment is, which is exactly why
+we're going to be using AutoDS. This is
+one of those tools where you can
+literally just set up and forget about.
+And what makes it super easy is their
+sourcing request feature. You can
+literally submit a sourcing request for
+almost any product and they'll find the
+best, most trusted suppliers, best
+pricing, best quality products. Meaning,
+you don't have to go out in the wild to
+try and find the best suppliers through
+trial and error. They'll literally do
+all that work for you. And the best part
+is when an order comes in, AutoDS takes
+care of all of it. You don't have to do
+anything when it comes to fulfillment.
+All you have to focus on is consistently
+bringing in new customers. So again, if
+you want to set up your fulfillment with
+ease, reliability, and just the least
+amount of headaches, I'll leave a link
+to AutoDS with a little discount down
+below. And they were able to quote me a
+pretty good price for this product. So,
+let's go ahead and make a store around
+it. This is the product we're going to
+go with. I'm going to go ahead and click
+this full import button. And this is
+just going to import the product
+directly into our store with all the
+product images, descriptions, and just
+everything you need to just start
+running this product. And keep in mind,
+this is a brand new store. There's
+literally no sales history on it. If you
+don't already have a Shopify store, I'll
+leave a link below to store launch so
+you can create your store for completely
+free of charge. And it'll literally
+handle everything for you from the
+tracking page to the product page to the
+product images, descriptions, privacy
+policy, terms of service, and literally
+everything you need. So that all you
+need to do is just start running ads and
+sit back and relax. Okay, so our store
+just finished generating. We can go
+ahead and click view your store right
+here. and it pretty much created the
+entire store for us with all the images
+and everything we need. So, we can click
+on shop, go to the product page. We can
+see we have all this. We might have to
+change all these images cuz it is
+repeating. We have the track your order
+page. We have contact us, which means
+you literally did not have to do a
+single thing. So, if you guys want to
+use this, I'll leave a link to store
+launch down below. But now, let's go
+ahead and create a name for our store.
+So, I'm going to go ahead go to the
+dashboard and click on connect custom
+domain. Go ahead and just choose a
+domain from this list and then click on
+buy domain. Okay, so our domain is
+successful. So now we have try
+venllo.com as our URL. Okay, so what I'm
+going to do in the meantime is order
+some content off of bands offads.com. So
+that way for tomorrow we should have
+some images that we can use for the ads
+along with some videos. So, I'm going to
+go ahead place an order, fill out all
+the information, and we should have all
+the images and videos back by tomorrow
+so that we can actually use that to run
+the ads. So, I'm going to get back to
+you guys tomorrow. Today was day one. I
+feel like we accomplished a pretty good
+amount, but we do not know until we
+actually run ads and see how the product
+does.
+[music]
+Okay, so today is officially day three
+of the challenge. I skipped day two and
+ended up just not recording anything
+because Bands Off Ads didn't have the
+creatives ready. And I'm going to be
+counting this as day two of the
+challenge just because yesterday I
+literally did not do anything but wait
+for these creatives to get delivered.
+But now that Benzoff ads has delivered
+all the content, I'm going to go over
+them with you guys. So this is the first
+image ad that we actually got delivered.
+Pretty cool. It has the product, some
+benefits. This next one is pretty cool.
+It really shows the quality of the
+product and it presents it in a very
+nice way. So for this next one, it is a
+watermelon pink. So you can see we have
+some watermelon there and it presents
+the product in just a very very nice
+way. This next one we have strawberry.
+So we have some actual strawberries to
+show off this product and it has a
+little before and after which Facebook
+is typically strict on but if you sneak
+it in the right way which Bands off ads
+knows how to do, you can get approved
+for it. So it has some nice before and
+afters here. Going on into the next one,
+we have just the collection of all of
+them. So these are just a few of the
+images we got. The videos are all
+handled because we're going to be using
+existing content. Let's go ahead and
+start running the ads. Okay, so we have
+everything we need to start running ads.
+I'm going to pop into the ads manager
+right here. You can see I started just a
+warm-up campaign just to warm up this
+brand new ad account. I'm going to start
+off by clicking this green create
+button. We're going to go for the sales
+objection. Click on continue. Then for
+the budget, I'm going to go ahead and
+change this to 100 bucks per day. And
+we're going to leave this at campaign
+budget. Go ahead and click next. And
+then we want to make sure this is set to
+website. And for [music] the conversion
+event, we're going to go ahead and
+choose purchase. And then we want to
+scroll down. Leave everything else the
+complete same. Facebook favors broad and
+just letting its own AI do its work. So
+we're going to go ahead and click next.
+And then we're going to scroll down and
+enter our URL. So I'm going to go to our
+website, copy the URL, go back and paste
+it right here. And then scroll down,
+click on setup creative. I'm going to
+click on image ad. And then go ahead and
+click on media. And then go ahead and
+upload your images or videos or
+whatever. So, here are all the images.
+I'm going to select all of them. Click
+on open. And just let all of them
+upload. All right. Once that's done,
+select the first one. Click on next.
+Leave everything the same. Click on
+next. And then click on done right here.
+Perfect. Now, for the primary text and
+just paste it in. I'm going to add some
+spaces here. And then for the headline,
+we're just going to put an offer. I'm
+just going to put 50% off today only.
+And for the description, I'm going to
+put join 1,000 plus happy customers. All
+right. Now, we have the first ad group
+with the first image. As you can see,
+it's processing. I'm going to go ahead
+click on duplicate, uncheck this, click
+on continue, and we're going to
+duplicate this four more times, and just
+add the rest of the images that we have.
+Okay, so I just finished adding all five
+different images, and we're going to
+click review and publish and publish all
+these images. Right now, it is currently
+3:27
+p.m. So, we're going to see if these ads
+end up getting approved. I'm also going
+to make another campaign and add some
+existing videos that already exist on
+Tik Tok and Cal Data just to let that
+run alongside this. Now, all that's left
+is just to wait, see how the ads
+perform. And again, I don't know. This
+can completely flop. And I'm just
+gassing myself up here for no damn
+reason. But right now, all we got to do
+is wait, sit back, relax, let these ads
+spend, and hopefully again, we could get
+our first sale. I don't know how this is
+going to go. I'm lowkey kind of scared.
+I haven't done a challenge like this in
+a while. And uh Yeah. Yeah. Yeah. Yeah.
+Okay. So, it is currently 8 a.m. and we
+officially woke up to our first two
+sales. Not one, but two. We got one sale
+for 18 bucks and another sale for 30
+bucks. These are my other stores. So,
+[music] yeah. So, I then decided to
+drive over to the coffee shop and get
+some work done. However, I noticed my ad
+account [music] completely just gets
+flagged. I honestly don't know what I
+did wrong, but hey, we ended up getting
+it back. plus another sale on top of
+that. So, we were at $66 for the entire
+day. However, the results weren't
+looking too [music] good by the end of
+the day. The ads have officially ran for
+an entire day and the results are
+unsatisfying [music]
+to be honest. So, we have spent 200
+bucks in total to make back $66. And
+[music] the images are what carried and
+brought in most of the sales. Again, we
+only made [music] 66 freaking dollars
+off of 200 bucks in total spend. So,
+we're going to go ahead and end this
+campaign. Oh, no.
+[music]
+[music]
+Okay, so as you guys saw, this first
+product completely flopped. I'm not a
+drop shipper. I never claimed to be a
+drop shipper.
+I'm not a fighter. I've never claimed to
+be a fighter. No, but all jokes aside,
+we have another product as a backup. I
+didn't just come with only one product.
+I know this was the one that should have
+made us a millionaire, but life happens.
+And we have another one right here. This
+is known as the NMN Complex. So, I went
+ahead found it on Calata, added it over
+to Store Launch. You guys can see that
+there is people running ads for this
+already. So, we're going to be a bit
+late, but it still is pretty news. So,
+I'm going to go ahead import this into
+our store right now. So, I'm just going
+to let this finish up. Okay, so the
+store is officially complete. Let's
+click view your store. And we have the
+entire store here. So, this is going to
+be our second attempt. This is going to
+be product number two. And I'm not going
+to lie, I need this to work. I need this
+to work. I need this to work. There's no
+way that this isn't going to work. And
+if it doesn't work, I'm literally going
+to be so But yeah, I'm going to get some
+ads launched for this. Keep you guys in
+the loop and let you guys know how it
+goes. I have all my hopes in this one. I
+need this [music] one to work. M&M
+complex, please don't let me down. We're
+going to print manifest it. We're going
+to print. Everything will work out. 10
+rorowaz [music] day one. Drop shipping
+is not dead. We will make some money. We
+will. Yes, we will.
+Okay, so I know it's been a couple weeks
+since I last updated you guys. You guys
+are probably wondering, is drop shipping
+dead? What happened to the product? Is
+this a scam? Blah blah blah blah blah.
+So, let's take this back a couple of
+steps. The first product I found, the
+lipstick balm. We decided to run it
+obviously, and you guys saw what
+happened. We woke up to a couple sales
+and that was about it. We did 66 bucks.
+I ended up turning the ads off. And
+coincidentally, two days later, we ended
+up getting another sale somehow. I'm not
+too sure. Just thought I'd throw that in
+there. Meaning after about 200 bucks in
+spend, we made back around 99 bucks with
+absolutely horrible metrics. And then I
+was like, "Okay, I already have this
+video recorded. I need to find another
+product." And that's when I came up with
+the NMN Complex. And as you guys saw, I
+revealed that to you. And how did that
+do? Not too well. Actually, we actually
+did not get a singular sale on that
+product. So, that completely failed.
+Then keep in mind, I'm actually a bunch
+of footage deep, a bunch of edits deep
+with no winning product to show for. So,
+at this point, I'm like, "All right, I'm
+just not going to force this. If I see a
+product and come across something I
+think will actually work, I'll test it.
+And if not, I'm just going to let this
+chill." So, come January 1st, I come
+across this product called Liquid
+Chlorophyll. And it was very interesting
+because a lot of people were just eating
+this product up. And I did not really
+understand the concept, but it was
+trending. So, I decided to give it a
+shot. And we actually were able to scale
+it to a couple hundred bucks per day.
+However, it wasn't too profitable and it
+died after a little bit with not too
+promising of results. And to be honest,
+after making around 1,100 bucks in total
+with that product, the results just
+weren't juicy enough for this video. So,
+I decided to let it sit. And if I come
+across another product I find promising,
+I'm going to give it a shot. So, come
+January 20th, 2026, I come across a
+pretty interesting product that didn't
+really meet too much of my requirements,
+but it was popping all over Tik Tok, all
+over Amazon. A bunch of new listings
+were popping up for it. And basically
+what it is is a dog bowl you can
+actually fill up with any type of liquid
+treat, and the dog has to lick the ball
+in order to pick up the liquid. This
+basically promotes slower eating and
+overall a healthier experience for your
+pet. And I thought, might as well give
+it a shot. Even though the perceived
+value wasn't there, the margin wasn't as
+healthy as I wanted it to be, and there
+was no potential for subscriptions on
+this product. However, I decided to
+still give it a shot anyway. And day
+one, we did $64 in sales after spending
+about $122 on ads. And after cost of
+goods, we were negative $80 on day one.
+But we were getting ads to carts, we
+were getting initiate checkouts, things
+were looking hopeful. Day two comes
+around and we spend a whopping $177 on
+ads, bringing us back a total of $296 in
+sales. And after cost of goods, we were
+left with a big $20 in profit. So,
+finally, we were in the green on day
+two, which was a pretty good sign. Day
+three, we ramp up the ad spend, spending
+$43, bringing us back a total of $576.
+And after cost of goods, we were left
+with a negative $10 day, which again,
+we're still testing, seeing what works,
+seeing what doesn't. So, by the end of
+day three, I decided to ramp up the
+spend a little bit more. And we woke up
+to a pretty nice surprise on day four.
+All right, guys. So, it is currently
+11:49 a.m. [snorts] And we are at $453
+in sales with only 261 in ad spend,
+which is absolutely fire. And throughout
+the day, sales just kept coming in. At
+around 6:00 p.m., we were at almost $900
+in sales with almost a 9.2 conversion
+rate, which is just insane. Just crossed
+$1,000 and just got a sale as I was
+filming this. If there's anything you're
+going to take from this, keep testing.
+One product is all it takes. And this is
+the only one we were able to scale up to
+this high. So, we'll see how this goes.
+And $867
+in ad spend later. Day four ended us off
+with $1,295
+in sales. And after cost of goods, we
+were left with a measly $6.74
+in profit. How nice is that? I could
+probably buy a pack of gum with that.
+Anyway, this still had potential. The
+ads were still optimizing. Day five, we
+did a total of $918 in ad spend, which
+ended up bringing us back $1,635
+in sales. Now, after cost of goods, we
+were left with a total profit of $263
+for the day, which again is still on the
+low side. However, this product didn't
+meet my criteria, but it was in very
+high demand. And day six was even more
+impressive. At just about midday, which
+was around like 12:00, we were already
+at $1,111
+in sales. Meaning, hypothetically, if
+this continued, we would have hit $2,000
+this day. And we pretty much did. Sales
+kept rolling in. Things were looking
+very, very good. I was getting sales
+literally every second of the day. My
+Shopify dashboard was popping. And after
+about spending $1,268
+on ads on day six, that brought us back
+a whopping $2,200 in sales. And after
+cost of goods, we were left with $267
+in profit. So after every expense, our
+margin is looking to be around 10 to 15%
+right now with no recurring revenue
+potential on this product, as you guys
+already know why. I mean, come on, who's
+going to keep buying dog bulls? However,
+today on day seven, we are at about
+$1,600
+in sales. And today is not over yet, so
+I don't think it's fair to include
+today's profits. However, over the past
+6 days, we profited a grand total of
+$467.65.
+Not too impressive. However, the revenue
+numbers are looking pretty good, as well
+as the conversion rate. So, as I
+continue the store, which I'll probably
+just keep posting updates on Instagram,
+I'm going to have to constantly upload
+new creatives and be on top of that. Our
+conversion rate is really, really good.
+And I use Store Launch to create this
+store. You can see we had upwards of 11%
+conversion rate on some days. And you
+can see we had no draft orders or any
+fake orders on the store. This was all
+real. 100% legit. We even have five live
+visitors on the website right now. And
+you can see in the ad account the day we
+actually hit 2K in sales, we had about
+two testing campaigns going. These
+budgets were way higher. I turned them
+down a little bit, but you can see we
+had almost a two rorowaz on this one,
+which it did miss a few purchases, so
+this would have been higher. And around
+a 1.45 45 rorowaz on this one. And if we
+go into the campaign, we had a lot of
+pretty good adsets. This one was at a
+five rorowaz. This one was at a 2.43.
+And we had the raw UGC videos work the
+best. And this was the day where we hit
+2.2K in sales with about an 8.6%
+conversion rate, which is absolutely
+amazing. And just to give you an
+overview of the store, we have a basic
+product page using Store Launch, some
+images, AI images here, this little
+graphic of this chart, some FAQs, and
+some reviews. So, if you guys want to
+use Store Launch, I'll link it down
+below. And again, I might post some
+updates on the store on my Instagram, so
+go ahead and follow that down below. But
+anyway, I hope you guys enjoyed this
+video and I'll see you guys in the next
+one. Peace.
+By the way, I'm just editing this video
+and I shaved my head a few days ago.
+Comment bald if you made it this far.
+And I think we might need a trip to
+Turkey cuz this ain't looking too hot.
+[music]
