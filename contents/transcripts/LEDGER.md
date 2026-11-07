@@ -59,5 +59,3 @@ REPAIR 2026-11-07 ~07:15 UTC: sandbox restart wiped local state; a stale local l
 - Instinct wave-7 tail COMPLETE +6 full (4 t1, 2 t2): re8-xbiqtGA Se3LBZJJsO8 C3BnlvxuVwA vPEEIAikXy4 h4d7QMoFiBk 64hZOi9TRro - endpoint-audited PASS >=94% vs page-reported duration. +6 NO_TRANSCRIPT: 4_elRrIKjAU NEsv0wwz6e0 qeGmM6VewMo JEkLBULBTwE cuDKsbDk2e0 kcMNWEKDRLI.
 - Gemini batch 16a-d (48 videos: worker w6full 42 + Instinct w7 6) QC-passed, reviews/gemini-batch16a-d.md.
 - NO_TRANSCRIPT total 56.
-
-Instinct wave-13 +6 full (1 t1, 5 t2): ceTHNKGeZXc t1, w-XPlC3a2oI vnNz14lNpAk LdMCA6kAxeQ uaEXcgBpLbo OJkTbvXZYPc t2 - all PASS >=98%, all 2025-2026. +2 NO_TRANSCRIPT (tracked 64): RxypuPGBRPI kf4yoPJ3-3U. Threads now balanced 151/151. Pool re-expanded to 74 (+34).
