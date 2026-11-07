@@ -39,9 +39,9 @@ Hark assignment file HARK_ASSIGNMENT.md committed this cycle (ranks 61+ both thr
 ## 2026-11-07 ~05:08Z - leg 2 (49 full: Instinct 11 + worker part2 38)
 - Instinct leg: T1 ranks 12,14,19 (_EYjyrNKCkk, MrCZBfeTdag [2024-09 BACKGROUND], qA6w5PbdF4I); T2 K8Ros5RhJW4(r5 retry OK) + ranks 11-15,17,20 (9q5ojtkqsBs, 638GQZ9UZ4w, Xl57Pki6ChE, 1dvM89NMK3s, XUYvDbAv1IA, q1g65sjQI-4, P-ULbNbV5IQ).
 - Worker part2: T1 ranks 34-71, all FULL, all 2025-2026.
-- New NO_TRANSCRIPT verified: 18 total (incl. 8lC7D5UVWBw, WPTAr14wmco, dEdDoulU_fU - expanded-pool T2 wave 2026-11-07)
+- New NO_TRANSCRIPT verified: 19 total (incl. m1WVgQ7Xkqw - expanded-pool wave 2, 2026-11-07)
 
 ## CANONICAL COUNTS (authoritative - read from here, not prose)
-- ALL-TIME COLLECTED 89 = corpus 85 (T1 63, T2 22) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1)
+- ALL-TIME COLLECTED 94 = corpus 90 (T1 67, T2 23) + pre-corpus 4 (ahrnr70vF9o T2, w3jqBCkE_Ys T1, Hark-Bernstein T1, Hark-AcHampton T1)
 - STUDIED 64 = T1 43, T2 21 (updated 2026-11-07 ~05:18 UTC: + Gemini T2 expanded-pool batches 5-6, 8 videos, QC-passed)
 - Review routing current: Gemini batch4 = T2 ranks 5,11-15,17,20 (8) + T1 ranks 34-40 (7). Instinct reviews T1 41-60. Claude: T1 1-20 files + T2 3,6 pending; T2 21-40 not yet captured.
