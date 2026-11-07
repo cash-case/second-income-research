@@ -1,0 +1,417 @@
+VIDEO: I Tried Shopify Dropshipping For 24 Hours (Realistic Results)
+URL: https://www.youtube.com/watch?v=8ij6e4oykyw
+CHANNEL: Marko
+UPLOADED: 2026-11-05
+DURATION_S: 629
+VIEWS_AT_DISCOVERY: 4581
+THREAD: t1 RANK_BY_VIEWS: 67
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~624s of ~629s, 407 cues)
+
+Hey guys, what's going on? Welcome back
+to a new video. In this one, we're going
+to be doing a 24-hour drop shipping
+challenge, which means we're going to
+find a product to sell. We're going to
+set up a store for it, get some ads, and
+then run them for 24 hours and see if we
+can be profitable. Before we go into it,
+if you guys are new, make sure to
+subscribe to the channel below and
+follow me on Instagram @ ecomarco. If
+you guys are going to be starting a
+Shopify store yourself, I'll leave a
+link where you can get a 3-day free
+trial and then your first 3 months for
+just $1 a month in the description
+below. And if you need help getting
+started with drop shipping, you can
+apply for my program in the description
+below. And with that being said, we're
+not going to waste any time and we're
+going to go straight into it. So the
+first thing that we need to do is we
+need to find the product to sell. So
+let's go over to my screen and let's
+find the product. All right. So to find
+the product, we're going to be using the
+meta ads library. And we're going to
+make sure we select all countries and
+all ads. And let's search for 50% off.
+And this is going to show us ads that
+are currently active on Facebook that
+have the 50% off keyword in them. So the
+way you find products with ad library is
+you just want to keep changing the
+keywords. So to start off, we can do
+something like 50% off. But then if you
+want to go for a specific niche, you can
+do like niche specific keywords or you
+can just think of things that people
+will put in their ad if they're drop
+shipping. So things like free shipping,
+50% off, buy 1 get one free, etc. So you
+just want to keep switching between the
+keywords and just keep scrolling here
+until you find something that looks
+good. So now I'm going to spend some
+time scrolling here and looking for a
+product that we can sell. And I'll be
+back to you guys when I find something
+that looks good. So I'll see you guys
+soon. All right. So after scrolling for
+a bit, I managed to find this product
+right here. And they have an AI ad kind
+of showing the product in use. And the
+product is basically a honey lipstick.
+So, let's go over to their product page.
+And this is what their product page
+looks like. So, it does look pretty
+professional and pretty good. They have
+some ingredients here, frequently asked
+questions, some reviews at the bottom.
+So, overall, a pretty good product page.
+And they're selling it for $23.99. And
+they're charging $5.99 for shipping. So,
+the total price comes out to $29.98. And
+I found the same product on Zenrop for
+$1.47 with 8day shipping times from the
+US. And the shipping price is $520. So,
+our total price to source the product
+with shipping comes out to about $660.
+So, we should have some pretty good
+margins with this product. And we're
+going to have fast shipping as well. And
+now that we have the product, the next
+thing that we need to do is we need to
+set up a store for it. So, to set the
+store up, we're going to be using my
+free AI store builder, which I'll leave
+a link for in the description below. And
+it is very simple. So, the first thing
+we need to do is we need to select the
+niche. So, for a product like this, it
+doesn't really fit into any of the
+categories. So, we're going to go for
+the closest one, which is clothing. It
+doesn't really matter that much which
+one you go for. You can always change
+this later. And here, I'm going to need
+to put in my info. So, I'll go ahead and
+do that now. And now, I'm going to click
+lay your store. And the first thing we
+need to do is we need to set a patient
+Shopify account. So let's click here.
+And it's going to automatically put in
+the email that we selected. So I'm just
+going to click here. And now I'm going
+to set a password. And then click create
+account. And here it's going to ask for
+a credit card number. So So I've gone
+ahead and added mine in here. And I'm
+going to click subscribe. And now we
+need to choose our Shopify plan. So the
+one we're going to go for is the basic
+plan. It's the cheapest one and it has
+everything that we need. So we're going
+to click here. We don't need this. So
+I'm going to click not now. And then
+here I'm just going to click skip. And
+we finished registering on Shopify. So
+let's go back over here and click next.
+And now we need to choose our banner,
+which is just the image that's going to
+be on the homepage. So let's go for this
+one right here and click next. And now
+we need to install the store build app.
+So let's click here. And then we're
+going to click install here. Click
+install once again. And here we can
+choose the Zenrop plan. So we can go for
+the plus plan or the flex plan. We're
+going to get a 3-day free trial offer
+for the plus plan. So we're going to go
+for that one. And we're going to click
+start trial. And here we are inside of
+Zenrop's back end. So let's go back over
+here and click next. And we need to
+install the storebuild app. So let's
+click here. And then let's click install
+here. And then click install again. And
+then we just need to click continue. And
+we are done. So let's click next. And
+now the AI is setting up the store. So
+we're just going to give it about a
+minute to finish up. And I'll be back to
+you guys when it's done. All right. So
+the AI is done with the store. And now
+we need to remove the password. So let's
+click here. And before we can remove the
+password, we're going to need to add a
+store address. So we're going to have to
+click here. And I'm just going to enter
+it here real quick and click save. And
+now we can remove the password. So we're
+just going to click here and then click
+save. And now we can view the store and
+see what it looks like. And this is what
+the store is looking like for now. So we
+have the banner that we selected. It's
+imported some products here. We have
+some reasons why people should buy from
+us, some testimonials, and that's about
+it for the homepage. But the homepage is
+not that important. The important part
+is the product page. So now we're going
+to go ahead and set up the product page.
+Okay. So to create the product page,
+we're going to be using Page Pilot,
+which you can find in the Shopify app
+store. And I'll also leave a link for it
+in the description below. And we're just
+going to go ahead and click install
+here. Then click install again. And now
+it's going to ask us a couple of
+questions. So let's just click these and
+click next. Let's click this. And then
+let's go for beauty and skincare and
+YouTube and click complete. And now we
+are inside of page pilot's back end. So
+the first thing we need to do is we need
+to select the plan. So we're going to go
+over here where it says view more and
+we're going to click on billing. And
+here we can choose between the different
+plans. And you can go over here where it
+says apply discount and then just type
+in Marco 15 and that's going to give you
+15% off. So the light plan is really
+good if you're just getting started. But
+if you plan on testing a lot of products
+and you want to use some of the extra
+features, then you can go for the scaler
+plan. Normally, I would go for the light
+plan, but I'm going to go for the scalar
+plan just because it allows us to
+generate AI product images and I really
+don't have time to be doing it manually.
+So, I'm just going to click choose plan
+over here and then click approve. And
+now we are good to go. So, let's go back
+over here and let's click on create AI
+product page. And now we're going to
+need to paste in an AliExpress link of
+the product. So, we're going to go over
+here and copy the link. And then we're
+going to paste it in here. For the
+language, we're going to go for English.
+And then for the AI product images,
+let's go for five. And click next. Here,
+for the target audience, we're going to
+go for women. And here we have the
+copyrightiting angles. So we have six
+different options we can choose from. Or
+we could do a custom one as well. But I
+like this one right here. So we're going
+to go for this and click next. And now
+we need to choose a template for how we
+want to store the look for the product
+we're selling. I think this one here
+works the best. So let's click select.
+And then let's go create a product page.
+And this is what our product page is
+looking like for now. So this literally
+took like a couple of seconds to set up
+and it looks amazing. So we basically
+don't need to change anything here. The
+only thing I'm going to change is I'm
+going to remove the review section just
+because I don't really have the time to
+edit them. And a lot of them look like
+they're from AliExpress. So, I'm just
+going to go over here to the left and
+hide the review section. I'm also going
+to hide the recommended product section.
+And everything else looks good. So,
+let's click save. And then let's click
+publish the store. And it's done. So,
+let's view it in store. All right. So,
+this is what the product page is looking
+like for now. And it's looking really
+good overall. We basically don't need to
+do any changes. I'll have to change a
+few things with the back end. I'll have
+to add a logo and make some small
+changes to the store, but I'm going to
+do that later after I launch the ads.
+And for now, the store is looking pretty
+good. And now that the store is done,
+the next thing I need to do is we need
+to get some ads. So, for the ads, I've
+just loaded a few from our competitors.
+I'm not going to show them cuz it's a
+bit of a gray area on whether or not you
+can use them, but it's the fastest way
+to test products. So, that's what I'm
+going to be going with. And since we
+have the ads ready, the last thing we
+need to do is we need to actually launch
+them. So, let's go over to Tik Tok ads
+and let's set up a testing campaign. All
+right. So, here we are inside of Tik Tok
+ads and we're going to be going for a
+sales campaign. And here we're going to
+be going for website. And by the way,
+I'll leave a link in the description
+where you can get your Tik Tok ads
+account. And if you sign up to that
+link, you're going to get a lot of
+bonuses from Tik Tok. going to match
+your ad spend up to $6,000. So, it's an
+insane deal that they have going on. So,
+make sure you use it while it's still
+last. And let's continue with the setup.
+All right. Over here, for the product
+source, we're going to turn this off.
+For the campaign name, we're going to
+name it honey lipstick. It doesn't
+really matter what you name it. This is
+just for you. For the budget strategy,
+we're going to go for campaign budget,
+and we're going to do a budget of $50 a
+day. For the bid strategy, we're going
+to go for maximum results, and we're
+going to click continue. For the ad
+group name, we're going to name it ad
+group one. Here, we're going to go for
+website. For the optimization goal,
+we're going to go for conversion. And
+then here, you want to make sure you
+install the correct pixel. And for the
+optimization event, we're going to go
+for purchase. And then for the schedule,
+we're going to set it for tomorrow at
+12:00 a.m. So 1200 a.m. Click confirm.
+And here under more options for day
+parting, we're going to click specific
+times. And then here, we're going to
+select it from 10:00 a.m. all the way to
+the end of the day. And we're going to
+scroll all the way down like this. And
+what this is going to do is this is
+going to make it so the ads are only
+spending money from 10:00 a.m. to the
+end of the day. And it's not going to be
+spending any budget from 12:00 a.m. to
+10:00 a.m., which is when most people
+are sleeping. Then for the locations,
+we're going to go for United States. For
+the ages, we're going to go for 18 and
+up. And then for the genders, we're just
+going to do female. And then here for
+the placements, under advanced settings,
+we're going to turn off comments. And
+we're also going to turn off video
+downloading. And then under placements
+here, we're going to click edit. And
+we're going to turn off the Tik Tok ad
+network. And we're also going to turn
+off lemonade and pine drama. And we're
+only going to leave Tik Tok on. And
+we're going to click continue. Then for
+the ad name, we're going to name it ad
+one. For the website URL, we're going to
+go back to the product page, and we're
+going to copy the link. And now if
+anyone clicks the ad, it's going to be
+taking them straight to the product
+page. And you always want to make sure
+you're sending people straight to the
+product page and not the homepage
+because the easier you make it for
+people to buy from you, the more likely
+they are to buy. And you don't want them
+having to look for the product on the
+site on their own. Then here for the
+identity, I'm just going to use a
+generic identity that I use most of the
+time. It's just the page with a general
+name. For the text here, we're going to
+do get it now at 50% off. The text you
+put in here doesn't matter that much.
+The important part are the actual ad
+videos. Then for the call to action
+text, we're going to click edit. And
+we're going to deselect everything. And
+we're only going to select shop now. And
+that's about it for the ad setup. So the
+last thing we need to do is we just need
+to upload the ads. So I'm just going to
+go ahead and upload them real quick. And
+I'll be back to you guys when I'm done.
+Okay, I've just finished uploading the
+ads and I'm going to click publish all.
+And the ads are now under review. So
+we're going to let Tik Tok review them.
+And hopefully if they pass the review,
+I'm going to let them run for 24 hours
+and I'll be back to you guys with the
+results. So that's going to be it for
+now and I'll be back to you guys with
+the results. So I'll see you guys soon
+tomorrow.
+All right. So, the ads got approved and
+it's been over 24 hours. So, now we're
+going to go ahead and we're going to go
+over the results and we're going to see
+if we got any sales and if we managed to
+be profitable. So, first let's go over
+to the Tik Tok ads and let's see how the
+ads did. All right, so our total ad
+spend was $50. Our cost per click was
+77. The CPM was $2049.
+We got 65 clicks, a 2.66% clickthrough
+rate, and Tik Tok tracked a total of
+three sales. And now we're going to go
+over to Shopify and see how much we
+actually made. So, we did end up getting
+three sales and everyone just bought one
+of the product. And our total revenue
+for the day was $74.85.
+And now we're going to go over to the
+profit loss sheet and see how much we
+actually made in profit. So, we ended up
+getting a total of three sales. We had
+$74.85
+in revenue. We spent $50 on ads. It cost
+us $19.36
+to fulfill the orders and our payment
+processing fees were $3.82.
+And that leaves us with a total profit
+of $167.
+So, we basically broke even. We were
+just slightly profitable, which is not
+bad for running the product for only one
+day. Most products are usually
+unprofitable day one. So, this is
+showing some pretty good potential. Even
+though the profit that we made is
+basically negligible, it's good to see
+that we're getting sales and that the
+product has potential. So, the goal of
+this challenge was to be profitable and
+we kind of did it. Not by much, but I
+guess it is a success and we are going
+to end it off here. So, I hope you guys
+enjoyed. If you need help getting
+started with drop shipping, you can
+apply for my program in the description
+below. If you want to use any of the
+services I used, I'll leave all the
+links in the description. And if you
+guys have not already, make sure to
+leave a like and subscribe to the
+channel and follow me on Instagram @
+ecomarco. And that's going to be it for
+this video and I will see you guys in
+the next one. [music]
