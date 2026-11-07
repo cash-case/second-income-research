@@ -1,6 +1,6 @@
 # Gemini reviews - T1 ranks 61-82 (Hark-fallback batch 9)
 Provenance: transcripts captured by worker agent (batch 1, endpoint-audited PASS); reviewed by gemini-3.5-flash-lite via API relay 2026-11-07 ~05:34 UTC. Hark never acknowledged its 61+ assignment; Instinct reassigned to Gemini per main's fallback authorization (sets remain unique; no double-count).
-Label corrections by Instinct QC: batch 9c model output used generic labels - mapping: Video t1=rank 73, t2=rank 74, t3=rank 75, t4=rank 76, t5=rank 77, t6=rank 78. Batch 9a rank 62 mislabeled "AI-money" - it is dropshipping (Claude-run TikTok Shop).
+Label corrections by Instinct QC: batch 9c model output used generic labels - mapping: Video t1=rank 73, t2=rank 74, t3=rank 75, t4=rank 76, t5=rank 77, t6=rank 78. Batch 9a rank 62 mislabeled "AI-money" - it is dropshipping (Claude-run TikTok Shop). VERIFIED 2026-11-07: every scrambled section best-matches its mapped transcript by distinctive-word overlap (all argmax with margin), and the 9a rank-62 section matches RXLgw9DvN2g - counts rest on verified per-video evidence, not title guesses.
 
 ### Topic 1: Dropshipping Ideas
 *(Videos: t1 rank 61, t1 rank 63, t1 rank 64, t1 rank 65, t1 rank 66)*
