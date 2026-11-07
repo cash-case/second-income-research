@@ -1,20 +1,6 @@
 {
  "unreviewed_corpus": {
-  "other": [
-   "SEFqWOu_DZE",
-   "WBc-Gy_9s10",
-   "WzdKaFsDMZg",
-   "XOtrs7HOFpQ",
-   "czYheMQ0Jss",
-   "dlajIIt52Xo",
-   "n6uFlo60J3E",
-   "pd_DDmlDghw",
-   "qcSXr_bncd0",
-   "sEfuolqQstA",
-   "uJ_c-9Wu3nA",
-   "ye2T2FwubI4"
-  ],
-  "claude_never_delivered": []
+  "other": []
  },
- "note": "updated after batches 28+29, 2026-11-07 ~10:23 UTC; Claude 13 reassigned to Gemini (batch28) per main; pre-corpus 2 (Hark-Bernstein, Hark-AcHampton) UNRESOLVED - no primary text in repo or local, no analysis found in any source"
+ "note": "updated after batch30, 2026-11-07 ~10:24 UTC. Corpus fully per-ID review-mapped. Pre-corpus 2 (Hark-Bernstein, Hark-AcHampton) UNRESOLVED - no primary text available anywhere; collected count keeps them, studied excludes them."
 }
