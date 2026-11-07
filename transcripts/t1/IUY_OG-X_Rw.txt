@@ -1,0 +1,500 @@
+VIDEO: Beginner's Guide to Dropshipping in 2027 (Full Course)
+URL: https://www.youtube.com/watch?v=IUY_OG-X_Rw
+CHANNEL: James Blue
+UPLOADED: 2026-11-03
+DURATION_S: 920
+VIEWS_AT_DISCOVERY: 15391
+THREAD: t1 RANK_BY_VIEWS: 52
+CAPTURE: worker guest cloud-browser, 2026-11-07 ~05:05Z, deduped + QC'd
+COMPLETENESS: FULL (last cue ~915s of ~920s, 490 cues)
+
+Starting a store used to mean paying
+someone to build it, hunting for a
+supplier, and hoping the product
+actually sold. So, I wanted to see how
+much of that is still true. And
+honestly, most of it isn't anymore.
+That's why in this video, I will build a
+real drop shipping business from
+nothing. And by the end, you will be
+able to do that yourself and know what
+it actually takes to get your first
+sale. So, we're starting with the store
+itself before picking a single product,
+which is the opposite of what almost
+every other guide tells you to do. And
+the reason for that order is that you
+can spend weeks hunting for the perfect
+product, never land on one you're
+confident about, and quit before you've
+built anything at all. But once the
+store actually exists, you have a way
+bigger motive to start choosing. The
+tool I'm using to build it is called
+Build Your Store, which is an AI store
+builder that puts together a full
+Shopify store for you based on your
+niche. And it's free to use. If you want
+to follow along, I've left a link to it
+in the description below. Signing up is
+just an email. There's no card at this
+stage. And then it walks you through a
+10-step setup that starts by asking for
+your niche. You get options like
+fashion, pets, electronics, [music]
+and home and garden. And I'll go with
+fashion. What you pick here matters
+because average shipping time changes a
+lot depending on what you're selling.
+Fashion products average under 14 days,
+while electronics and automotive are
+closer to 19, and slow shipping is the
+main reason new stores end up with
+refund requests they can't afford.
+[music] If none of the categories feel
+right, there's an I'm not sure option,
+and that's fine to use. Then it asks you
+to pick two homepage banners out of six,
+all matched to the niche you just chose.
+And after that comes the Shopify side,
+which is the part that used to take
+people a whole evening. You click claim
+your store, and it creates the Shopify
+store inside your account automatically.
+So you don't need to have set one up
+beforehand, and there's nothing to move
+across yourself. Then it gives you the
+Shopify offer, which is 3 days free and
+then a dollar a month for the first 3
+months. Once it's claimed, you can
+change the store name and get a free do.
+store domain for the first year. [music]
+So, set both of those up. Now, the next
+step is where it offers to customize the
+store. So, the colors, the layout, and
+how the products are laid out on the
+page. But skip past that for now and
+come back to it because the step after
+it is the one that actually matters. And
+it's called add top selling products.
+This is where AutoDS connects. And
+AutoDS is the platform that handles
+everything after the store. So, the
+product research, the sourcing, [music]
+the orders, and the stock. I've left a
+link for that one in the description as
+well. It's also the one part of this
+that isn't free and it's what the whole
+rest of this video runs on. So, it's
+worth getting set up properly. First,
+connect your AutoDS account to the
+store. Once that's connected, I'll go
+through the bestselling products in
+AutoDS and add them one at a time. After
+I've selected the products I want, I'll
+go back to the draft section and click
+import to automatically add them to my
+Shopify store. And now you go back and
+customize [music] because adding the
+products takes you to a different store
+page than the one you'd have been
+customizing before. So doing it in the
+other order means doing it twice. Then
+the store goes live and you can open it
+the same as any other Shopify store with
+the product pages already written for
+you. Realistically, the whole thing
+takes 15 to 30 minutes once you count
+the Shopify side, which is pretty solid.
+So in about half an hour, there's a real
+store online with 10 products on it. And
+the store itself cost me a dollar. But a
+catalog isn't a business, and only one
+of those 10 is worth spending money on.
+So the job now is getting from 10
+products down to one. And the thing that
+decides it isn't personal preference,
+it's three numbers. And you can work all
+three out before you look at a single
+listing. The first one is markup. And
+it's where nearly everyone gets it wrong
+because you'll get told everywhere to
+sell at two to three times what you paid
+when across all the tracked products
+with real supplier cost, the median
+markup was just under four times and the
+bottom quarter of them sat at [music]
+2.3 or less. So the number everyone
+teaches you is basically the floor. The
+reason that gap matters so much is that
+what it costs you to get a sale barely
+moves. So there's nothing left of a thin
+margin by the time you've paid for
+[music] it. Take a $30 product you
+bought for 15, so $15 of profit. And
+then even at a friendly $12 to get that
+sale, plus about $1.20 in card fees,
+you're down to $180. That's a real
+order, a real customer. And an email
+from them 3 weeks later asking where it
+is, all for $180. So the number I
+actually filter on is profit per unit,
+and it has to clear $15 to $20 once the
+product cost is out, which then sets
+your price band for you. If you go much
+under $25, you need a markup you're not
+realistically going to get. And once
+you're over a hundred, people stop
+buying on impulse and you lose potential
+buyers. So $25 to $60 is where you want
+to be. And the third number is shipping
+under 14 days. With those three, I'll go
+into AutoDS. Most of the research tools
+live in something called the product
+finding hub, which is an add-on you
+switch on first. So go to settings, then
+plans, and add-ons, [music] and enable
+it. Marketplace is already there without
+it, and that's where I'll start because
+it's the one where I'm setting the rules
+instead of being handed a short list.
+You can filter millions of products by
+category, by supplier, by price, and by
+where they ship from. And that last one
+is how you hit the 14-day number because
+shipping location is what decides that.
+Trending products works the other way
+around and shows you what's already
+moving right now off real sales data. If
+you genuinely have no idea where to
+start, handpicked is a short list the
+AutoDS team put together themselves.
+Then there's Ad [music] Spy, which pulls
+up real ads running right now. So,
+you're not just seeing that something
+sells, you're seeing the angle someone
+is selling it with. But the one I'd
+spend the most time on is Tik Tok
+analytics because everything else tells
+you that a product sells, but this tells
+you why. You get the products trending
+right now, the shops actually making
+sales. The individual videos doing the
+numbers and the creators behind them.
+So, instead of picking something and
+then working out how to sell it, you're
+looking at what already sold and copying
+the reason it did. That kind of pattern
+finding across millions of listings is
+the part AI is genuinely good at, and
+it's why product research takes an
+afternoon now instead of a month. So,
+I'll run the 10 products my store came
+with through [music] those three
+numbers, and most of them don't make it.
+The one that does is a cross body bag
+with a hidden zip section, which I can
+buy for $1299 and sell at 39 and it
+ships in 10 days. That's a three times
+markup, so $26 a unit before I've spent
+anything on ads. And that's the number
+that actually decides whether this
+works. So, that's one product we have
+that's been run through actual data
+instead of a gut feeling. But knowing a
+product sells isn't the same as knowing
+you can [music] sell it. And there's a
+free way to check that before you spend
+anything. So, first I want to see some
+real evidence this works before I put
+money into it. There are two free checks
+for that. And together they take about
+10 minutes. The first is the Meta ad
+library which is a public database of
+the ads running right now across Meta's
+apps. So, Facebook, Instagram, and the
+rest. And you can search it without even
+logging in. You pick a country, set the
+category to all ads, then search the
+product or the category if the exact
+thing doesn't come up. And what I'm
+looking for in there isn't how good the
+ads look, it's the date. Every ad shows
+you when it started running. And if
+somebody has had the same one live for 3
+to 5 weeks straight, that's your signal
+because nobody keeps paying for an ad
+that loses money for a month. It isn't
+concrete proof, but for a small store,
+it's the strongest sign you'll get
+without spending your own money to find
+out. The second check is Reddit. So,
+I'll [music] find the subreddit where
+the person who'd buy this already spends
+their time, and for a cross body bag
+with a hidden pocket, that's the travel
+and commuting ones. Then, I'll search
+for the annoyance instead of the
+product. So, things like pickpocket or
+bag straps or stuff falling out on the
+train. What comes back is people
+describing the problem in their own
+words, and the ones worth keeping are
+the posts with a specific detail in
+them. Somebody naming exactly where
+their phone went missing or exactly
+which strap gave out. That level of
+detail is what makes an adline
+believable and it isn't something you'd
+sit down and invent. So, I'll pull those
+phrases out and save them because they
+turn into hooks later when I'm making
+the ads. So, if you just spend 10
+minutes researching, you can find out if
+somebody is already profitable on this.
+And the process is completely free. But
+most first stores don't fail on the
+product or the ad. They fail on what
+happens after somebody actually buys.
+Because a store that takes an order it
+can't fill is worse than a store getting
+no orders at all. The first thing to
+sort is the product page. The bag
+already has one from the store build and
+the draft is where you set it up
+properly. So, I'll open products in the
+left menu and go into it. AutoDS uses AI
+to write the description and clean the
+page up. And that description [music] is
+doing all of the selling on a product
+nobody can pick up and look at. It's
+also where I set the sale price to 39.
+So, the markup we worked out is what's
+actually on the listing. Then, there are
+four things that go wrong after the
+sale. And every one of them is silent,
+so you don't find out until it's already
+cost you. The first two are in the same
+place in the product tab when you're
+editing and they're called price
+monitoring and stock monitoring. Price
+monitoring is there because your
+supplier can put their price up
+overnight and nothing on your end
+changes. So your listing still says 39.
+Your cost has gone to 15 and you carry
+on selling at a margin you think is 26
+when it's actually 24. With it on, your
+price gets adjusted to hold that margin
+instead. So you're never selling at a
+number you didn't agree to and you're
+not checking supplier prices by hand
+every morning. Stock monitoring is the
+same idea on availability because when
+your supplier runs out, your buy button
+is still live and you might get sales
+that you can't ship out. The next thing
+you need to keep an eye on is tracking.
+When a customer doesn't get a tracking
+number or gets one that never updates,
+they don't email you. They go to their
+bank. Item not received is 30% of every
+chargeback that's the merchant's fault.
+And you'll win somewhere between a fifth
+and a half of the ones you actually
+fight. But the number that matters is
+1%. Because if more than one in a
+hundred of your orders turns into a
+chargeback, Shopify can shut your
+payments off completely. That's the
+whole business gone over tracking
+numbers, which is why automatic tracking
+updates push the number out to the
+customer the second the supplier issues
+it. Then there's the ordering because
+every sale has to get placed with the
+supplier again with your customer's
+address on it. And by default, that's
+you doing it by hand every time. AutoDS
+can do it instead, either auto
+orderering through your own buyer
+account or handing fulfillment over
+completely with Fulfilled by AutoDS. and
+you switch it on per product. The last
+piece is sourcing requests. And this one
+isn't about preventing a problem. It's
+about the numbers we set in the first
+place. You submit the [music] product
+from the sourcing column on the products
+page, which needs the order processor
+add-on, and AutoDS goes and gets you
+quotes within just 15 minutes from
+private suppliers, usually at a better
+price with faster shipping and stock
+they've actually checked. So, a product
+that was $12.99 at 10 days can come back
+cheaper and quicker. And both of those
+feed straight into the margin and the
+refund rate. That's worth more now than
+it was a year ago because the exemption
+that let cheap parcels into the US
+without duty is gone. And in the 4
+months after it ended, the number of
+those parcels coming in fell by more
+than half. So the cheap slow route got
+worse for everybody. And where you
+source from is now a much bigger part of
+whether the maths works. So the four
+things that quietly end most first
+stores are taken care of. And the time
+I'd have spent on orders and price
+checks goes into growing the business
+instead. [music]
+Now, the store is set up to run without
+me, but I still had to decide what works
+right and [music] what doesn't. And
+that's the actual problem when you're
+starting. There's nobody to ask. You
+don't know what looks good yet, and
+every guide you find contradicts the
+last one. So, I'll connect AutoDS to
+Claude directly, and then it can go and
+look at the real account instead of me
+trying to describe it. In Claude, you go
+to customize, then connectors, search
+for AutoDS, and sign in with your AutoDS
+login. And it's already on the
+connectors list, so there's nothing
+custom to set up. The first thing I want
+is a straight read on the store. So,
+I'll ask for a report on what's actually
+in the account and what stands out. By
+the way, you can find this prompt along
+with the full workflow completely for
+free in the description below. So, you
+can follow along in real time. And it
+pulls the real numbers out of the
+account rather than guessing. So, what
+comes back is my products, my margins,
+and my drafts with anything that's off
+already flagged. And that took just a
+few seconds without me knowing which
+page to open. Then, the one that
+actually matters, which is the audit.
+I'll give it the three numbers from
+earlier. So, at least 15 to $20 of
+profit a unit, a price between 25 and
+60, and under 14 days shipping, then ask
+it to check every draft in the account
+against all three and tell me which ones
+fail. And that's the part you can't
+really do for yourself when you're new.
+Because checking your own work means
+already knowing the standard. And this
+just took mine and applied it to
+everything in the account at once. Then
+I can fix what it finds without leaving
+the chat. So, I'll give it the same bag
+from three different suppliers, an
+Amazon listing, an AliExpress one, and a
+Walmart one, and ask for a side byside
+on buy price, sell price, profit margin,
+shipping time, and supplier. Then
+publish whichever one wins straight to
+the storefront. It imports all three,
+waits for each one to finish, lays the
+comparison [music] out, and puts the
+winner live in the store. And all of
+that happens in the chat with the store
+updating on the other side of it. So, I
+can check my own work now in just a few
+seconds. And I can control my store by
+just talking to Claude in simple
+English. But none of it makes a single
+sale until somebody actually sees the
+product. So the store is built, the
+product is picked, and the whole thing
+runs itself, which leaves the one job
+none of that does, which is getting
+people to actually see it. The format
+that works best here is UGC. So a video
+that looks like somebody filmed it on
+their phone instead of an ad and is just
+giving their opinion. And you need a lot
+of them because 10 to 15 videos across
+three angles is what an actual test
+looks like. And that's the part that
+used to be impossible on a beginner's
+budget since 15 videos from real
+creators runs into hundreds of dollars
+and a week of waiting on revisions. The
+tool for this is Create UGC, which is an
+AI UGC generator built for e-commerce,
+and it turns a product link into a
+creator style video ad in a few minutes
+without anybody filming or editing
+anything. I've left a link for it in the
+description as well. It's actually step
+eight in the build your store setup, so
+it's been sitting there since the
+beginning. And the three angles come
+straight out of the Reddit research. So
+for the bag, that's the phone getting
+taken, the strap giving out and things
+falling out of an open bag, which are
+the [music] exact complaints people had,
+and that's why they work. Then the
+numbers, the bag sells at 39 and cost me
+$12.99. And once card fees come out,
+there's about $25 of room on every sale.
+So if it costs more than that to get
+somebody to buy, I'm losing money on
+every order I take. And the average cost
+of getting a purchase on Meta across
+40,000 brands is about $39, while on Tik
+Tok it's about 17. So on average on
+Meta, this product loses money on every
+single sale. And on Tik [music] Tok, it
+clears with about $7 left, which also
+means the $12 I used back when we were
+working out. The margin was generous.
+Those are established brands with years
+of data behind them as well. So starting
+out, you should expect worse than both.
+And that's exactly why the format
+matters because the cheaper sale comes
+from the ad that doesn't look like an
+ad. Then you need rules for when to stop
+because what ends most beginners is
+leaving a losing ad running and hoping
+[music] it turns around. Because you
+don't want to spend hundreds of dollars
+without a single person adding your
+product to their cart. And you don't
+scale anything until you've had 8 to 15
+sales with your conversion rate holding
+above 1.5%. [music]
+So run $15 to $25 a day and test one or
+two products at a time so you can
+actually track their performance. The
+honest version is that your first
+product will probably lose money and
+that's you paying to find out who
+actually buys this which is what makes
+the second one work. So that's a store
+that didn't exist a few minutes ago. One
+product picked on numbers instead of a
+guess adds out for the price of a couple
+of days of testing and you know exactly
+what the first sale is going to cost
+you. And the best part is that the first
+one is the only one you build from
+nothing because everything after it
+reuses the same store, the same
+supplier, and the same numbers. So all
+you're ever picking is the product. So
+sign up to build your store and AutoDS
+with my links in the description and
+build the store to start drop shipping
+[music] today. Thanks for watching and
+I'll see you in the next one.
