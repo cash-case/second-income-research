@@ -1,0 +1,18 @@
+# Instinct independent full-corpus reads - batch 103
+Read 2026-11-08. Complete stored texts only, no original dashboard/video pixels, underlying order/settlement/cost records or current vendor terms independently checked.
+
+## MBe_VqHfox8 - Rochelle Be personalized POD walkthrough
+Source: https://www.youtube.com/watch?v=MBe_VqHfox8
+Stored header ID not exact title; description above. Rochelle Be, June 18, 2026, 1,316 seconds; all 21,005 normalized characters read.
+
+Opens own $200k digital-product history, then prospective personalized runner/finisher-shirt workflow, no new POD sales/net. SHOP formula shared identity/hook/occasion/personalization and two AI reports produce niche hypothesis, not unsaturated measured market. Agreement between models not independent demand evidence. Everbee sales/conversion estimates not actual item settlements; >1% conversion heuristic not universal. Geography/race calendar/promotions need actual route/event/rights checks.
+
+Narrated research 17+5min, Pinterest inspiration, human design selection/iteration/background-removal correction, Printify variants/provider and store/personalization/Pinterest distribution. Not AI-alone; personalization mistake handling/delivery deadline/support still human merchant work. Provider rating/cheapest variant not sample quality proof. No money upfront claim excludes software/store, fulfillment float, samples/returns/fees; no-listing-fee isn't no Shopify per-transaction/payment cost. Owned site not 'unsaturated' by platform choice. Pinterest product sync isn't guaranteed traffic or sales; creating pins deferred to next video. Template/AI licensing and actual print-file/person-specific order QA needed. Tool/free prompt/affiliate-style funnel, no trials taken. No scripture-print item evidence.
+
+## MWrmsiY_3Kk - i tried A.I dropshipping for 24 hours (insane results)
+Source: https://www.youtube.com/watch?v=MWrmsiY_3Kk
+Stored metadata: Sharif Mohsin, August 16, 2026, 1,211 seconds; all 21,817 normalized characters including header read.
+
+**Reported trial, not verified net.** $250 total challenge cap; hotel-inspired diffuser oil, creator years/multimillion revenue experience, data tool/store builder, transferred to existing payment-ready store, existing online video creatives, Meta campaign $100 then $250/day. Narrates $79 first-day revenue/$51 ads, later $428 current day/$169 ads; final two-day roughly $500 sales/$221 ads/$140 goods+shipping and claimed $147 profit. Exact sales subtraction garbled in transcript, so don't silently reconcile it. Claimed profit before fees/refunds/tools/tax/labor and fulfillment verification, not independently audited net. Advertised 24h scope versus two calendar days and timer stopped at 99min; active labor unmeasured. $221+$140=$361 ads+goods alone exceeds original $250 cap if it means all costs, even before subscriptions; budget rule not reconciled.
+
+**Risks.** Existing merchant account/experience not true novice baseline despite 'same playing field.' Early revenue/basket values and selected short favorable test not repeatable odds. Revenue/ads aren't profit, increasing budget based on a few sales not justified risk rule for user. Third-party trend stats do not validate own net or product quality/safety. Supplier/source/brand equivalence not established for scented oil; hotel-name rights/claims and actual delivery remain. Competitor footage available online not licensed, arbitrary compare-at price not real savings evidence. No proof genuine reviews, lawful claim basis or product sample tested. Limited-time course/tool funnel. No product/order/ad actions here; no scripture-print evidence or change to verdict.
