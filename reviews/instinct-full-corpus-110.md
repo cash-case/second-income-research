@@ -1,0 +1,18 @@
+# Instinct independent full-corpus reads - batch 110
+Read 2026-11-08. Full stored transcript text, not inspection of video/dashboard pixels or independent validation of creator outcomes/current vendor rules. No actions executed.
+
+## QopRRjoOyyg - Baddie In Business digital-product tutorial
+Source: https://www.youtube.com/watch?v=QopRRjoOyyg
+Stored metadata: April 7, 2026, 873 seconds; all 15,900 normalized characters read.
+
+Claim: millionaire within two years, students' 'crazy results', automated ebook delivery after Shopify/Instastore setup. No reconciled net, cohort denominators, completed customer transaction, hours or result verification. Trend Assist quiz revenue potential is generated advice, not market proof. Instagram comments/viral examples inspire topics but don't establish paid demand. Manual niche judgment, input expertise, ebook copying/layout/images, store branding, audience development/video filming/editing and support remain. Marketing tutorial expressly deferred because 'very involved'; coaching/community funnel at end. Domain 99-cent promotion and SEO/celebrity assertions unverified, no renewal/full recurring cost accounting. Free store-builder is not free hosting/business. AI ebook generation needs factual review, useful original knowledge and licensing, not speed-only publishing. Automated file dispatch does not automate customer acquisition or establish income. No scripture-print item evidence. Verdict unchanged.
+
+## RXLgw9DvN2g - How Claude Runs My Tiktok Shop Dropshipping on Autopilot
+Source: https://www.youtube.com/watch?v=RXLgw9DvN2g
+Stored metadata: Kostify, July 28, 2026, 1,336 seconds; all 28,900 normalized characters read.
+
+Claim: Claude desktop/browser plus AutoDS research/import/fulfillment, Create UGC synthetic promotion. Creator has four years e-commerce/two TikTok years, discovered setup that morning, not a measured novice trial. $20/month Claude and $1/three-day AutoDS trial are creator-stated, not current verified terms; complete recurring costs/credit consumption absent. 'No course' doesn't remove vendor funnel incentives.
+
+Material hazard: toy import instructions say choose tracking label 'not applicable', origin China because 'not going to fact check', age 12+ to avoid extra tests/proof. Later calls same item a product for kids when choosing synthetic spokesperson. These are unsupported safety/compliance declarations, not valid evidence or advice to follow. No-brand edits, removing duplicates, listing-quality score and active status do not establish lawful resale, IP permission, toy safety or approval of all obligations. Unbranded appearance is not sufficient IP clearance. Six-business-day/China-shipping categorical policy statements remain creator claims, not current policy findings.
+
+Automation itself requires human corrections: first results branded despite criteria; import price forgotten; required attributes and save missed; retry needed. Sensible draft staging is introduced after initial live import. Multiple shops demand explicit target selection. '400% margin' is $40 price/$8 source, a 400% markup and 80% source-only gross margin, not $32 net; fees/shipping/tax/refunds/ads/tools/labor unaccounted. No actual completed order/customer receipt, net profit or successful video campaign demonstrated in text. Blanket automatic orders and permanent broad access cannot replace bounded spending/privacy controls. Supplier stock/price changes, cash-flow timing and delivery failures remain. Synthetic product motion/testimonial-like content isn't physical quality or authentic experience proof. No scripture-print evidence. Not verified hands-off income.
