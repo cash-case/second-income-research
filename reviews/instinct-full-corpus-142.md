@@ -9,7 +9,7 @@ Sports/fitness,booklovers,coffee/kitchenculture niche inspiration sourced to nar
 Manual research/rights/design/productselection/sampling/mockups/SEO/traffic/productioncost/pricing/service/returns remain,none timed/costed. Shopify acquisition not solved by Etsy bestseller selection. No causal evidence that stacking trends yields net income. No scripture-print evidence. Repetitive hypothesis generator/course funnel,not changed winner.
 
 ## xfOT2elC2Ok
-Per-ID capture title/author/date unavailable; narrator identifies himself as Mark Tilbury,not independently authenticated authorship.1177seconds; all19,510characters. Source: https://www.youtube.com/watch?v=xfOT2elC2Ok
+Title: I Tried AI Dropshipping For 7 Days, Here's How You Can Copy Me. Per-ID MANIFEST date2024-12-21; capture author unavailable. Narrator identifies himself as Mark Tilbury,not independently authenticated authorship.1177seconds; all19,510characters. Source: https://www.youtube.com/watch?v=xfOT2elC2Ok
 
 One-hourAIstore/$1challenge excludes later spend by definition.99centAutoDStrial plus$1Shopify charged later,domainrenewal/subscriptionfees not lifetime$1operation. Generic generated policies aren't compliant simply by filling names. Narrated$13.68-$6.84productmargin not net. Domain87%traffic/2xGoogleclaim not validated or SEO guarantee. 'Winning' tool selections not proven own demand. Sample/QA useful,but liking feel isn't safety/effectiveness substantiation.
 
