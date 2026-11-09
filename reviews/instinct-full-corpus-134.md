@@ -1,0 +1,18 @@
+# Instinct independent full-corpus reads - batch 134
+2026-11-08. Full stored texts read; not inspected video/dashboard/receipts, audited outcomes or current policy/legal/rate verification. No execution.
+
+## tWELYG4p0Ys - $5K In 24 Hours With Shopify Dropshipping (case study)
+Kate Amanda,2026-03-09,605seconds; all10,664 normalized characters. Source: https://www.youtube.com/watch?v=tWELYG4p0Ys
+
+$5k/day and$100k months are creator revenue claims without full cost/customer/delivery ledger. Narrates$140 first-day ads/$70CPA, below break-even, improving day2; no actual all-in profitability established.48-72hour rule is advice, not universal platform criterion.20-30%margin goal and later5-7%drop don't prove realized net margin or clarify percentage points vs relative change. Canada/Australia/translated Europe imply legal/returns/currency/cost differences, not automatically profitable lower competition.
+
+Important counterweight: fulfillment delays during Chinese New Year forced downscaling, refund/chargeback/complaint risk, rising competition, daily metrics and supplier coordination. Creator distinguishes fast launching vs hard scaling and short-lived cash play vs durable brand. No-stock preorders reduce inventory but leave delivery obligations/cashflow. Red-light mat used as illustrative product, not necessarily actual skincare store item. Supplier/competitor health claims (circulation/pain/cellular regeneration) and AI workout-use photos don't establish product safety/effectiveness or intended use. No regulatory/clinical/license validation. Atlas/mentorship/supplier-access funnel. No scripture item evidence or low-work proof.
+
+## tatrO8emxUU - 10 Side Hustles That Almost Never Fail (Backed By Data)
+Shane Hummus,2026-09-22,1,777seconds; all37,998 normalized characters. Source: https://www.youtube.com/watch?v=tatrO8emxUU
+
+Admits nobody tracks exact side-hustle success rates, yet headline/conclusion say almost never fail. Broad BLS industry five-year survival figures cannot establish novice part-time profit/success or these specific ten offers. Bankrate mean$885 vs median$200 useful skew caveat, but figures and all purported press/government/vendor statistics remain narrated, not fetched originals. Rates/jobs/gross business revenues, selected success anecdotes and annualized single-day$214 don't show expected income or reproducible cohorts. 60%survival isn't near-zero failure or proof job pays owner.
+
+List: sell expertise/tutoring, upholstery/carpet cleaning, estate cleanout, handyman, companion care, bookkeeping, seasonal maintenance, video editing, VA, dryer vents. Most are human labor, travel/client finding/admin/liability, expressly VA not passive. Equipment/supplies/fuel/insurance/training/licenses/disposal/staff/platform fees/customer damage/injury aren't capped by$30brush/$19van/$429machine. Two$174sofas don't even cover$429gross, before expenses. Gross$45k seasonal or franchise$236k isn't take-home; franchise economics not independent brush-only novice outcome.
+
+Handyman California threshold and care/vent/fire-code references are not checked local legal permission; AI prompts cannot replace owning local rules, credentials or safety checks. Nonmedical label doesn't clear all care requirements. 'No ad budget/no crowd' contradicted by explicit traffic need and recurring YouTube training funnel. 15-30minutes/day/<4hoursweek assertions omit production/learning/acquisition/service delivery, despite years/decades of expertise in examples and own editors/team. Follower/views don't prove buyer demand; salary/AI skill wage association not causal guaranteed uplift. Workshop/limited-seat/mentorship sales central. No changed verdict or scripture print data.
