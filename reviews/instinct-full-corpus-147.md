@@ -1,0 +1,16 @@
+# Instinct independent full-corpus reads - batch 147
+2026-11-09. Full stored texts read, not video/dashboard/receipt or current policy verification. No execution.
+
+## jHo-FO_OLv4 - How I make $30,000/Month Selling Notion Templates
+Mike and Matty, 2023-07-28, 695 seconds; all 13,833 normalized characters. Source: https://www.youtube.com/watch?v=jHo-FO_OLv4
+
+Claim: $100k in three months from template ecosystem, Notion HQ invitation/top-ten status. None independently verified here, nor net after team, promotion, support and production costs. Partnership with Notion is explicit. Bundled study course/template revenue isn't necessarily standalone template income; no representative beginner cohort or measured hours.
+
+Useful product lesson: focused framework solving an observed student problem, not a feature dump. Learning coach, research, repeated redesign, free videos/newsletters/podcast/templates, customer trust, distribution and detailed sales pages explain ongoing work. Established teaching brand and professional experience aren't zero-start advantages. Gallery exposure/featured placement isn't guaranteed sales. Historical claim Notion lacks payment processing and two million weekly gallery visitors needs current owning-source verification before a recommendation; no current fee comparison established. Whop founders are personal contacts according to narrator, not neutral vendor endorsement. Widgets need functionality/privacy/availability checks; Zelda/anime/Giphy references are not licenses. AI alone doesn't supply tested pedagogy, rights or customer trust. No scripture-print evidence or changed verdict.
+
+## Yz-CPV-sKso - How to Sell Canva Templates on Etsy in 2026
+Dina Lu, 2024-01-05, 694 seconds; all 12,246 normalized characters. Source: https://www.youtube.com/watch?v=Yz-CPV-sKso
+
+Title says 2026 but per-ID publication is 2024; don't treat title as current policy. Claims $5k gross over more than a year with 64 listings, not monthly net or verified receipts. Important workload admission: first product and listing images took about 20-30 hours; rejects one-hour beginner expectations. Existing Canva/design skills, useful niche, actual customer understanding, variations, listing images, PDF delivery, descriptions/tags and support remain. No timed continuing workload or beginner outcome distribution.
+
+Template-link versus original edit-link distinction prevents unintended editing access; test actual customer duplication and delivery. Free versus Pro element advice aims to avoid unexpected customer costs but is not a complete resale license analysis. Starting from Canva designs and changing them substantially doesn't itself prove permission; check current content/template terms and originality. Mockups must accurately show delivered files; distinguish sample photos removed from editable template. Current Etsy digital preview rules need owning-source checks, not old mockup tutorial permission. Everbee keyword/sales scores are estimates, not actual item receipts or demand guarantee. Historical $29.99 plan/intro discount and email features are affiliate-style pitch, not verified current price. Transactional-email promotion and review collection still need consent and platform compliance. No account, email campaign or publication performed. No scripture print item evidence or changed verdict.
