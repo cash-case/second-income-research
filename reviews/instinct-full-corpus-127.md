@@ -1,0 +1,16 @@
+# Instinct independent full-corpus reads - batch 127
+2026-11-08. Entire stored texts read, not original video/dashboard pixels or independently audited outcomes. No current vendor/platform rule verification or new execution.
+
+## h_suMViEZOw - AI Just Changed The Digital Product Game Forever (Tutorial)
+Richard Yu, 2026-03-10, 488 seconds; all 10,855 normalized characters. Source: https://www.youtube.com/watch?v=h_suMViEZOw
+
+Seven-minute AI ebook/cover/page demonstration is claimed production speed, not tested accuracy/originality/usability/support or measured sales. Instagram views cannot establish purchase demand. Broad 'no expertise needed' removes neither responsibility for reliable advice nor any relevant health/investing/parenting safeguards. AI pain points/title are unvalidated customer hypotheses. $27/$47/$97 possible prices are suggestions, not observed realized demand. $30m personal sales and student success asserted without costs/cohort/receipts.
+
+Three $47 sales daily→$4,230 in a 30-day month is hypothetical gross arithmetic; adding two ~$1k offers gives ~$6,230, not verified ~$6k net. The backend requires individual 20-30-minute free consultations and delivery of a higher-ticket program, despite 'multiple income streams running automatically'. Repeated filming/editing/posting and customer conversations remain; sales/delivery automation isn't automated demand. No money/ad spend doesn't establish no tool/payment/refund/content/support costs. New Instagram accounts universally favored claim needs owning-source evidence, not assumed. Competitor analysis/modeling must not substitute infringement or unearned expertise. Tool/course/commission-product funnel. No low-work proof or scripture-print demand evidence.
+
+## iY3hPuE6kvE - How I Find $100K/Month Winning Dropshipping Products With AI
+Ricky Amador, 2026-09-26, 763 seconds; all 12,862 normalized characters. Source: https://www.youtube.com/watch?v=iY3hPuE6kvE
+
+Important explicit qualification: claimed $100k/$1m+ monthly 'sales' are estimates based on assumed ~2% conversion of estimated monthly traffic, not disclosed actual merchant receipts. Store-wide traffic, active ads and a 'bestseller' label don't establish item sales or profit. Claimed growth/exploding traffic/long-term opportunity doesn't validate landed margin, refunds, ad economics, regulatory safety, retention or copycat viability. Inconsistent narrated ad counts and huge '171 million' text not resolved without video/source access; no guessed correction.
+
+Correctly says likes don't equal sales, then repeatedly promotes an inferred list as 'unlimited winners', all products viable/no wrong answer. Those are hypotheses worth investigating at most. Connecting data tool and automated sorting reduces one research step; manual store inspection, supplier/sample/claims checks, creative rights, fulfillment/support and paid market tests still required. Suggested repurposed TikTok creatives aren't automatically licensed; creator-made originals/samples may incur time/cost and need accurate claims. Access-denied store status not evidence brand knows business/succeeds. No workaround needed/executed here. Tool/free-course promotion and five-star rating not income proof. No guaranteed seasonal winner or changed verdict.
