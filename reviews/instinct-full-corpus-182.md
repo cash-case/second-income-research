@@ -1,0 +1,18 @@
+# Instinct independent full-corpus reads - batch 182
+2026-11-09. Complete stored texts read. No video-pixel/financial verification or operational launches. Official IRS correction checked separately below.
+
+## RWI59fC7Z48 - The OFFICIAL Shopify Tutorial For Beginners (Part 1)
+Learn With Shopify, 2026-02-02,1156seconds; all18,256characters. https://www.youtube.com/watch?v=RWI59fC7Z48
+
+Vendor tutorial for account, products/collections, Sidekick AI descriptions/images, themes, navigation and domain. Foundation only: explicitly defers payments, shipping/tax/fulfillment, traffic and conversion work to later episodes. Thus not customer-ready business or income evidence. No item demand, actual conversion study, measured beginner workload or net results. No scripture-print study.
+
+AI can help populate fields, but actual legal identity, addresses, stock, product/weight/location and accurate claims must be supplied/checked by merchant. Lifestyle generation isn't proof of actual product/materials/performance. Presenter appropriately stresses authentic photos and mobile review, not all-AI replacement. Every generated edit still needs factual, visual, navigation and checkout QA. Claimed hours saved, free image allowance, conversion implications and mobile-order proportion aren't independently measured here. Free trial/theme doesn't eliminate subscription/domain costs; no signup/domain purchase here. Domain availability isn't trademark clearance. Layout work isn't customer acquisition. Verdict unchanged.
+
+## Se3LBZJJsO8 - 3 Passive Income Business Ideas Using AI | Live Setup Walk Through (2026)
+Sean Standberry,2026-01-22,779seconds; all15,353characters. https://www.youtube.com/watch?v=Se3LBZJJsO8
+
+Voice-agent resale, white-label HighLevel CRM and AI-content agency; cloned presenter, affiliate trial/course funnel. Claims agency$400kmonthly/$4mannual,300clients, under10ownerhoursweekly; no reconciled accounts, payroll, subcontractor costs, time logs or representative beginner results. Voice setup2-4hours and10/50clients@$250 are creator estimates and multiplication, not observed passive profit. Flat software fee omits usage/telephony/SMS/AI/payment costs and support/churn. Stored '$4.97'/'$2.97' figures conflict with surrounding497/297pricing context; cannot treat transcript decimal tokens as actual quotes.
+
+Material correction: creator says working less than10hours/week automatically makes income passive under IRS Publication925. Official publication says material participation can be established by ANY of seven tests, including substantially all participation, or more than100annualhours and at least as much as any other individual.500hours is only one test, not a universal safe boundary. Source read2026-11-09: https://www.irs.gov/publications/p925 (2025publication, for2025returns). Do not use creator's10hourrule for tax classification; individual circumstances require tax advice.
+
+Most useful workload admission arrives late: agency initially takes about1-2years of client work, documenting systems and hiring staff before stepping back. Owner delegation isn't no human labor or no payroll. Always-answer claims and60%missedcalls statistic unverified. Dental/emergency/insurance scenarios need appropriate privacy/security, escalation and clinical boundaries, not basic data fields/test widget alone. Customer texts/emails/calls and social account access need consent and scoped authority. White-label permission doesn't establish 'built from scratch' truth. Client voice/face cloning requires permission, factual review and safe publishing, not merely existing samples. No cloning, CRM, calls or posts here. Verdict unchanged; no validated low-work income or scripture-print evidence.
