@@ -1,0 +1,16 @@
+# Instinct independent full-corpus reads - batch 149
+2026-11-09. Entire stored normalized texts read, not video/dashboard/receipt/current policy verification. No execution.
+
+## EyXNKb2HsfM - How to start a faceless Youtube channel with AI [2026 FULL COURSE]
+Syrax, 2025-10-29, 618 seconds; all 12,750 characters. Source: https://www.youtube.com/watch?v=EyXNKb2HsfM
+
+Claims 3.8m views/almost $10k video and other $15k/$8k successes after countless failures. No verified receipts, monetization eligibility, net, failed-video denominator or measured human hours. Niches with new viral channels aren't proof unsaturated or transferable demand. Finance/older US audience/10x RPM assertions not guaranteed ad rates; AI topic list cannot optimize actual RPM in advance. Finance scripts need factual review, not competitor transcript imitation.
+
+Aged-account purchase pitched as distribution shortcut. No proof age causes trust/reach; ownership/security/history/platform-transfer compliance unresolved. Do not buy accounts or use them to bypass enforcement. Human creator literally hires Discord editor, or instructs manual recording/ranking/editing/caption alignment/GIF selection/thumbnail work. Ends by saying work day and night, contradicting 'AI does most'/anyone can succeed implication. Rewriting entire competing scripts and copying packaging doesn't establish rights or originality. GIF availability not commercial video license. Original contribution and monetization rules need current owning-source review. No account purchase, channel launch or third-party script retrieval here. No scripture-print evidence or changed verdict.
+
+## gu2WIU8_25E - The Best Supplier For Branded Dropshipping in 2026 (It's Free!)
+Alex Robinson, 2025-11-25, 1402 seconds; all 28,515 characters. Source: https://www.youtube.com/watch?v=gu2WIU8_25E
+
+Team Drop supplier/agent/app demonstration. Claimed $40k sales/$7k weekly net and superior supplier quality/shipping/prices not independently verified. This is a creator pitch, not a vendor vet or recommendation. 'Free' means alleged no subscription; product/shipping/packaging/prefund/transfer costs and cash exposure remain. Wire/bank top-up and balance-controlled automatic fulfillment aren't risk-free or reversible. Need current merchant identity/terms/refund/reserve/quote/safety/sample/delivery/support/data-access evidence before any connection/payment. No account connected, agent contacted or payment made.
+
+Useful acknowledgment supplier variation, refunds, chargebacks, withheld payments and QA matter. But 'never worry/manage again' ignores exceptions and prefunding. Narrated timings contradict: rejects 14-day delivery, later calls 8-15 days fine, excludes 1-3 processing days from shipping headline. Quote estimates aren't delivered SLA; customer promise must cover total interval. $7 to $5.50 saving across 1,000 units is $1,500, not stated $5,000. UK 'closer to China' explanation isn't demonstrated shipping causality. Broad claims alternatives cannot brand/no support/manufacturers never direct-ship are unsupported absolutes; not a comparison verdict. Branded packaging doesn't alone prevent competitors. Course/community/coupon funnel, no independently measured low-work profit or scripture evidence.
