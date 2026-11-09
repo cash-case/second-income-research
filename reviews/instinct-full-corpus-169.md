@@ -1,0 +1,16 @@
+# Instinct independent full-corpus reads - batch 169
+2026-11-09. Complete stored texts read. No video pixels, income records, current platform rules or vendor terms verified. No accounts, trials, publishing, client contacts or spending.
+
+## d0vTHDNfdnY - Amazon KDP Niche Research Tutorial for Beginners 2026
+Subha Malik, 2025-12-06, 283 seconds; all 4,579 normalized stored characters. https://www.youtube.com/watch?v=d0vTHDNfdnY
+
+Book Bolt demonstration filters current/average BSR, estimated monthly sales 30-5,000, price $7-20 and at most 50 reviews. Examples include holiday coloring books, workbooks and ledgers. These filters select hypotheses, not proven low competition or profitable opportunities. Estimated sales are not actual publisher records; rank is time-, market- and format-dependent, and review count doesn't measure seller experience, acquisition cost or all competition. Holiday examples reflect seasonality, not durable monthly demand. A price range without page count, printing, royalty, ad spend, returns and production cost cannot establish profit.
+
+NFL-logo example requires rights, as narrator briefly warns. Existing marketplace presence isn't permission to reproduce logos, interiors, covers or protected characters. 'Make a better book' requires substantive human work, functioning exercises, appropriate age level, clear print layout, editing and proof copies. No actual production time, first-sale timeline, net result or beginner cohort. Course/community promotion interrupts the tutorial; historical three-day trial/20% discount not current verified renewal/cancellation terms. No trial taken. Verdict unchanged: KDP not a validated low-work winner, no scripture-print evidence.
+
+## XUYvDbAv1IA - The TRUTH About Selling AI Automations to Businesses
+Zubair Trabzada | AI Workshop, 2025-06-18, 267 seconds; all 4,000 normalized stored characters including capture header. https://www.youtube.com/watch?v=XUYvDbAv1IA
+
+Creator explicitly separates claimed $100k-plus total revenue from agency delivery: majority came from his teaching community, not AI automation sales. He reports a $30k best consultancy month and roughly $10-15k current monthly average after about a year. These remain unverified creator statements, not net profit, a representative beginner outcome or an income forecast. Teaching demand cannot be counted as evidence that small businesses pay those amounts for automations. Early audience advantage and an existing growing channel matter to acquisition.
+
+Useful caution about substantial work, sales teams and long sales cycles for larger service businesses. No measured hours, client count, contract scope, delivery/support costs, refunds, retention, gross margin or audited records. Narrator's '0.1%' probability, universal accusations that other creators lie, age-based judgments and claim successful operators cannot make videos are unsupported generalizations, not evidence against any named operator. His own experience doesn't establish the market ceiling. Agency work requires authorized client discovery, data access, security, testing, maintenance, liability and real outcomes; no AI-alone or passive proof. Verdict unchanged, no new agency recommendation or scripture-print evidence.
