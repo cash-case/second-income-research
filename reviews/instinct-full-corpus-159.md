@@ -1,0 +1,16 @@
+# Instinct independent full-corpus reads - batch 159
+2026-11-09. Full stored normalized texts, not video/dashboard/receipt/current policy verification. No execution.
+
+## 1Y61xJ08dBw - How To Sell Notion Templates in 2026 With ZERO Budget
+payhip, 2025-01-10, 831 seconds; all 16,948 characters. Source: https://www.youtube.com/watch?v=1Y61xJ08dBw
+
+Vendor tutorial assumes existing Notion-building skill/template, covers duplication link/PDF/store/category/marketplace/social/freebie/email/affiliate/blog. Easlo$500k/selectedEtsy$2-6kestimates/USsearchvolume not verified net or typical buyer conversion. Search intent may be free templates, not paid demand; autocomplete not exact monthly data. Lowvolume not inherently lowcompetition. 'Zero budget' excludes labor/paymentfees/possiblepaidfeatures/licenses, no current cost review. Payhip5%/instantpayout versus Notion10%+40c/biweekly20minimum/Etsy6.5% are historical incomplete comparisons, not current verified all-in fees, payout timing or eligibility. No vendor recommendation from this alone.
+
+Avoid leaking private linked databases/workspace when creating duplicate templates; test permissions and blank demo content. Formulas/integrations/AIblocks need working functionality and no secrets. Membership adds updates/support obligations. Email from free download not universal marketing consent; affiliate/paid recommendations need disclosure. Automatic category submission not guaranteed accepted discovery/sales. Pinterest6-8monthrank assertion not universal supported rule. Eachmarketplacesubmission/visualdemo/testing/content/relationships/updates humanwork unmeasured, noAIaloneproof. No account/listing/export/email/publication here. No scripture item evidence or changedwinner.
+
+## FEY9E_rBems - The PERFECT Meta Ads Dropshipping Strategy - TEST WITH INTENT! (Identifying Spend Bleeding)
+Adam Griffin, 2025-07-21, 1137 seconds; all 19,862 characters. Source: https://www.youtube.com/watch?v=FEY9E_rBems
+
+Supplement ad refresh, $20text-hooktest at$2-3each,7%CTRpromotion, placements/age breakdowns, duplicatedadsets/creatives/budgetcontrols. Three-day~$1.3krevenue/7%conversion/$30margin and CPPclaims not independently verified net. Prior campaigns, existinghooks/product/customerdata not zero-start baseline. Some dupes fail/$48zeropurchases, explicit variance warning useful; two/three-day 'consistency' not established durable performance. Multiplecomparison selection/small samples/posthoccuts can overfit; no guaranteed profitable exclusions or causal proof intentionality from onehighconversionday.
+
+Useful distinction: inspect funnel leakage rather than blindly reuse rippedcreative. But CTRnotcontributionprofit, $30margin-CPPexcludes any unlistedcosts/returns/tax/labor; supplementregulatory/efficacy/safety/creativeclaims unexamined. Targetedages/healthdata require compliance, not blanket copying. Duplicateuploads hittingdifferentpockets creatorhypothesis, not current platformfact. Paidtesting/dailyanalysis/creativerebuild/subscriptionbackend significantactivework. Free shipping isn't universal customer rule. Real urgency only; no manipulation to conceal costs. Bookwaitlist/SOPpromotion, no budget/ad/account mutation here. No scripture evidence or changedverdict.
