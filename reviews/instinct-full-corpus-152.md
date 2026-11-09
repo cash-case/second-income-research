@@ -1,0 +1,16 @@
+# Instinct independent full-corpus reads - batch 152
+2026-11-09. Entire stored texts, not video/dashboard/financial or current policy verification. No execution.
+
+## sEfuolqQstA - 5 BEST AI Side Hustles for Beginners in 2026 (Personally Tested)
+Paul J Lipsky, 2025-11-09, 901 seconds; all 15,701 normalized characters. Source: https://www.youtube.com/watch?v=sEfuolqQstA
+
+AI Shopify store/UGC, local social content, ebooks, music and faceless videos. Tested tool output isn't tested paid demand or profitable operation; no comparable own earnings, cohort, costs or labor ledger. Explicitly says no financial guarantee and others' workflows may not work for viewer, useful caveat. Hands-off fulfillment doesn't remove marketing/QA/rights/returns/customer support; ordinary imported products not 'winning' on that basis. Generated person holding product isn't actual customer endorsement; performance/material claims must match real product, not visually plausible hallucination. 'Zero-risk' course campaign needs substantiation, not approval just because AI proposed it.
+
+Social graphics need brand permission/fact/style review and real client sales/retention. AI meal guide requires recipe/food safety/allergen/accuracy checks, human oversight and current marketplace policy; not simply generate pages and sell. AI music commercial license/voice/song/remix rights/platform monetization need current checks; enjoyable output not guaranteed earnings. Scary first-person fiction must not masquerade as real personal event. Faceless script/voice/images still need original value/editing/disclosure/eligibility and audience acquisition. Multiple trial/affiliate tool pitches aren't free lifetime operation. No scripture item evidence or changed winner.
+
+## SEFqWOu_DZE - I Tried Etsy Print-on-Demand for 1 Week
+Alex Ulbin, 2025-04-02, 553 seconds; all 11,392 normalized characters. Source: https://www.youtube.com/watch?v=SEFqWOu_DZE
+
+Eight orders, claimed total loss $24.27 after goods $224.88, Etsy fees $51.12 and ads $51.27. Stored revenue digit is garbled '$33'; listed costs/loss imply $303, but that reconstruction is not verified dashboard evidence. Early sales weren't profitable; $10 price increase led zero-sales day then some positive product-margin sales. Full trial remains loss, no tax/tools/design/time or mature returns reconciliation. 'Everything going forward will be profit/autopilot/no ads needed' unsupported despite disclaimer not get-rich-quick.
+
+Seventy listings/week plan, research hundreds of listings, product images/SEO/price changes/ads are active work, not zero-touch. Everbee $51k sweater/other estimates and reviews don't prove receipts or universal demand. Exact winning PNG bought cheaply isn't proof license or Etsy eligibility: reselling unchanged third-party design on POD needs own-source originality/rights review. Taylor Swift popular designs not permission. Jesus dunking shirt is religious novelty, not scripture print market evidence. Daily reset inflated 'hook price' discount/short urgency is potentially misleading, not a tactic to copy. AI mockups need product fidelity/current policy. Gelato longevity/local-partner claims aren't independent quality/delivery verification. No listing published or design purchased. Verdict unchanged.
