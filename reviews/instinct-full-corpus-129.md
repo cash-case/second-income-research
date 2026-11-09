@@ -1,0 +1,20 @@
+# Instinct independent full-corpus reads - batch 129
+2026-11-08. Full stored texts read. Narrated screenshots/results not visually inspected or independently audited; no live pricing/policy or private-data review. No execution.
+
+## j_bAPw0kN6w - how i made $260k/mo dropshipping products nobody talks about (store reveal case study)
+Romas Ecom, 2026-04-06, 954 seconds; all 20,408 normalized characters. Source: https://www.youtube.com/watch?v=j_bAPw0kN6w
+
+Own 16 brands/$260k monthly/exit assertions lack financial records here. Competitor Bulb Square $5m then $7.5m yearly revenue/$1.8m profit is estimate: estimated310k visits×assumed2% conversion×assumed$100AOV×12 and assumed25% margin. Not receipts or item sales. Traffic's search share isn't wholly paid Google Shopping clicks; searcher isn't assured buyer. 'Conservative' inputs don't validate model. $227/$26.65 is ~8.5x, not claimed >10x, before variant/shipping/fees/safety verification. Supplier/manufacturer mention alone doesn't prove dropship fulfillment.
+
+'No competition'/25-35% guaranteed margin/$1k day within90days unsupported, contradicted by competing ads shown. Keyword Planner ranges not fixed personal CPC, search volumes not orders. Trends index above50 is relative interest not a certified evergreen rule. All keywords in title don't guarantee first place or entire market share. Ads, site/merchant feed QA, returns/delivery disputes, bulk catalog correctness, product safety/electrical conformity, rights, payments and currency not costed. Supplier photos/AI lamp image must match actual goods and permitted rights.
+
+'Autopilot' explicitly employees at $4-5/hour plus software, after cashflow, not no human involvement. Thousand-plus bulk imported items need checking/ongoing monitoring. Less-than-day/less-than-week store build excludes operations and startup/scale learning. Selling brands implies negotiated buyer diligence, not guaranteed realizable exit. Coaching funnel despite no research-app affiliate pitch. No scripture print evidence or changed verdict.
+
+## l0Vqm0ZIySc - He Asked AI To Make Money. It Did.
+Chris Koerner on The Koerner Office Podcast, 2026-03-20, 1,842 seconds; all 30,890 normalized characters including stored header read. Source: https://www.youtube.com/watch?v=l0Vqm0ZIySc
+
+Robbie interview: failed Fiverr SWOT listing/TikTok audit iterations, then viral million-view experiment story, ~15k subscribers, ~600/617 paid$10 preorders,270 community joins, narrated$8,374MRR after13days. These are reported counts, not inspected billing/retention/delivery records. $100/$200 starter framing omits subscription/infrastructure/usage/human stabilization; claimed$20k achieved in intro actually projected for future months in interview. Annualizing13days of MRR is run-rate, not collected annual revenue or proven retention. $29×270 isn't exact$8,374; different dates/plans unexplained, not proof of fraud or reconciled accounts.
+
+Four server cost~$600 plus inference~$2k/month, estimated$2.5kCOGS→~$6k remainder excludes payments/refunds/labor/tax and evolving token abuse. Member125-agent/1.3m-token anecdote led planned cap/fallback/BYOK, so margin/capacity not stable. Ten-day heads-down delivery stabilization, ongoing posting, community support and security/browser-extension work are human operations, not unattended money machine. Paid deposits signal more than comments but impose fulfillment/refund obligations and don't prove durable service.
+
+Container limits access only if configured appropriately; does not guarantee hallucination-free output, perfect current memory, credential safety, isolation or no external influence. Transcript's claim that containerized AI fixes writing influence isn't verified technical fact. Avoid handing credentials/SSNs/card details to chat or treating persistent autonomy as blanket authority. Historical deletion stories unverified allegations. Viral audience acquisition central, not replicable guaranteed at200views. Hosted community/app business, not successful generic autonomous Fiverr business. Sponsor/member/course funnel. No changed income verdict.
