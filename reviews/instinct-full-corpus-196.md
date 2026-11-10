@@ -1,0 +1,11 @@
+# Instinct independent full-corpus reads - final single-video batch 196
+2026-11-09. Last queued stored transcript read in full. This is text-only inspection, not video-pixel verification, receipts or execution.
+
+## zSzexMocrKY - How to ACTUALLY Start Dropshipping in 2026 (For Beginners)
+Paul J Lipsky, 2025-12-09, 883 seconds; all 17,074 stored characters including headers. https://www.youtube.com/watch?v=zSzexMocrKY
+
+Sponsored AutoDS/eBay onboarding, research, imported listings, AI title and stock/price/order monitors. Starts with eBay futon sourced by buying from Walmart after sale, then recommends broadly importing retail websites. Material live-policy conflict: eBay explicitly allows wholesale-supplier dropshipping but does not allow listing then buying from another retailer/marketplace to ship directly to buyer. Official page read 2026-11-09: https://www.ebay.com/help/policies/selling-policies/drop-shipping-policy?id=4176 . Possible enforcement includes removal, warnings, restrictions or suspension. Software capability and sponsor relationship do not override this rule. No listings or retail orders created here.
+
+Creator makes no-results disclaimer, but describes nearly no-risk trial and unattended system without reconciled net results, workload logs or representative beginner outcomes. $5.28 cost/$16 selling price isn't net profit after shipping/platform/payment/tools/returns/tax/labor costs. Engagement/saturation/order scores aren't actual seller receipts or guaranteed demand. Trial renews to selected plan; research/AI add-ons explicitly extra. Exact current renewal total/terms not verified or approved.
+
+Default category, item specifics, shipping method, media and descriptions still need merchant factual/rights/condition/location review. Monitors can lag/fail, supplier price/stock changes and cancellations require contingency/support. Auto-ordering spends funds and transfers customer data, not authority-free convenience. Authorized wholesale agreement, delivery/accountability, return terms, privacy and cashflow remain. Marketplace traffic isn't guaranteed discovery. Repeating more listings adds quality/policy exposure. No scripture-print item evidence, no proven low-work income. Verdict unchanged.
