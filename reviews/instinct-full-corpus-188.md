@@ -8,8 +8,8 @@ Distinguishes merchant storefront/fulfillment model from royalty marketplaces Am
 
 Design ideation, original artwork/licenses, keywords, readable variants, print placement and policy compliance remain work. Application/signup isn't guaranteed approval, discovery eligibility or durable access. Historical$39Shopify/$1trial, platform ownership/traffic, free registration and royalty estimates unverified today. Claim Printful/Printify require Shopify overstates options even within corpus. No current platform recommendation made without official fee/eligibility/terms checks. Mature-content declaration must reflect actual art, not always choose no. User approval required for terms/accounts/publishing, not supplied by tutorial. Video-described upload isn't visual verification. Verdict unchanged.
 
-## fQZntbd5QGI - Shopify store setup guide
-Capture metadata has video ID rather than human title/creator; machine manifest attribution retained without guessing.602seconds; all8,329characters. https://www.youtube.com/watch?v=fQZntbd5QGI
+## fQZntbd5QGI - Shopify Tutorial For Beginners 2026 - Set up Your Store in 10 Minutes
+Machine manifest dates2023-08-01, pre-2025 background despite title2026; creator not established in capture metadata, so not inferred.602seconds; all8,329characters. https://www.youtube.com/watch?v=fQZntbd5QGI
 
 Ten-minute storefront tutorial: trial/theme, product fields/AI descriptions, collections/navigation, policy templates, payments/shipping/tax, domain, billing and launch. Manual setup demo, not evidence of demand, net profit, actual payment approval, fulfillment reliability or measured beginner completion time. No marketing/acquisition experiment or scripture-item research.
 
